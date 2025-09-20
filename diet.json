@@ -1,18 +1,18 @@
 {
-  "timezone": "Europe/Rome",
-  "days": [
-    {
-      "date": "2025-09-19",
-      "title": "≈ 800 kcal",
-      "lines": [
-        "Colazione — Uovo 1 (≈60 g) + Albume 1 (≈33 g) + Olio EVO 1 g — ≈ 112 kcal | P 11.2 g • C 0.8 g • F 7.0 g",
-        "Merenda (mattina) — Pesca 150 g (oppure: uva 85 g / banana 65 g / melone bianco 200 g ≈ stesse kcal) — ≈ 58.5 kcal | P 0.9 g • C 14.3 g • F 0.3 g • Fibra 2.3 g",
-        "Pranzo — Pasta di grano duro (cruda) 53 g + Olio EVO 3 g + Parmigiano 5 g — ≈ 237.8 kcal | P 8.2 g • C 39.8 g • F 5.2 g • Fibra 1.6 g",
-        "Merenda (pomeriggio) — Melone bianco 200 g (oppure: pesca 150 g / uva 110 g / banana 80 g) — ≈ 60 kcal | P 1.2 g • C 15.2 g • F 0 g • Fibra 1.6 g",
-        "Cena — Jocca (cottage cheese) 140 g + Pane di grano duro 38 g + Insalata + pomodori 200 g (aceto/limone, senza altro olio) + Olio EVO 6 g — ≈ 332.4 kcal | P 21.2 g • C 33.7 g • F 13.0 g • Fibra 3.4 g",
-        "Totale giornaliero — ≈ 800.7 kcal | P 42.7 g • C 103.7 g • F 25.7 g • Fibra 8.9 g"
-      ],
-      "notes": "Micronutrienti (stima): Calcio ~288 mg; Potassio ~1,582 mg; Vitamina C ~72 mg. Promemoria: bevi 1.5–2 L d'acqua; pesi a crudo."
-    }
-  ]
+"timezone": "Europe/Rome",
+"days": [
+{
+"date": "2025-09-20",
+"title": "≈ 800 kcal",
+"lines": [
+"Colazione — Uovo 1 (≈50 g edibile) + Albume 33 g + Olio EVO 1 g — ≈ 98 kcal | P 9.9 g • C 0.8 g • F 6.0 g",
+"Merenda (mattina) — Pesca 120 g (oppure: uva 68 g / banana 53 g / melone bianco 156 g ≈ stesse kcal) — ≈ 47 kcal | P 1.1 g • C 11.4 g • F 0.3 g • Fibra 1.8 g",
+"Pranzo — Pasta di grano duro (cruda) 52 g + Olio EVO 2 g + Parmigiano 6 g — ≈ 229 kcal | P 9.4 g • C 39.1 g • F 4.0 g • Fibra 1.9 g",
+"Merenda (pomeriggio) — Skyr vaniglia 75 g — ≈ 45 kcal | P 8.3 g • C 3.8 g • F 0.2 g • Ca ~90 mg",
+"Cena — Tonno al naturale (sgocciolato) 100 g + Pane di grano duro 50 g + Funghi champignon 200 g (crudi o trifolati senza olio extra) + Olio EVO 5 g + Melone bianco 150 g (oppure: pesca 115 g / uva 65 g / banana 51 g) — ≈ 385 kcal | P 37.6 g • C 46.0 g • F 7.4 g • Fibra 4.4 g",
+"Totale giornaliero — ≈ 804 kcal | P 66.3 g • C 101.1 g • F 17.9 g • Fibra 8.1 g"
+],
+"notes": "Micronutrienti (stima): Calcio ~270–320 mg; Potassio ~1,600–1,800 mg; Vitamina C ~40–45 mg; Sodio ~750–900 mg. Pesi a crudo; tonno peso sgocciolato; condisci funghi con aceto/limone; evita sale aggiunto."
+}
+]
 }
