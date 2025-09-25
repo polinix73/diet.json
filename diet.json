@@ -1,1 +1,18 @@
-{ "timezone": "Europe/Rome", "days": [ { "date": "2025-09-25", "title": "≈ 700 kcal", "lines": [ "Colazione — Uovo 1 (≈50 g edibile) + Albume 50 g + Olio EVO 1 g + Tazza di caffè solubile con dolcificante (≈0 kcal) — ≈ 107 kcal | P 11.8 g • C 1.0 g • F 6.0 g", "Merenda (mattina) — Melone bianco 140 g — ≈ 42 kcal | P 0.8 g • C 10.6 g • F 0.0 g • Fibra 1.1 g", "Pranzo — Pane di grano duro 68 g + Pomodori 30 g + Olio EVO 3 g — ≈ 217 kcal | P 6.4 g • C 38.8 g • F 4.4 g • Fibra 3.1 g", "Merenda (pomeriggio) — Skyr vaniglia 75 g — ≈ 45 kcal | P 8.3 g • C 3.8 g • F 0.2 g • Ca ~90 mg", "Cena — Jocca (cottage cheese) 200 g + Insalata 75 g + Pomodori 100 g + Carote 25 g + Olio EVO 5 g — ≈ 289 kcal | P 25.5 g • C 14.4 g • F 13.2 g • Fibra ~2.8 g", "Totale giornaliero — ≈ 700 kcal | P 52.8 g • C 68.6 g • F 23.8 g • Fibra ~7.0 g" ], "notes": "Carbo totali ≈ 68.6 g (≤ 110). No carbo serali rispettato. Sodio alimenti (stima) ≈ 950–1,100 mg → sale fino massimo nel bicchierino ≈ 2.5 g di NaCl per tutta la giornata (intervallo sicuro 2.3–2.7 g; 2.5 g sale ≈ 980 mg di sodio). Pesi a crudo; usa aceto/limone oltre all'olio indicato." } ] }
+{
+"timezone": "Europe/Rome",
+"days": [
+{
+"date": "2025-09-25",
+"title": "≈ 701 kcal",
+"lines": [
+"Colazione — Uovo 1 (≈50 g edibile) + Albume 50 g + Olio EVO 1 g + Tazza di caffè solubile con dolcificante (≈0 kcal) — ≈ 107 kcal | P 11.8 g • C 1.0 g • F 6.0 g",
+"Merenda (mattina) — Melone bianco 140 g — ≈ 42 kcal | P 0.8 g • C 10.6 g • F 0.0 g • Fibra 1.1 g",
+"Pranzo — Frisella integrale 65 g (351 kcal/100 g; sale 2.5 g/100 g) + Pomodori 30 g + Olio EVO 1 g — ≈ 242 kcal | P 5.9 g • C 47.9 g • F 1.9 g • Fibra ~3.0 g",
+"Merenda (pomeriggio) — Skyr vaniglia 75 g — ≈ 45 kcal | P 8.3 g • C 3.8 g • F 0.2 g • Ca ~90 mg",
+"Cena — Jocca (cottage cheese) 180 g + Insalata 75 g + Pomodori 100 g + Carote 25 g + Olio EVO 5 g — ≈ 265 kcal | P 23.5 g • C 14.0 g • F 12.4 g • Fibra ~2.8 g",
+"Totale giornaliero — ≈ 701 kcal | P 50.3 g • C 77.3 g • F 20.5 g • Fibra ~7.9 g"
+],
+"notes": "Controllo limiti: CHO totali ≈ 77 g (< 100 g) ✅. Stima sodio dagli alimenti ≈ 1,350–1,450 mg (frisella ≈ 640 mg, Jocca 180 g ≈ 520–620 mg, resto minimo). Sale aggiunto massimo per restare entro 2,000 mg Na: ≈ 1.4–1.7 g di NaCl totali nel bicchierino (≈ 1/4 cucchiaino raso), da distribuire su tutta la giornata. Olio EVO totale giornata: 7 g (≈63 kcal) — preparalo in anticipo così non sfori. Pesi a crudo; frisella secondo etichetta; usa aceto/limone oltre all’olio indicato."
+}
+]
+}
