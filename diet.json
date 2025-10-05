@@ -5,23 +5,23 @@
       "date": "2025-10-05",
       "title": "≈ 600 kcal — Proteine alte, grassi moderati",
       "lines": [
-        "Colazione — Uovo 1 (≈50 g) + Albume 70 g + Olio EVO 1 g — ≈117 kcal | P 14 g • C 1 g • F 8 g",
-        "Pranzo — Riso basmati 35 g + Grana 20 g + Olio EVO 5 g — ≈245 kcal | P 11 g • C 35 g • F 8 g",
-        "Merenda pomeriggio — Skyr vaniglia 75 g — ≈40 kcal | P 5 g • C 3 g • F 0 g",
-        "Cena — Tonno naturale Esselunga 120 g (drenato) + Insalata mista 200 g + Olio EVO 6 g — ≈198 kcal | P 26 g • C 2 g • F 8 g"
+        "Colazione — Uovo 1 (≈50 g) + Albume 70 g + Olio EVO 1 g — ≈118 kcal | P 13.9 g • C 0.8 g • F 5.1 g",
+        "Pranzo — Riso basmati 35 g + Grana Padano 15 g + Olio EVO 5 g — ≈240 kcal | P 9.5 g • C 33.5 g • F 8.2 g",
+        "Merenda — Skyr vaniglia 75 g — ≈40 kcal | P 5.0 g • C 3.0 g • F 0.0 g",
+        "Cena — Tonno naturale Esselunga 120 g (drenato) + Insalata mista 200 g + Olio EVO 4 g — ≈202 kcal | P 26.0 g • C 2.0 g • F 8.5 g"
       ],
       "totals": {
         "kcal": 600,
-        "protein_g": 56,
-        "carbs_g": 41,
-        "fat_g": 24
+        "protein_g": 54.4,
+        "carbs_g": 39.3,
+        "fat_g": 21.8
       },
       "hydration": {
         "water_ml": 3000,
-        "notes": "Normale idratazione"
+        "notes": "Idratazione normale (target 3.0 L)"
       },
       "sodium": {
-        "implicit_salt_g": 1.32,
+        "implicit_salt_g": 1.28,
         "added_salt_max_g": 3.7,
         "total_salt_max_g": 5.0,
         "distribution_suggestion": {
@@ -29,8 +29,13 @@
           "dinner_g": 2.5
         }
       },
-      "oil_evo_total_g": 12,
-      "notes": "Giornata di avvio protocollo. CHO <50 g. Peso atteso: ~55.3 kg (baseline)."
+      "oil_evo_total_g": 10,
+      "notes": "Giornata di avvio protocollo (Dom 5/10). CHO <50 g. Proteine alte, grassi moderati. Peso atteso: 55.3 kg (baseline)."
     }
-  ]
+  ],
+  "totals_summary": {
+    "total_oil_evo_g": 10,
+    "total_salt_g": 5.0,
+    "expected_weight_kg": 55.3
+  }
 }
