@@ -2,63 +2,49 @@
   "timezone": "Europe/Rome",
   "days": [
     {
-      "date": "2025-10-05",
-      "title": "≈ 600 kcal | P 54.4 g • C 39.3 g • F 21.8 g — Olio 10 g | Sale aggiungibile max 3.7 g | Peso atteso 55.3 kg — Proteine alte, grassi moderati (CHO <50 g, acqua 3000 ml)",
-      "lines": [
-        "Colazione — Uovo 1 (≈50 g) + Albume 70 g + Olio EVO 1 g — 118 kcal | P 13.9 g • C 0.8 g • F 6.1 g",
-        "Pranzo — Riso basmati 35 g + Grana Padano 15 g + Olio EVO 5 g — 240 kcal | P 9.5 g • C 33.5 g • F 8.2 g",
-        "Merenda — Skyr vaniglia 75 g — 40 kcal | P 5.0 g • C 3.0 g • F 0.0 g",
-        "Cena — Tonno naturale Esselunga 120 g (drenato) + Insalata mista 200 g + Olio EVO 4 g — 202 kcal | P 26.0 g • C 2.0 g • F 8.5 g",
-        "Totali — 600 kcal | P 54.4 g • C 39.3 g • F 21.8 g | Olio EVO 10 g | Sale max 5.0 g (implicito 1.28 g, aggiunto max 3.7 g) | Peso atteso 55.3 kg"
-      ],
-      "oil_evo_total_g": 10,
-      "salt_total_max_g": 5.0,
-      "expected_weight_kg": 55.3
-    },
-    {
       "date": "2025-10-06",
-      "title": "≈ 595 kcal | P 39.4 g • C 28.0 g • F 36.2 g — Olio 10 g | Sale aggiungibile max 4.23 g | Peso atteso 54.8 kg — Keto (<30 g CHO), acqua 3000 ml",
+      "title": "≈ 600 kcal | P 31.8 g • C 67.9 g • F 22.5 g — Olio 6 g | Sale aggiungibile max 3.81 g | Peso atteso 54.2 kg — CHO ≤70 g (no dopo le 16), acqua 2000 ml",
       "lines": [
         "Colazione — Uovo 1 (≈50 g) + Albume 70 g + Olio EVO 1 g — 118 kcal | P 13.9 g • C 0.8 g • F 6.1 g",
-        "Merenda mattina — Melone bianco 50 g — 18 kcal | P 0.2 g • C 4.5 g • F 0.0 g",
-        "Pranzo — Riso Carnaroli 15 g + Grana Padano 12 g + Olio EVO 5 g — 146 kcal | P 5.3 g • C 12.1 g • F 8.7 g",
+        "Merenda mattina — Melone bianco 200 g — 72 kcal | P 0.8 g • C 18.0 g • F 0.0 g",
+        "Pranzo — Riso Carnaroli 50 g + Grana Padano 6 g + Olio EVO 2 g — 207 kcal | P 2.7 g • C 40.3 g • F 3.8 g",
         "Merenda pomeriggio — Skyr vaniglia 75 g — 40 kcal | P 5.0 g • C 3.0 g • F 0.0 g",
-        "Cena — Ricotta Vallelata 150 g + Zucchine (crude) 120 g + Olio EVO 4 g — 273 kcal | P 15.0 g • C 7.6 g • F 21.4 g",
-        "Totali — 595 kcal | P 39.4 g • C 28.0 g • F 36.2 g | Olio EVO 10 g | Sale max 5.0 g (implicito 0.77 g, aggiunto max 4.23 g) | Peso atteso 54.8 kg"
+        "Cena — Ricotta Vallelata 80 g + Zucchine (crude) 120 g + Olio EVO 3 g — 163 kcal | P 9.4 g • C 5.8 g • F 12.5 g",
+        "Totali — 600 kcal | P 31.8 g • C 67.9 g • F 22.5 g | Olio EVO 6 g | Sale max 4.58 g (implicito 0.77 g, aggiunto max 3.81 g) | Peso atteso 54.2 kg"
       ],
-      "oil_evo_total_g": 10,
-      "salt_total_max_g": 5.0,
-      "expected_weight_kg": 54.8
+      "oil_evo_total_g": 6,
+      "salt_total_max_g": 4.58,
+      "expected_weight_kg": 54.2
     },
     {
       "date": "2025-10-07",
-      "title": "≈ 614 kcal | P 58.6 g • C 26.0 g • F 29.0 g — Olio 17 g | Sale aggiungibile max 4.53 g | Peso atteso 54.4 kg — Keto (<30 g CHO), acqua 3000 ml",
+      "title": "≈ 613 kcal | P 38.4 g • C 55.4 g • F 25.6 g — Olio 17 g | Sale aggiungibile max 3.35 g | Peso atteso 53.7 kg — CHO ≤60 g (no dopo le 16), acqua 2000 ml",
       "lines": [
         "Colazione — Uovo 1 (≈50 g) + Albume 70 g + Olio EVO 1 g — 118 kcal | P 13.9 g • C 0.8 g • F 6.1 g",
-        "Merenda mattina — Melone bianco 60 g — 22 kcal | P 0.3 g • C 5.4 g • F 0.1 g",
-        "Pranzo — Riso Carnaroli 15 g + Grana Padano 12 g + Olio EVO 5 g — 146 kcal | P 5.3 g • C 12.1 g • F 8.7 g",
+        "Merenda mattina — Melone bianco 120 g — 43 kcal | P 0.5 g • C 10.8 g • F 0.0 g",
+        "Pranzo — Riso Carnaroli 45 g + Grana Padano 6 g + Olio EVO 5 g — 217 kcal | P 2.7 g • C 36.3 g • F 6.8 g",
         "Merenda pomeriggio — Skyr vaniglia 75 g — 40 kcal | P 5.0 g • C 3.0 g • F 0.0 g",
-        "Cena — Petto di pollo 140 g (crudo) + Zucchine (crude) 150 g + Olio EVO 11 g — 288 kcal | P 34.1 g • C 4.7 g • F 14.1 g",
-        "Totali — 614 kcal | P 58.6 g • C 26.0 g • F 29.0 g | Olio EVO 17 g | Sale max 5.0 g (implicito 0.47 g, aggiunto max 4.53 g) | Peso atteso 54.4 kg"
+        "Cena — Petto di pollo 60 g (crudo) + Zucchine (crude) 150 g + Olio EVO 11 g — 195 kcal | P 16.4 g • C 4.5 g • F 12.6 g",
+        "Totali — 613 kcal | P 38.4 g • C 55.4 g • F 25.6 g | Olio EVO 17 g | Sale max 3.82 g (implicito 0.47 g, aggiunto max 3.35 g) | Peso atteso 53.7 kg"
       ],
       "oil_evo_total_g": 17,
-      "salt_total_max_g": 5.0,
-      "expected_weight_kg": 54.4
+      "salt_total_max_g": 3.82,
+      "expected_weight_kg": 53.7
     },
     {
       "date": "2025-10-08",
-      "title": "≈ 601 kcal | P 58.5 g • C 25.1 g • F 27.9 g — Olio 16 g | Sale aggiungibile max 4.43 g | Peso atteso 54.1 kg — Keto (<30 g CHO), acqua 3000 ml",
+      "title": "≈ 598 kcal | P 37.0 g • C 49.4 g • F 27.5 g — Olio 16 g | Sale aggiungibile max 2.31 g | Peso atteso 53.3 kg — CHO ≤50 g (no dopo le 16), acqua 2000 ml",
       "lines": [
         "Colazione — Uovo 1 (≈50 g) + Albume 70 g + Olio EVO 1 g — 118 kcal | P 13.9 g • C 0.8 g • F 6.1 g",
-        "Merenda mattina — Melone bianco 50 g — 18 kcal | P 0.2 g • C 4.5 g • F 0.0 g",
-        "Pranzo — Riso Carnaroli 15 g + Grana Padano 12 g + Olio EVO 5 g — 146 kcal | P 5.3 g • C 12.1 g • F 8.7 g",
+        "Merenda mattina — Melone bianco 90 g — 32 kcal | P 0.4 g • C 8.1 g • F 0.0 g",
+        "Pranzo — Riso Carnaroli 40 g + Grana Padano 6 g + Olio EVO 5 g — 201 kcal | P 2.7 g • C 32.3 g • F 6.8 g",
         "Merenda pomeriggio — Skyr vaniglia 75 g — 40 kcal | P 5.0 g • C 3.0 g • F 0.0 g",
-        "Cena — Petto di pollo 140 g (crudo) + Zucchine (crude) 150 g + Olio EVO 10 g — 279 kcal | P 34.1 g • C 4.7 g • F 13.1 g",
-        "Totali — 601 kcal | P 58.5 g • C 25.1 g • F 27.9 g | Olio EVO 16 g | Sale max 5.0 g (implicito 0.57 g, aggiunto max 4.43 g) | Peso atteso 54.1 kg"
+        "Cena — Jocca fiocchi di latte 110 g + Zucchine (crude) 60 g + Olio EVO 10 g — 207 kcal | P 15.0 g • C 5.2 g • F 14.6 g",
+        "Totali — 598 kcal | P 37.0 g • C 49.4 g • F 27.5 g | Olio EVO 16 g | Sale max 3.82 g (implicito 1.51 g, aggiunto max 2.31 g) | Peso atteso 53.3 kg"
       ],
       "oil_evo_total_g": 16,
-      "salt_total_max_g": 5.0,
-      "expected_weight_kg": 54.1
+      "salt_total_max_g": 3.82,
+      "expected_weight_kg": 53.3
     }
   ]
 }
