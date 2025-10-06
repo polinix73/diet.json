@@ -33,18 +33,18 @@
     },
     {
       "date": "2025-10-08",
-      "title": "≈ 598 kcal | P 37.0 g • C 49.4 g • F 27.5 g — Olio 16 g | Sale aggiungibile max 2.31 g | Peso atteso 53.3 kg — CHO ≤50 g (no dopo le 16), acqua 2000 ml",
+      "title": "≈ 598 kcal | P 37.0 g • C 49.4 g • F 27.5 g — Olio 16 g | Sale aggiungibile max 2.31 g | Peso atteso 53.2 kg — CHO ≤50 g (no dopo le 16), acqua 2000 ml",
       "lines": [
         "Colazione — Uovo 1 (≈50 g) + Albume 70 g + Olio EVO 1 g — 118 kcal | P 13.9 g • C 0.8 g • F 6.1 g",
         "Merenda mattina — Melone bianco 90 g — 32 kcal | P 0.4 g • C 8.1 g • F 0.0 g",
         "Pranzo — Riso Carnaroli 40 g + Grana Padano 6 g + Olio EVO 5 g — 201 kcal | P 2.7 g • C 32.3 g • F 6.8 g",
         "Merenda pomeriggio — Skyr vaniglia 75 g — 40 kcal | P 5.0 g • C 3.0 g • F 0.0 g",
-        "Cena — Jocca fiocchi di latte 110 g + Zucchine (crude) 60 g + Olio EVO 10 g — 207 kcal | P 15.0 g • C 5.2 g • F 14.6 g",
-        "Totali — 598 kcal | P 37.0 g • C 49.4 g • F 27.5 g | Olio EVO 16 g | Sale max 3.82 g (implicito 1.51 g, aggiunto max 2.31 g) | Peso atteso 53.3 kg"
+        "Cena — Jocca fiocchi di latte 110 g (Kraft) + Zucchine (crude) 60 g + Olio EVO 10 g — 207 kcal | P 15.0 g • C 5.2 g • F 14.6 g",
+        "Totali — 598 kcal | P 37.0 g • C 49.4 g • F 27.5 g | Olio EVO 16 g | Sale max 3.82 g (implicito 1.51 g, aggiunto max 2.31 g) | Peso atteso 53.2 kg"
       ],
       "oil_evo_total_g": 16,
       "salt_total_max_g": 3.82,
-      "expected_weight_kg": 53.3
+      "expected_weight_kg": 53.2
     }
   ]
 }
