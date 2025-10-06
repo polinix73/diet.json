@@ -5,17 +5,17 @@
       "date": "2025-10-06",
       "title": "≈ 600 kcal — Keto (<30 g CHO), proteine alte, grassi moderati",
       "lines": [
-        "Colazione — Uovo 1 (≈50 g) + Albume 70 g + Olio EVO 1 g — ≈118 kcal | P 13.9 g • C 0.8 g • F 5.1 g",
-        "Merenda mattina — Melone bianco 60 g — ≈22 kcal | P 0.3 g • C 5.4 g • F 0.1 g",
-        "Pranzo — Riso Carnaroli 15 g + Grana Padano 12 g + Olio EVO 5 g — ≈145 kcal | P 5.0 g • C 11.8 g • F 8.6 g",
+        "Colazione — Uovo 1 (≈50 g) + Albume 70 g + Olio EVO 1 g — ≈118 kcal | P 13.9 g • C 0.8 g • F 6.1 g",
+        "Merenda mattina — Melone bianco 50 g — ≈18 kcal | P 0.2 g • C 4.5 g • F 0.0 g",
+        "Pranzo — Riso Carnaroli 15 g + Grana Padano 12 g + Olio EVO 5 g — ≈146 kcal | P 5.3 g • C 12.1 g • F 8.7 g",
         "Merenda pomeriggio — Skyr vaniglia 75 g — ≈40 kcal | P 5.0 g • C 3.0 g • F 0.0 g",
-        "Cena — Ricotta Vallelata 150 g + Zucchine (crude) 120 g + Olio EVO 4 g — ≈275 kcal | P 14.6 g • C 9.0 g • F 20.7 g"
+        "Cena — Ricotta Vallelata 150 g + Zucchine (crude) 120 g + Olio EVO 4 g — ≈275 kcal | P 15.0 g • C 7.6 g • F 21.4 g"
       ],
       "totals": {
-        "kcal": 600,
-        "protein_g": 38.9,
-        "carbs_g": 30.0,
-        "fat_g": 34.4
+        "kcal": 595,
+        "protein_g": 39.4,
+        "carbs_g": 28.0,
+        "fat_g": 36.2
       },
       "hydration": {
         "water_ml": 3000,
@@ -32,23 +32,23 @@
       },
       "oil_evo_total_g": 10,
       "expected_weight_kg": 54.8,
-      "notes": "Fase keto. CHO <30 g centrato (≈29.97 g). Zucchine indicate a peso crudo."
+      "notes": "Fase keto. CHO <30 g rispettato (≈28 g). Zucchine a peso crudo."
     },
     {
       "date": "2025-10-07",
       "title": "≈ 600 kcal — Keto (<30 g CHO), proteine alte, grassi moderati",
       "lines": [
-        "Colazione — Uovo 1 (≈50 g) + Albume 70 g + Olio EVO 1 g — ≈118 kcal | P 13.9 g • C 0.8 g • F 5.1 g",
+        "Colazione — Uovo 1 (≈50 g) + Albume 70 g + Olio EVO 1 g — ≈118 kcal | P 13.9 g • C 0.8 g • F 6.1 g",
         "Merenda mattina — Melone bianco 60 g — ≈22 kcal | P 0.3 g • C 5.4 g • F 0.1 g",
-        "Pranzo — Riso Carnaroli 15 g + Grana Padano 12 g + Olio EVO 5 g — ≈145 kcal | P 5.0 g • C 11.8 g • F 8.6 g",
+        "Pranzo — Riso Carnaroli 15 g + Grana Padano 12 g + Olio EVO 5 g — ≈146 kcal | P 5.3 g • C 12.1 g • F 8.7 g",
         "Merenda pomeriggio — Skyr vaniglia 75 g — ≈40 kcal | P 5.0 g • C 3.0 g • F 0.0 g",
-        "Cena — Petto di pollo 140 g (crudo) + Zucchine (crude) 150 g + Olio EVO 11 g — ≈279 kcal | P 34.0 g • C 4.7 g • F 13.6 g"
+        "Cena — Petto di pollo 140 g (crudo) + Zucchine (crude) 150 g + Olio EVO 11 g — ≈288 kcal | P 34.1 g • C 4.7 g • F 14.1 g"
       ],
       "totals": {
-        "kcal": 603,
-        "protein_g": 58.2,
-        "carbs_g": 25.7,
-        "fat_g": 27.3
+        "kcal": 614,
+        "protein_g": 58.6,
+        "carbs_g": 26.0,
+        "fat_g": 29.0
       },
       "hydration": {
         "water_ml": 3000,
@@ -65,7 +65,7 @@
       },
       "oil_evo_total_g": 17,
       "expected_weight_kg": 54.4,
-      "notes": "Fase keto. CHO <30 g rispettato. Zucchine e pollo indicati a peso crudo."
+      "notes": "Fase keto. CHO <30 g rispettato. Zucchine e pollo a peso crudo."
     }
   ],
   "totals_summary": {
