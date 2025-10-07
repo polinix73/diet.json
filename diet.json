@@ -10,7 +10,7 @@
         "Pranzo — Riso Carnaroli 43 g + Grana Padano 6 g + Olio EVO 5 g — 211 kcal | P 2.7 g • C 34.7 g • F 6.8 g",
         "Merenda pomeriggio — Skyr vaniglia 75 g — 40 kcal | P 5.0 g • C 3.0 g • F 0.0 g",
         "Cena — Petto di pollo 60 g (crudo) + Funghi champignon 150 g (crudi) + Olio EVO 11 g — 202 kcal | P 19.3 g • C 5.0 g • F 12.6 g",
-        "Totali — 614 kcal | P 41.4 g • C 54.3 g • F 25.5 g | Olio EVO 17 g | Sale max 3.82 g (implicito 0.47 g, aggiunto max 3.35 g) | Peso atteso 54.2 kg"
+        "Totali — 614 kcal | P 41.4 g • C 54.3 g • F 25.5 g | Olio EVO 17 g | Sale max 3.82 g (implicito 0.47 g, aggiungibile max 3.35 g) | Peso atteso 54.2 kg"
       ],
       "oil_evo_total_g": 17,
       "salt_total_max_g": 3.82,
@@ -45,6 +45,21 @@
       "oil_evo_total_g": 11,
       "salt_total_max_g": 3.56,
       "expected_weight_kg": 53.7
+    },
+    {
+      "date": "2025-10-10",
+      "title": "≈ 600 kcal | P 51.0 g • C 37.2 g • F 26.2 g — Olio 17 g | Sale aggiungibile max ≈ 2.17 g | Peso atteso 53.5 kg — CHO ≤40 g (no dopo le 16), acqua 2000 ml",
+      "lines": [
+        "Colazione — Uovo 1 (≈50 g) + Albume 70 g + Olio EVO 1 g — 118 kcal | P 13.9 g • C 0.8 g • F 6.1 g",
+        "Merenda mattina — Melone bianco 50 g — 18 kcal | P 0.2 g • C 4.5 g • F 0.0 g",
+        "Pranzo — Riso Carnaroli 30 g + Grana Padano 6 g + Olio EVO 5 g — 169 kcal | P 2.7 g • C 24.2 g • F 6.8 g",
+        "Merenda pomeriggio — Skyr vaniglia 75 g — 40 kcal | P 5.0 g • C 3.0 g • F 0.0 g",
+        "Cena — Petto di pollo 120 g (crudo) + Zucchine (crude) 150 g + Olio EVO 11 g — 255 kcal | P 29.2 g • C 4.7 g • F 13.3 g",
+        "Totali — 600 kcal | P 51.0 g • C 37.2 g • F 26.2 g | Olio EVO 17 g | Sale max 3.05 g (implicito ≈ 0.88 g, aggiungibile max ≈ 2.17 g) | Peso atteso 53.5 kg"
+      ],
+      "oil_evo_total_g": 17,
+      "salt_total_max_g": 3.05,
+      "expected_weight_kg": 53.5
     }
   ]
 }
