@@ -2,21 +2,6 @@
   "timezone": "Europe/Rome",
   "days": [
     {
-      "date": "2025-10-10",
-      "title": "600 kcal | P 57.5 g | C 34.8 g | F 22.6 g - Olio 13 g | Sale aggiungibile max 2.25 g | Peso atteso 53.5 kg - CHO <=40 g (no dopo le 16), acqua 2.0 L",
-      "lines": [
-        "Colazione - Uovo 1 (50 g) + Albume 70 g + Olio EVO 1 g - 118 kcal | P 13.9 g | C 0.8 g | F 6.1 g",
-        "Merenda mattina - Melone bianco 50 g - 18 kcal | P 0.2 g | C 4.5 g | F 0.0 g",
-        "Pranzo - Riso Carnaroli 27 g + Grana Padano 6 g + Olio EVO 4 g - 158 kcal | P 2.7 g | C 21.8 g | F 5.9 g",
-        "Merenda pomeriggio - Skyr vaniglia 75 g - 40 kcal | P 5.0 g | C 3.0 g | F 0.0 g",
-        "Cena - Petto di pollo 160 g (crudo) + Zucchine 150 g (crude) + Olio EVO 8 g - 266 kcal | P 35.7 g | C 4.7 g | F 10.6 g",
-        "Totali - 600 kcal | P 57.5 g | C 34.8 g | F 22.6 g | Olio EVO 13 g | Sale max 3.05 g (implicito 0.80 g, aggiungibile max 2.25 g) | Peso atteso 53.5 kg"
-      ],
-      "oil_evo_total_g": 13,
-      "salt_total_max_g": 3.05,
-      "expected_weight_kg": 53.5
-    },
-    {
       "date": "2025-10-11",
       "title": "602 kcal | P 37.7 g | C 39.2 g | F 31.0 g - Olio 8 g | Sale aggiungibile max 1.28 g | Peso atteso 53.4 kg - CHO <=40 g (no dopo le 16), acqua 2.0 L",
       "lines": [
