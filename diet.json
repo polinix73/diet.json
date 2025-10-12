@@ -3,16 +3,16 @@
   "days": [
     {
       "date": "2025-10-13",
-      "title": "600 kcal | P 47.3 g | C 33.4 g | F 28.1 g - Olio 15 g | Sale aggiungibile max 0.10 g | Peso atteso 52.9 kg - CHO <=35 g (no sera), acqua 0.8 L",
+      "title": "602 kcal | P 41.3 g | C 33.4 g | F 32.1 g - Olio 9 g | Sale aggiungibile max 0.74 g | Peso atteso 52.9 kg - CHO <=35 g (no sera), acqua 0.8 L",
       "lines": [
         "Colazione - Uovo 1 (50 g) + Albume 70 g + Olio EVO 1 g - 118 kcal | P 13.9 g | C 0.8 g | F 6.1 g",
         "Merenda mattina - Skyr vaniglia 75 g - 40 kcal | P 5.0 g | C 3.0 g | F 0.0 g",
-        "Pranzo - Riso Carnaroli 21 g + Grana Padano 6 g + Olio EVO 5 g - 145 kcal | P 3.9 g | C 16.4 g | F 6.7 g",
+        "Pranzo - Riso Carnaroli 16 g + Grana Padano 6 g + Olio EVO 5 g - 123 kcal | P 2.7 g | C 12.9 g | F 6.8 g",
         "Merenda pomeriggio - Skyr vaniglia 75 g - 40 kcal | P 5.0 g | C 3.0 g | F 0.0 g",
-        "Cena - Jocca Kraft 150 g + Melanzane 150 g (crude) + Olio EVO 9 g - 257 kcal | P 19.5 g | C 10.2 g | F 15.2 g",
-        "Totali - 600 kcal | P 47.3 g | C 33.4 g | F 28.1 g | Olio EVO 15 g | Sale max 2.04 g (implicito 1.94 g, aggiungibile max 0.10 g) | Peso atteso 52.9 kg"
+        "Cena - Ricotta Vallelata 150 g + Melanzane 150 g (crude) + Olio EVO 3 g - 281 kcal | P 14.7 g | C 13.7 g | F 19.2 g",
+        "Totali - 602 kcal | P 41.3 g | C 33.4 g | F 32.1 g | Olio EVO 9 g | Sale max 2.04 g (implicito 1.30 g, aggiungibile max 0.74 g) | Peso atteso 52.9 kg"
       ],
-      "oil_evo_total_g": 15,
+      "oil_evo_total_g": 9,
       "salt_total_max_g": 2.04,
       "expected_weight_kg": 52.9
     },
