@@ -1,50 +1,65 @@
 {
-  "timezone": "Europe/Rome",
-  "days": [
+  "date": "2025-10-19",
+  "weights_are_raw": true,
+  "target_kcal": 1200,
+  "plan": [
     {
-      "date": "2025-10-14",
-      "title": "800 kcal | P 103.6 g | C 27.3 g | F 26.7 g - Olio 13 g | Sale aggiungibile max 0.99 g | Peso atteso 52.7 kg - CHO <=30 g (no sera), acqua 0.8 L",
-      "lines": [
-        "Colazione - Uovo 1 (50 g) + Albume 70 g + Olio EVO 1 g - 118 kcal | P 13.9 g | C 0.8 g | F 6.1 g",
-        "Merenda mattina - Skyr vaniglia 75 g - 40 kcal | P 5.0 g | C 3.0 g | F 0.0 g",
-        "Pranzo - Riso Carnaroli 16 g + Grana Padano 6 g + Olio EVO 4 g - 118 kcal | P 2.8 g | C 12.9 g | F 5.7 g",
-        "Merenda pomeriggio - Dessert proteico Esselunga cioccolato 125 g - 95 kcal | P 12.5 g | C 6.9 g | F 1.9 g",
-        "Cena - Petto di pollo 305 g (crudo) + Zucchine 120 g (crude) + Olio EVO 8 g - 429 kcal | P 69.4 g | C 3.7 g | F 13.0 g",
-        "Totali - 800 kcal | P 103.6 g | C 27.3 g | F 26.7 g | Olio EVO 13 g | Sale max 1.78 g (implicito 0.79 g, aggiungibile max 0.99 g) | Peso atteso 52.7 kg"
-      ],
-      "oil_evo_total_g": 13,
-      "salt_total_max_g": 1.78,
-      "expected_weight_kg": 52.7
+      "meal": "Colazione",
+      "items": [
+        { "food": "Uovo intero (crudo)", "weight_g": 60 },
+        { "food": "Albume d'uovo (crudo)", "weight_g": 120 },
+        { "food": "Pane cereali+soia (Mulino Bianco/Primia)", "weight_g": 25 }
+      ]
     },
     {
-      "date": "2025-10-15",
-      "title": "1000 kcal | P 132.2 g | C 21.7 g | F 37.3 g - Olio 13 g | Sale aggiungibile max 0.35 g | Peso atteso 52.5 kg - CHO <=30 g (no sera), acqua 0.8 L",
-      "lines": [
-        "Colazione - Uovo 1 (50 g) + Albume 70 g + Olio EVO 1 g - 118 kcal | P 13.9 g | C 0.8 g | F 6.1 g",
-        "Merenda mattina - Skyr vaniglia 75 g - 40 kcal | P 5.0 g | C 3.0 g | F 0.0 g",
-        "Pranzo - Grana Padano 6 g + Olio EVO 4 g + Petto di pollo 150 g (crudo) - 225 kcal | P 35.5 g | C 0.2 g | F 8.0 g",
-        "Merenda pomeriggio - Dessert proteico Esselunga cioccolato 200 g - 152 kcal | P 20.0 g | C 11.0 g | F 3.0 g",
-        "Cena - Petto di pollo 207 g (crudo) + Zucchine 150 g (crude) + Ricotta Vallelata 100 g + Olio EVO 8 g - 465 kcal | P 57.8 g | C 6.7 g | F 20.2 g",
-        "Totali - 1000 kcal | P 132.2 g | C 21.7 g | F 37.3 g | Olio EVO 13 g | Sale max 1.53 g (implicito ~1.18 g, aggiungibile max 0.35 g) | Peso atteso 52.5 kg"
-      ],
-      "oil_evo_total_g": 13,
-      "salt_total_max_g": 1.53,
-      "expected_weight_kg": 52.5
+      "meal": "Spuntino AM",
+      "items": [
+        { "food": "Skyr 0% (vaniglia/fragola)", "weight_g": 150 }
+      ]
     },
     {
-      "date": "2025-10-16",
-      "title": "1000 kcal | P 136.4 g | C 20.5 g | F 35.7 g - Olio 11 g | Sale aggiungibile max 0.33 g | Peso atteso 52.3 kg - CHO <=30 g (no sera), acqua 0.8 L (stop 18:00)",
-      "lines": [
-        "Colazione - Uovo 1 (50 g) + Albume 70 g + Olio EVO 1 g - 118 kcal | P 13.9 g | C 0.8 g | F 6.1 g",
-        "Merenda mattina - Skyr vaniglia 75 g - 40 kcal | P 5.0 g | C 3.0 g | F 0.0 g",
-        "Pranzo - Grana Padano 6 g + Olio EVO 3 g + Petto di pollo 150 g (crudo) + Ricotta Vallelata 100 g (niente riso) - 356 kcal | P 45.3 g | C 2.0 g | F 16.0 g",
-        "Merenda pomeriggio - Dessert proteico Esselunga cioccolato 200 g - 152 kcal | P 20.0 g | C 11.0 g | F 3.0 g",
-        "Cena - Petto di pollo 228 g (crudo) + Zucchine 120 g (crude) + Olio EVO 7 g - 334 kcal | P 52.2 g | C 3.7 g | F 10.6 g",
-        "Totali - 1000 kcal | P 136.4 g | C 20.5 g | F 35.7 g | Olio EVO 11 g | Sale max 1.53 g (implicito ~1.20 g, aggiungibile max 0.33 g) | Peso atteso 52.3 kg"
-      ],
-      "oil_evo_total_g": 11,
-      "salt_total_max_g": 1.53,
-      "expected_weight_kg": 52.3
+      "meal": "Pranzo",
+      "items": [
+        { "food": "Pasta di semola (secca)", "weight_g": 50 },
+        { "food": "Grana Padano", "weight_g": 8 },
+        { "food": "Olio extravergine d'oliva", "weight_g": 5 },
+        { "food": "Mela (polpa)", "weight_g": 150 }
+      ]
+    },
+    {
+      "meal": "Spuntino PM",
+      "items": [
+        { "food": "Dessert proteico cioccolato", "weight_g": 200 }
+      ]
+    },
+    {
+      "meal": "Cena",
+      "items": [
+        { "food": "Petto di pollo (crudo)", "weight_g": 110 },
+        { "food": "Verdure miste (insalata/zucchine/broccoli)", "weight_g": 300 },
+        { "food": "Olio extravergine d'oliva", "weight_g": 5 },
+        { "food": "Pane di semola (grano duro)", "weight_g": 18 },
+        { "food": "Mela (polpa)", "weight_g": 150 }
+      ]
     }
-  ]
+  ],
+  "totals": {
+    "energy_kcal": 1201.2,
+    "protein_g": 107.8,
+    "carbs_g": 133.3,
+    "fat_g": 27.4,
+    "fiber_g": 20.0,
+    "calcium_mg": 870.5,
+    "iron_mg": 7.7,
+    "potassium_mg": 2471.7,
+    "sodium_mg": 843.8
+  },
+  "macro_percent": {
+    "protein_pct": 35.9,
+    "carb_pct": 44.4,
+    "fat_pct": 20.5
+  },
+  "summary": {
+    "oil_evo_total_g": 10.0
+  }
 }
