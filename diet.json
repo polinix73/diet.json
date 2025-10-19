@@ -1,65 +1,19 @@
 {
-  "date": "2025-10-19",
-  "weights_are_raw": true,
-  "target_kcal": 1200,
-  "plan": [
+  "timezone": "Europe/Rome",
+  "days": [
     {
-      "meal": "Colazione",
-      "items": [
-        { "food": "Uovo intero (crudo)", "weight_g": 60 },
-        { "food": "Albume d'uovo (crudo)", "weight_g": 120 },
-        { "food": "Pane cereali+soia (Mulino Bianco/Primia)", "weight_g": 25 }
-      ]
-    },
-    {
-      "meal": "Spuntino AM",
-      "items": [
-        { "food": "Skyr 0% (vaniglia/fragola)", "weight_g": 150 }
-      ]
-    },
-    {
-      "meal": "Pranzo",
-      "items": [
-        { "food": "Pasta di semola (secca)", "weight_g": 50 },
-        { "food": "Grana Padano", "weight_g": 8 },
-        { "food": "Olio extravergine d'oliva", "weight_g": 5 },
-        { "food": "Mela (polpa)", "weight_g": 150 }
-      ]
-    },
-    {
-      "meal": "Spuntino PM",
-      "items": [
-        { "food": "Dessert proteico cioccolato", "weight_g": 200 }
-      ]
-    },
-    {
-      "meal": "Cena",
-      "items": [
-        { "food": "Petto di pollo (crudo)", "weight_g": 110 },
-        { "food": "Verdure miste (insalata/zucchine/broccoli)", "weight_g": 300 },
-        { "food": "Olio extravergine d'oliva", "weight_g": 5 },
-        { "food": "Pane di semola (grano duro)", "weight_g": 18 },
-        { "food": "Mela (polpa)", "weight_g": 150 }
-      ]
+      "date": "2025-10-19",
+      "title": "≈ 1201 kcal | P ≈ 107.8 g • C ≈ 133.3 g • F ≈ 27.4 g — Olio 10 g | Sale aggiungibile max ≈ 0.89 g",
+      "lines": [
+        "Colazione — Uovo 1 (≈60 g) + Albume 120 g + Pane cereali+soia (Mulino Bianco/Primia) 25 g — ≈208 kcal | P ≈22.9 g • C ≈12.8 g • F ≈6.8 g",
+        "Merenda mattina — Skyr 0% vaniglia/fragola 150 g — ≈94–95 kcal | P ≈16.5 g • C ≈6.0 g • F ≈0.3 g",
+        "Pranzo — Pasta di semola (secca) 50 g + Grana Padano 8 g + Olio EVO 5 g + Mela 150 g — ≈331 kcal | P ≈9.1 g • C ≈56.0 g • F ≈8.3 g",
+        "Merenda pomeriggio — Dessert proteico cioccolato Esselunga 200 g — ≈200 kcal | P ≈26.0 g • C ≈16.0 g • F ≈4.0 g",
+        "Cena — Petto di pollo 110 g (crudo) + Verdure miste 300 g + Olio EVO 5 g + Pane di semola (grano duro) 18 g + Mela 150 g — ≈368 kcal | P ≈33.4 g • C ≈42.5 g • F ≈8.0 g",
+        "Totali — ≈1201 kcal | P ≈107.8 g • C ≈133.3 g • F ≈27.4 g | Olio EVO 10 g | Sale max 3.00 g (implicito ≈2.11 g, aggiungibile max ≈0.89 g)"
+      ],
+      "oil_evo_total_g": 10,
+      "salt_total_max_g": 3.0
     }
-  ],
-  "totals": {
-    "energy_kcal": 1201.2,
-    "protein_g": 107.8,
-    "carbs_g": 133.3,
-    "fat_g": 27.4,
-    "fiber_g": 20.0,
-    "calcium_mg": 870.5,
-    "iron_mg": 7.7,
-    "potassium_mg": 2471.7,
-    "sodium_mg": 843.8
-  },
-  "macro_percent": {
-    "protein_pct": 35.9,
-    "carb_pct": 44.4,
-    "fat_pct": 20.5
-  },
-  "summary": {
-    "oil_evo_total_g": 10.0
-  }
+  ]
 }
