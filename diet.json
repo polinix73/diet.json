@@ -2,17 +2,17 @@
   "timezone": "Europe/Rome",
   "days": [
     {
-      "date": "2025-10-19",
-      "title": "≈ 1201 kcal | P ≈ 107.8 g • C ≈ 133.3 g • F ≈ 27.4 g — Olio 10 g | Sale aggiungibile max ≈ 0.89 g",
+      "date": "2025-10-21",
+      "title": "≈ 1205 kcal | P ≈ 90.0 g • C ≈ 126.2 g • F ≈ 39.5 g — Olio 8 g | Sale aggiungibile max ≈ 0.00 g",
       "lines": [
-        "Colazione — Uovo 1 (≈60 g) + Albume 120 g + Pane cereali+soia (Mulino Bianco/Primia) 25 g — ≈208 kcal | P ≈22.9 g • C ≈12.8 g • F ≈6.8 g",
-        "Merenda mattina — Skyr 0% vaniglia/fragola 150 g — ≈94–95 kcal | P ≈16.5 g • C ≈6.0 g • F ≈0.3 g",
-        "Pranzo — Pasta di semola (secca) 50 g + Grana Padano 8 g + Olio EVO 5 g + Mela 150 g — ≈331 kcal | P ≈9.1 g • C ≈56.0 g • F ≈8.3 g",
-        "Merenda pomeriggio — Dessert proteico cioccolato Esselunga 200 g — ≈200 kcal | P ≈26.0 g • C ≈16.0 g • F ≈4.0 g",
-        "Cena — Petto di pollo 110 g (crudo) + Verdure miste 300 g + Olio EVO 5 g + Pane di semola (grano duro) 18 g + Mela 150 g — ≈368 kcal | P ≈33.4 g • C ≈42.5 g • F ≈8.0 g",
-        "Totali — ≈1201 kcal | P ≈107.8 g • C ≈133.3 g • F ≈27.4 g | Olio EVO 10 g | Sale max 3.00 g (implicito ≈2.11 g, aggiungibile max ≈0.89 g)"
+        "Colazione — Uovo 1 (≈60 g) + Albume 120 g + Pane cereali+soia 25 g — ≈208 kcal | P ≈22.9 g • C ≈12.8 g • F ≈6.8 g",
+        "Merenda mattina — Skyr 0% vaniglia/fragola 150 g — ≈94 kcal | P ≈16.5 g • C ≈6.0 g • F ≈0.3 g",
+        "Pranzo — Pasta di semola 50 g + Grana Padano 8 g + Olio EVO 4 g + Mandarini 180 g — ≈339 kcal | P ≈10.1 g • C ≈58.4 g • F ≈7.5 g",
+        "Merenda pomeriggio — Mousse proteica Esselunga 150 g — ≈120 kcal | P ≈15.0 g • C ≈9.0 g • F ≈3.0 g",
+        "Cena — Mozzarella Granarolo 80 g + Prosciutto cotto Negroni 20 g + Verdure miste 300 g + Pane di semola 10 g + Olio EVO 4 g + Mela 150 g — ≈443 kcal | P ≈25.5 g • C ≈40.1 g • F ≈21.9 g",
+        "Totali — ≈1205 kcal | P ≈90.0 g • C ≈126.2 g • F ≈39.5 g | Olio EVO 8 g | Sale max 3.00 g (implicito ≈3.24 g, aggiungibile max ≈0.00 g)"
       ],
-      "oil_evo_total_g": 10,
+      "oil_evo_total_g": 8,
       "salt_total_max_g": 3.0
     }
   ]
