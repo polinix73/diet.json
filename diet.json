@@ -14,6 +14,34 @@
       ],
       "oil_evo_total_g": 8,
       "salt_total_max_g": 3.0
+    },
+    {
+      "date": "2025-10-22",
+      "title": "≈ 1199 kcal | P ≈ 99.0 g • C ≈ 137.0 g • F ≈ 30.1 g — Olio 10 g | Sale aggiungibile max ≈ 0.76 g",
+      "lines": [
+        "Colazione — Uovo 1 (≈60 g) + Albume 120 g + Pane cereali+soia 25 g — ≈208 kcal | P ≈22.9 g • C ≈12.8 g • F ≈6.8 g",
+        "Merenda mattina — Skyr 0% vaniglia/fragola 150 g — ≈94 kcal | P ≈16.5 g • C ≈6.0 g • F ≈0.3 g",
+        "Pranzo — Lenticchie secche 50 g + Pane di semola 20 g + Olio EVO 5 g + Mela 150 g — ≈353 kcal | P ≈14.8 g • C ≈61.6 g • F ≈6.4 g",
+        "Merenda pomeriggio — Mousse proteica Esselunga 150 g — ≈120 kcal | P ≈15.0 g • C ≈9.0 g • F ≈3.0 g",
+        "Cena — Filetti di salmone selvaggio Findus 120 g + Insalata mista 120 g + Pomodori 150 g + Pane di semola 20 g + Olio EVO 5 g + Banana 120 g — ≈424 kcal | P ≈29.9 g • C ≈47.6 g • F ≈13.6 g",
+        "Totali — ≈1199 kcal | P ≈99.0 g • C ≈137.0 g • F ≈30.1 g | Olio EVO 10 g | Sale max 3.00 g (implicito ≈2.24 g, aggiungibile max ≈0.76 g)"
+      ],
+      "oil_evo_total_g": 10,
+      "salt_total_max_g": 3.0
+    },
+    {
+      "date": "2025-10-23",
+      "title": "≈ 1242 kcal | P ≈ 124.0 g • C ≈ 124.4 g • F ≈ 27.6 g — Olio 10 g | Sale aggiungibile max ≈ 0.00 g",
+      "lines": [
+        "Colazione — Uovo 1 (≈60 g) + Albume 120 g + Pane cereali+soia 25 g — ≈208 kcal | P ≈22.9 g • C ≈12.8 g • F ≈6.8 g",
+        "Merenda mattina — Skyr 0% vaniglia/fragola 150 g — ≈94 kcal | P ≈16.5 g • C ≈6.0 g • F ≈0.3 g",
+        "Pranzo — Pasta di semola 60 g + Passata di pomodoro 150 g + Grana Padano 8 g + Olio EVO 5 g — ≈333 kcal | P ≈12.1 g • C ≈49.8 g • F ≈8.4 g",
+        "Merenda pomeriggio — Dessert proteico Esselunga 200 g — ≈200 kcal | P ≈26.0 g • C ≈16.0 g • F ≈4.0 g",
+        "Cena — Tonno naturale Esselunga (sgocciolato) 150 g + Funghi Portobello 250 g + Pane di semola 20 g + Olio EVO 5 g + Mela 150 g — ≈406 kcal | P ≈46.5 g • C ≈39.9 g • F ≈8.1 g",
+        "Totali — ≈1242 kcal | P ≈124.0 g • C ≈124.4 g • F ≈27.6 g | Olio EVO 10 g | Sale max 3.00 g (implicito ≈3.95 g, aggiungibile max ≈0.00 g)"
+      ],
+      "oil_evo_total_g": 10,
+      "salt_total_max_g": 3.0
     }
   ]
 }
