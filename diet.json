@@ -3,17 +3,17 @@
   "days": [
     {
       "date": "2025-10-21",
-      "title": "≈ 1500 kcal | P ≈ 108.4 g • C ≈ 166.4 g • F ≈ 46.5 g — Olio 5 g | Sale aggiungibile max ≈ 0.00 g",
+      "title": "≈ 1494 kcal | P ≈ 107.3 g • C ≈ 167.6 g • F ≈ 45.5 g — Olio 4 g | Sale aggiungibile max ≈ 0.00 g",
       "lines": [
         "Colazione — Uovo 1 (≈60 g) + Albume 120 g + Pane cereali+soia 25 g — ≈208 kcal | P ≈22.9 g • C ≈12.8 g • F ≈6.8 g",
         "Merenda mattina — Skyr 0% vaniglia/fragola 150 g — ≈94 kcal | P ≈16.5 g • C ≈6.0 g • F ≈0.3 g",
-        "Pranzo — Pasta di semola 70 g + Passata di pomodoro 200 g + Grana Padano 12 g + Olio EVO 3 g + Insalata mista 100 g + Pomodori 120 g + Mandarini 180 g — ≈515 kcal | P ≈19.1 g • C ≈90.5 g • F ≈8.8 g",
+        "Pranzo — Pasta di semola 70 g + Passata di pomodoro 200 g + Grana Padano 12 g + Olio EVO 3 g + Mandarini 180 g — ≈477 kcal | P ≈16.8 g • C ≈82.8 g • F ≈8.3 g",
         "Merenda pomeriggio — Mousse proteica Esselunga 200 g — ≈160 kcal | P ≈20.0 g • C ≈12.0 g • F ≈4.0 g",
-        "Cena — Mozzarella Granarolo 85 g + Prosciutto cotto Negroni 20 g + Pane di semola 5 g + Olio EVO 2 g + Verdure miste 300 g + Banana 120 g — ≈453 kcal | P ≈26.9 g • C ≈44.2 g • F ≈20.7 g",
+        "Cena — Mozzarella Granarolo 85 g + Prosciutto cotto Negroni 20 g + Pane di semola 20 g + Olio EVO 1 g + Verdure miste 300 g + Banana 120 g — ≈485 kcal | P ≈28.2 g • C ≈52.1 g • F ≈20.1 g",
         "Dopo cena — Arachidi sgusciate 12 g — ≈70 kcal | P ≈3.0 g • C ≈1.0 g • F ≈5.9 g",
-        "Totali — ≈1500 kcal | P ≈108.4 g • C ≈166.4 g • F ≈46.5 g | Olio EVO 5 g | Sale max 3.00 g (implicito alto: non aggiungere sale)"
+        "Totali — ≈1494 kcal | P ≈107.3 g • C ≈167.6 g • F ≈45.5 g | Olio EVO 4 g | Sale max 3.00 g (implicito ≈3.77 g, aggiungibile max ≈0.00 g)"
       ],
-      "oil_evo_total_g": 5,
+      "oil_evo_total_g": 4,
       "salt_total_max_g": 3.0
     },
     {
