@@ -3,60 +3,59 @@
   "days": [
     {
       "date": "2025-10-23",
-      "title": "1441 kcal | P 132.1 g, C 159.6 g, F 30.5 g - Olio 6 g | Sale aggiungibile max 0.00 g",
+      "title": "~ 1441 kcal | P ~ 132.1 g, C ~ 159.6 g, F ~ 30.5 g - Olio 6 g | Sale aggiungibile max ~ 0.00 g",
       "lines": [
-        "Colazione - Uovo 1 (60 g) + Albume 120 g + Pane cereali e soia 25 g - 208 kcal | P 22.9 g, C 12.8 g, F 6.8 g",
-        "Integrazione mattina (dopo colazione, 09:00) - Sargenor Plus effervescente 1 cpr - 0 kcal",
-        "Merenda mattina - Skyr 0% vaniglia o fragola 150 g - 94 kcal | P 16.5 g, C 6.0 g, F 0.3 g",
-        "Pranzo - Pasta di semola 80 g + Passata di pomodoro 200 g + Grana Padano 8 g + Olio EVO 3 g - 401 kcal | P 15.2 g, C 66.4 g, F 6.8 g",
-        "Integrazione pranzo (con il pasto, 13:30) - Acutil Fosforo 2 cpr - 0 kcal",
-        "Merenda pomeriggio - Dessert proteico Esselunga 200 g - 200 kcal | P 26.0 g, C 16.0 g, F 4.0 g",
-        "Integrazione merenda pomeriggio (prima allenamento) - Acutil Fosforo 2 cpr - 0 kcal",
-        "Cena - Tonno naturale Esselunga sgocciolato 150 g + Funghi Portobello 250 g + Pane di semola 40 g + Olio EVO 3 g + Mela 200 g - 404 kcal | P 52.4 g, C 66.9 g, F 5.3 g",
-        "Integrazione cena - WeightWorld Minerali e Vitamine 1 cpr - 0 kcal",
-        "Totali - 1441 kcal | P 132.1 g, C 159.6 g, F 30.5 g | Olio EVO 6 g | Sale max 3.00 g (implicito alto: non aggiungere sale)"
+        "Colazione - Uovo 1 (~60 g) + Albume 120 g + Pane cereali+soia 25 g - ~208 kcal | P ~22.9 g, C ~12.8 g, F ~6.8 g",
+        "Integrazione mattina (dopo colazione, ~09:00) - Sargenor Plus effervescente 1 cpr - ~0 kcal",
+        "Merenda mattina - Skyr 0% vaniglia/fragola 150 g - ~94 kcal | P ~16.5 g, C ~6.0 g, F ~0.3 g",
+        "Pranzo - Pasta di semola 80 g + Passata di pomodoro 200 g + Grana Padano 8 g + Olio EVO 3 g - ~401 kcal | P ~15.2 g, C ~66.4 g, F ~6.8 g",
+        "Integrazione pranzo (con il pasto, ~13:30) - Acutil Fosforo 2 cpr - ~0 kcal",
+        "Merenda pomeriggio - Dessert proteico Esselunga 200 g - ~200 kcal | P ~26.0 g, C ~16.0 g, F ~4.0 g",
+        "Integrazione merenda PM (prima dell'allenamento) - Acutil Fosforo 2 cpr - ~0 kcal",
+        "Cena - Tonno naturale Esselunga (sgocciolato) 150 g + Funghi Portobello 250 g + Pane di semola 40 g + Olio EVO 3 g + Mela 200 g - ~404 kcal | P ~52.4 g, C ~66.9 g, F ~5.3 g",
+        "Integrazione cena - WeightWorld Minerali e Vitamine 1 cpr - ~0 kcal",
+        "Totali - ~1441 kcal | P ~132.1 g, C ~159.6 g, F ~30.5 g | Olio EVO 6 g | Sale max 3.00 g (implicito alto: non aggiungere sale)"
       ],
       "oil_evo_total_g": 6,
       "salt_total_max_g": 3.0
     },
     {
       "date": "2025-10-24",
-      "title": "1497 kcal | P 89.7 g, C 183.4 g, F 44.9 g - Olio 2 g | Sale aggiungibile max 0.00 g (pizza)",
+      "title": "~ 1497 kcal | P ~ 89.7 g, C ~ 183.4 g, F ~ 44.9 g - Olio 2 g | Sale aggiungibile max ~ 0.00 g (pizza)",
       "lines": [
-        "Colazione - Uovo 1 (60 g) + Albume 40 g - 106 kcal | P 12.0 g, C 0.9 g, F 5.8 g",
-        "Merenda mattina - Skyr 0% vaniglia o fragola 150 g - 94 kcal | P 16.5 g, C 6.0 g, F 0.3 g",
-        "Integrazione mattina (dopo colazione, 09:30) - Sargenor Plus effervescente 1 cpr - 0 kcal",
-        "Pranzo - Petto di tacchino al naturale 80 g + Pomodori 150 g + Olio EVO 2 g - 182 kcal | P 26.9 g, C 9.8 g, F 3.7 g",
-        "Integrazione pranzo (con il pasto, 13:30) - Acutil Fosforo 2 cpr - 0 kcal",
-        "Merenda pomeriggio pre WO (16:45) - Banana 100 g - 89 kcal | P 1.1 g, C 23.0 g, F 0.3 g",
-        "Integrazione merenda pomeriggio (prima allenamento) - Acutil Fosforo 2 cpr - 0 kcal",
-        "Cena post WO (20:30) - Pizza margherita di pizzeria stima CREA alta - 1084 kcal | P 33.2 g, C 143.7 g, F 34.8 g",
-        "Integrazione cena - WeightWorld Minerali e Vitamine 1 cpr - 0 kcal",
-        "Totali - 1497 kcal | P 89.7 g, C 183.4 g, F 44.9 g | Olio EVO 2 g | Sale molto alto per la pizza: non aggiungere sale"
+        "Colazione - Uovo 1 (~60 g) + Albume 40 g - ~106 kcal | P ~12.0 g, C ~0.9 g, F ~5.8 g",
+        "Merenda mattina - Skyr 0% vaniglia/fragola 150 g - ~94 kcal | P ~16.5 g, C ~6.0 g, F ~0.3 g",
+        "Integrazione mattina (dopo colazione, ~09:30) - Sargenor Plus effervescente 1 cpr - ~0 kcal",
+        "Pranzo - Petto di tacchino al naturale 80 g + Pomodori 150 g + Olio EVO 2 g - ~182 kcal | P ~26.9 g, C ~9.8 g, F ~3.7 g",
+        "Integrazione pranzo (con il pasto, ~13:30) - Acutil Fosforo 2 cpr - ~0 kcal",
+        "Merenda pomeriggio (pre-WO, ~16:45) - Banana 100 g - ~89 kcal | P ~1.1 g, C ~23.0 g, F ~0.3 g",
+        "Integrazione merenda PM (prima dell'allenamento) - Acutil Fosforo 2 cpr - ~0 kcal",
+        "Cena (post-WO, ~20:30) - Pizza margherita (pizzeria, stima CREA alta) - ~1084 kcal | P ~33.2 g, C ~143.7 g, F ~34.8 g",
+        "Integrazione cena - WeightWorld Minerali e Vitamine 1 cpr - ~0 kcal",
+        "Totali - ~1497 kcal | P ~89.7 g, C ~183.4 g, F ~44.9 g | Olio EVO 2 g | Sale molto alto per la pizza: non aggiungere sale"
       ],
       "oil_evo_total_g": 2,
       "salt_total_max_g": 3.0
     },
     {
       "date": "2025-10-25",
-      "title": "1494 kcal | P 105.5 g, C 163.8 g, F 46.1 g - Olio 6 g | Sale aggiungibile max 0.00 g",
+      "title": "~ 1494 kcal | P ~ 105.5 g, C ~ 163.8 g, F ~ 46.1 g - Olio 6 g | Sale aggiungibile max ~ 0.00 g",
       "lines": [
-        "Colazione pre WO - Uovo 1 (60 g) + Albume 120 g + Pane cereali e soia 25 g - 208 kcal | P 22.9 g, C 12.8 g, F 6.8 g",
-        "Integrazione mattina (dopo colazione, 07:00) - Sargenor Plus effervescente 1 cpr - 0 kcal",
-        "Merenda mattina pre WO - Banana 100 g - 89 kcal | P 1.1 g, C 23.0 g, F 0.3 g",
-        "Post allenamento - Skyr 0% vaniglia o fragola 150 g - 94 kcal | P 16.5 g, C 6.0 g, F 0.3 g",
-        "Pranzo post WO - Pasta di semola 80 g + Passata di pomodoro 200 g + Grana Padano 8 g + Olio EVO 3 g - 401 kcal | P 15.2 g, C 66.4 g, F 6.8 g",
-        "Integrazione pranzo (con il pasto, 12:30) - Acutil Fosforo 2 cpr - 0 kcal",
-        "Merenda pomeriggio - Dessert proteico Esselunga 150 g - 120 kcal | P 15.0 g, C 9.0 g, F 3.0 g",
-        "Integrazione merenda pomeriggio - Acutil Fosforo 2 cpr - 0 kcal",
-        "Cena - Ricotta Vallelata 100 g + Zucchine crude per griglia 120 g + Pane di semola 30 g + Prosciutto cotto Negroni 90 g + Olio EVO 3 g + Mela 150 g - 512 kcal | P 31.7 g, C 44.7 g, F 23.0 g",
-        "Dopo cena - Arachidi sgusciate 12 g - 70 kcal | P 3.1 g, C 1.9 g, F 5.9 g",
-        "Integrazione giorni alterni - Ferro 1 cpr 2 h dopo cena; con acqua; evitare latte caffe te 60 min; vitamina C aiuta assorbimento - 0 kcal",
-        "Totali - 1494 kcal | P 105.5 g, C 163.8 g, F 46.1 g | Olio EVO 6 g | Sale max 3.00 g (implicito alto: non aggiungere sale)"
+        "Colazione (pre-WO) - Uovo 1 (~60 g) + Albume 120 g + Pane cereali+soia 25 g - ~208 kcal | P ~22.9 g, C ~12.8 g, F ~6.8 g",
+        "Integrazione mattina (dopo colazione, ~07:00) - Sargenor Plus effervescente 1 cpr - ~0 kcal",
+        "Merenda mattina (pre-WO) - Banana 100 g - ~89 kcal | P ~1.1 g, C ~23.0 g, F ~0.3 g",
+        "Post-allenamento - Skyr 0% vaniglia/fragola 150 g - ~94 kcal | P ~16.5 g, C ~6.0 g, F ~0.3 g",
+        "Pranzo (post-WO) - Pasta di semola 80 g + Passata di pomodoro 200 g + Grana Padano 8 g + Olio EVO 3 g - ~401 kcal | P ~15.2 g, C ~66.4 g, F ~6.8 g",
+        "Integrazione pranzo (con il pasto, ~12:30) - Acutil Fosforo 2 cpr - ~0 kcal",
+        "Merenda pomeriggio - Dessert proteico Esselunga 150 g - ~120 kcal | P ~15.0 g, C ~9.0 g, F ~3.0 g",
+        "Integrazione merenda PM - Acutil Fosforo 2 cpr - ~0 kcal",
+        "Cena - Ricotta Vallelata 100 g + Zucchine (crude, per griglia) 120 g + Pane di semola 30 g + Prosciutto cotto Negroni 90 g + Olio EVO 3 g + Mela 150 g - ~512 kcal | P ~31.7 g, C ~44.7 g, F ~23.0 g",
+        "Dopo cena - Arachidi sgusciate 12 g - ~70 kcal | P ~3.1 g, C ~1.9 g, F ~5.9 g",
+        "Integrazione (giorni alterni) - Ferro 1 cpr ~2 h dopo cena; con acqua; evita latte/caffe/te +-60 min; vitamina C aiuta l'assorbimento - ~0 kcal",
+        "Totali - ~1494 kcal | P ~105.5 g, C ~163.8 g, F ~46.1 g | Olio EVO 6 g | Sale max 3.00 g (implicito alto: non aggiungere sale)"
       ],
       "oil_evo_total_g": 6,
       "salt_total_max_g": 3.0
     }
   ]
 }
-```0
