@@ -1,1 +1,23 @@
-{ "timezone": "Europe/Rome", "days": [ { "date": "2025-11-02", "title": "≈ 1160 kcal | P ≈ 101 g • C ≈ 122 g • F ≈ 30 g — Olio 6 g | Sale aggiungibile max ≈ 1.20 g", "lines": [ "Colazione — Uovo 1 (≈60 g) + Albume AIA Aequilibrium 120 g + Pane cereali+soia 25 g — ≈208 kcal | P ≈22.9 g • C ≈12.8 g • F ≈6.8 g", "Integrazione mattina (dopo colazione) — Sargenor Plus effervescente 1 cpr — ≈0 kcal", "Merenda mattina — Skyr 0% fragola 150 g — ≈94 kcal | P ≈16.5 g • C ≈6.0 g • F ≈0.3 g", "Pranzo — Pasta di semola 100 g (crudi) + Cozze (edibile) 50 g + Olio EVO 3 g — ≈426 kcal | P ≈18.0 g • C ≈76.0 g • F ≈5.5 g", "Integrazione pranzo (con il pasto) — Acutil Fosforo 2 cpr — ≈0 kcal", "Merenda pomeriggio — Dessert proteico Esselunga 200 g — ≈200 kcal | P ≈26.0 g • C ≈16.0 g • F ≈4.0 g", "Integrazione merenda PM — Acutil Fosforo 2 cpr — ≈0 kcal", "Cena — Jocca 100 g + Zucchine 200 g (crude, griglia) + Olio EVO 3 g — ≈158 kcal | P ≈14.7 g • C ≈9.1 g • F ≈7.3 g", "Dopo cena — Arachidi sgusciate 12 g — ≈70 kcal | P ≈3.1 g • C ≈1.9 g • F ≈5.9 g", "Totali — ≈1160 kcal | P ≈101 g • C ≈122 g • F ≈30 g | Olio EVO 6 g | Sale max 3.00 g (implicito basso; aggiungibile max ≈1.20 g)" ], "oil_evo_total_g": 6, "salt_total_max_g": 3.0 } ] }
+{
+"timezone": "Europe/Rome",
+"days": [
+{
+"date": "2025-11-02",
+"title": "≈ 1192 kcal | P ≈ 103.0 g • C ≈ 128.0 g • F ≈ 31.0 g — Olio 6 g | Sale aggiungibile max ≈ 1.00 g",
+"lines": [
+"Colazione — Uovo 1 (≈60 g) + Albume AIA Aequilibrium 120 g + Pane cereali+soia 25 g — ≈208 kcal | P ≈22.9 g • C ≈12.8 g • F ≈6.8 g",
+"Integrazione mattina (dopo colazione) — Sargenor Plus effervescente 1 cpr — ≈0 kcal",
+"Merenda mattina — Skyr 0% fragola 150 g — ≈94 kcal | P ≈16.5 g • C ≈6.0 g • F ≈0.3 g",
+"Pranzo — Pasta di semola 80 g (crudi) + Cozze (edibile) 50 g + Olio EVO 3 g — ≈354 kcal | P ≈16.0 g • C ≈60.3 g • F ≈5.7 g",
+"Integrazione pranzo (con il pasto) — Acutil Fosforo 2 cpr — ≈0 kcal",
+"Merenda pomeriggio — Dessert proteico Esselunga 200 g — ≈200 kcal | P ≈26.0 g • C ≈16.0 g • F ≈4.0 g",
+"Integrazione merenda PM — Acutil Fosforo 2 cpr — ≈0 kcal",
+"Cena — Jocca 100 g + Zucchine 200 g (crude, griglia) + Pane di semola 40 g + Olio EVO 3 g — ≈266 kcal | P ≈18.1 g • C ≈31.1 g • F ≈7.9 g",
+"Dopo cena — Arachidi sgusciate 12 g — ≈70 kcal | P ≈3.1 g • C ≈1.9 g • F ≈5.9 g",
+"Totali — ≈1192 kcal | P ≈103.0 g • C ≈128.0 g • F ≈31.0 g | Olio EVO 6 g | Sale max 3.00 g (implicito basso; aggiungibile max ≈1.00 g)"
+],
+"oil_evo_total_g": 6,
+"salt_total_max_g": 3.0
+}
+]
+}
