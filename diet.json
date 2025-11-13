@@ -1,1 +1,136 @@
-{ "timezone": "Europe/Rome", "days": [ { "date": "2025-11-11", "title": "≈ 1280 kcal — Olio 6 g | Sale aggiungibile max ≈ 0.60 g", "lines": [ "Colazione — Uovo 1 (≈60 g) + Albume AIA Aequilibrium 120 g + Pane morbido ai 6 cereali Esselunga 25 g", "Merenda mattina — Kefir Milk alla fragola 150 g", "Pranzo — Minestrone Tradizione Leggero Findus 400 g + Pane grano duro 80 g + Olio EVO 3 g", "Merenda pomeriggio — Dessert proteico Esselunga 200 g", "Cena — Petto di pollo 200 g (crudo, piastra) + Insalata mista 120 g + Pane grano duro 50 g + Olio EVO 3 g + Ananas fresca 100 g", "Integrazione pranzo (con il pasto) — Nutravita Ca-Mg-Zn-D3 1 cpr", "Integrazione cena (giorni dispari) — WeightWorld Minerali e Vitamine 1 cpr con la cena", "Totali — ≈1280 kcal | Olio EVO 6 g | Sale aggiungibile max ≈0.60 g" ], "oil_evo_total_g": 6, "salt_total_max_g": 0.6 }, { "date": "2025-11-12", "title": "≈ 1170 kcal — Olio 5 g | Sale aggiungibile max ≈ 0.40 g", "lines": [ "Colazione (versione salmone) — Uovo sodo 1 (≈60 g) + Salmone affumicato Riunione 40 g + Pane morbido ai 6 cereali Esselunga 25 g", "Merenda mattina — Skyr 0% fragola 150 g", "Pranzo — Riso basmati 70 g (crudo) + Parmigiano Reggiano 5 g + Olio EVO 3 g + Mandarino 100 g", "Merenda pomeriggio — Yamamoto Ultra Whey WPC S Evo Gourmet Choco 30 g", "Cena — Tonno naturale Esselunga 120 g (sgocciolato) + Insalata mista 120 g + Pane grano duro 40 g + Olio EVO 2 g + Mela 120 g", "Dopo cena — Arachidi sgusciate 12 g", "Integrazione pranzo (con il pasto) — Nutravita Ca-Mg-Zn-D3 1 cpr", "Integrazione sera (giorni pari) — FarmaFer 1 cpr (≈30 mg ferro) ≈2 h dopo cena, prima di dormire; con acqua; evita latte/caffè/tè ±60 min", "Totali — ≈1170 kcal | Olio EVO 5 g | Sale aggiungibile max ≈0.40 g" ], "oil_evo_total_g": 5, "salt_total_max_g": 0.4 }, { "date": "2025-11-13", "title": "≈ 1290 kcal — Olio 6 g | Sale aggiungibile max ≈ 0.40 g", "lines": [ "Colazione (versione salmone) — Uovo sodo 1 (≈60 g) + Salmone affumicato Riunione 40 g + Pane morbido ai 6 cereali Esselunga 25 g", "Merenda mattina — Skyr 0% fragola 150 g", "Pranzo — Pasta di grano duro 70 g (crudo) + Fagioli lessi 120 g (peso da cotti) + Olio EVO 3 g + Mandarino 100 g", "Merenda pomeriggio — Yamamoto Ultra Whey WPC S Evo Gourmet Choco 30 g", "Cena — Jocca 150 g + Prosciutto crudo 25 g + Pane grano duro 45 g + Insalata mista 120 g + Olio EVO 3 g + Mela 120 g", "Integrazione pranzo (con il pasto) — Nutravita Ca-Mg-Zn-D3 1 cpr", "Integrazione cena (giorni dispari) — WeightWorld Minerali e Vitamine 1 cpr con la cena", "Totali — ≈1290 kcal | Olio EVO 6 g | Sale aggiungibile max ≈0.40 g" ], "oil_evo_total_g": 6, "salt_total_max_g": 0.4 } ] }
+{
+"timezone": "Europe/Rome",
+"days": [
+{
+"date": "2025-11-13",
+"title": "≈ 1290 kcal — Olio 6 g | Sale aggiungibile max ≈ 0.40 g",
+"lines": [
+"Colazione (versione salmone) — Uovo sodo 1 (≈60 g) + Salmone affumicato Riunione 40 g + Pane morbido ai 6 cereali Esselunga 25 g",
+"Merenda mattina — Skyr 0% fragola 150 g",
+"Pranzo — Pasta di grano duro 70 g (crudo) + Fagioli lessi 120 g (peso da cotti) + Olio EVO 3 g + Mandarino 100 g",
+"Merenda pomeriggio — Yamamoto Ultra Whey WPC S Evo Gourmet Choco 30 g",
+"Cena — Jocca 150 g + Prosciutto crudo 25 g + Pane grano duro 45 g + Insalata mista 120 g + Olio EVO 3 g + Mela 120 g",
+"Integrazione pranzo (con il pasto) — Nutravita Ca-Mg-Zn-D3 1 cpr",
+"Integrazione cena (giorni dispari) — WeightWorld Minerali e Vitamine 1 cpr con la cena",
+"Totali — ≈1290 kcal | Olio EVO 6 g | Sale aggiungibile max ≈0.40 g"
+],
+"oil_evo_total_g": 6,
+"salt_total_max_g": 0.4
+},
+{
+"date": "2025-11-14",
+"title": "≈ 1700 kcal — Olio 2 g | Sale aggiungibile max ≈ 0.00 g (giornata pizza)",
+"lines": [
+"Colazione — Uovo 1 (≈60 g) + Albume AIA Aequilibrium 100 g + Pane morbido ai 6 cereali Esselunga 10 g",
+"Merenda mattina — Skyr 0% fragola 150 g",
+"Pranzo — Fesa di tacchino 120 g (piastra) + Insalata mista 150 g + Olio EVO 2 g + Mela 100 g",
+"Cena — Pizza margherita (pizzeria, stima alta) ≈1200 kcal",
+"Integrazione pranzo (con il pasto) — Nutravita Ca-Mg-Zn-D3 1 cpr",
+"Integrazione sera (giorni pari) — FarmaFer 1 cpr (≈30 mg ferro) ~2 h dopo cena; con acqua; evita latte/caffè/tè ±60 min",
+"Totali — ≈1700 kcal | Olio EVO 2 g | Sale aggiungibile max ≈0.00 g"
+],
+"oil_evo_total_g": 2,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2025-11-15",
+"title": "≈ 1315 kcal — Olio 6 g | Sale aggiungibile max ≈ 0.70 g (pane senza sale ai pasti)",
+"lines": [
+"Colazione (versione salmone) — Uovo sodo 1 (≈60 g) + Salmone affumicato Riunione 40 g + Pane morbido ai 6 cereali Esselunga 25 g",
+"Merenda mattina — Skyr 0% fragola 150 g",
+"Pranzo — Pasta di grano duro 75 g (crudo) + Passata di pomodoro + Parmigiano Reggiano 5 g + Olio EVO 3 g + Mandarino 100 g",
+"Merenda pomeriggio — Yamamoto Ultra Whey WPC S Evo Gourmet Choco 30 g",
+"Cena — Petto di pollo 160 g (piastra) + Zucchine grigliate 150 g (peso a crudo) + Pane grano duro senza sale 40 g + Olio EVO 3 g + Mela 120 g",
+"Dopo cena — Arachidi sgusciate 10 g",
+"Integrazione pranzo (con il pasto) — Nutravita Ca-Mg-Zn-D3 1 cpr",
+"Integrazione cena (giorni dispari) — WeightWorld Minerali e Vitamine 1 cpr con la cena",
+"Totali — ≈1315 kcal | Olio EVO 6 g | Sale aggiungibile max ≈0.70 g"
+],
+"oil_evo_total_g": 6,
+"salt_total_max_g": 0.7
+},
+{
+"date": "2025-11-16",
+"title": "≈ 1330 kcal — Olio 6 g | Sale aggiungibile max ≈ 0.00 g (niente sale a tavola)",
+"lines": [
+"Colazione — Uovo 1 (≈60 g) + Albume AIA Aequilibrium 120 g + Pane morbido ai 6 cereali Esselunga 25 g",
+"Merenda mattina — Kefir Milk alla fragola 150 g",
+"Pranzo — Riso basmati 70 g (crudo) + Olio EVO 3 g + Mandarino 100 g",
+"Merenda pomeriggio — Yamamoto Ultra Whey WPC S Evo Gourmet Choco 30 g",
+"Cena — Sovracosce di pollo 260 g (peso a crudo, senza pelle) + Patate al forno 160 g (peso a crudo) + Pane grano duro senza sale 30 g + Olio EVO 3 g + Mela 120 g",
+"Integrazione pranzo (con il pasto) — Nutravita Ca-Mg-Zn-D3 1 cpr",
+"Integrazione sera (giorni pari) — FarmaFer 1 cpr (≈30 mg ferro) ~2 h dopo cena",
+"Totali — ≈1330 kcal | Olio EVO 6 g | Sale aggiungibile max ≈0.00 g"
+],
+"oil_evo_total_g": 6,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2025-11-17",
+"title": "≈ 1400 kcal — Olio 6 g | Sale aggiungibile max ≈ 0.40 g",
+"lines": [
+"Colazione (versione salmone) — Uovo sodo 1 (≈60 g) + Salmone affumicato Riunione 40 g + Pane morbido ai 6 cereali Esselunga 25 g",
+"Merenda mattina — Skyr 0% fragola 150 g",
+"Pranzo — Pasta di grano duro 75 g (crudo) + Passata di pomodoro + Olio EVO 3 g + Mandarino 100 g",
+"Merenda pomeriggio — Dessert proteico Esselunga 200 g",
+"Cena — Filetti di salmone selvaggio Findus 110 g + Insalata mista 120 g + Pane grano duro senza sale 40 g + Olio EVO 3 g + Mela 120 g",
+"Dopo cena — Arachidi sgusciate 10 g",
+"Integrazione pranzo (con il pasto) — Nutravita Ca-Mg-Zn-D3 1 cpr",
+"Integrazione cena (giorni dispari) — WeightWorld Minerali e Vitamine 1 cpr con la cena",
+"Totali — ≈1400 kcal | Olio EVO 6 g | Sale aggiungibile max ≈0.40 g"
+],
+"oil_evo_total_g": 6,
+"salt_total_max_g": 0.4
+},
+{
+"date": "2025-11-18",
+"title": "≈ 1300 kcal — Olio 6 g | Sale aggiungibile max ≈ 0.40 g (basso residuo)",
+"lines": [
+"Colazione — Uovo 1 (≈60 g) + Albume AIA Aequilibrium 120 g + Pane morbido ai 6 cereali Esselunga 25 g",
+"Merenda mattina — Skyr 0% fragola 150 g",
+"Pranzo — Riso basmati 80 g (crudo) + Olio EVO 3 g + Mandarino 100 g",
+"Merenda pomeriggio — Yamamoto Ultra Whey WPC S Evo Gourmet Choco 30 g",
+"Cena — Ricotta Vallelata 150 g + Carote 170 g (cotte) + Pane grano duro senza sale 40 g + Olio EVO 3 g + Mela 120 g",
+"Integrazione pranzo (con il pasto) — Nutravita Ca-Mg-Zn-D3 1 cpr",
+"Integrazione sera (giorni pari) — FarmaFer 1 cpr (≈30 mg ferro) ~2 h dopo cena",
+"Totali — ≈1300 kcal | Olio EVO 6 g | Sale aggiungibile max ≈0.40 g"
+],
+"oil_evo_total_g": 6,
+"salt_total_max_g": 0.4
+},
+{
+"date": "2025-11-19",
+"title": "≈ 1265 kcal — Olio 5 g | Sale aggiungibile max ≈ 0.30 g (pane limitato)",
+"lines": [
+"Colazione (versione salmone) — Uovo sodo 1 (≈60 g) + Salmone affumicato Riunione 40 g + Pane morbido ai 6 cereali Esselunga 20 g",
+"Merenda mattina — Skyr 0% fragola 150 g",
+"Pranzo — Riso basmati 70 g (crudo) + Olio EVO 3 g + Mandarino 100 g",
+"Merenda pomeriggio — Dessert proteico Esselunga 200 g",
+"Cena — Petto di pollo 180 g (piastra) + Zucchine grigliate 150 g (peso a crudo) + Pane grano duro senza sale 25 g + Olio EVO 2 g + Mela 120 g",
+"Dopo cena — Arachidi sgusciate 10 g",
+"Integrazione pranzo (con il pasto) — Nutravita Ca-Mg-Zn-D3 1 cpr",
+"Integrazione cena (giorni dispari) — WeightWorld Minerali e Vitamine 1 cpr con la cena",
+"Totali — ≈1265 kcal | Olio EVO 5 g | Sale aggiungibile max ≈0.30 g"
+],
+"oil_evo_total_g": 5,
+"salt_total_max_g": 0.3
+},
+{
+"date": "2025-11-20",
+"title": "≈ 1200–1210 kcal — Olio 4 g | Sale aggiungibile max ≈ 0.20 g (cena presto e leggera)",
+"lines": [
+"Colazione — Uovo 1 (≈60 g) + Albume AIA Aequilibrium 120 g + Pane morbido ai 6 cereali Esselunga 20 g",
+"Merenda mattina — Kefir Milk alla fragola 150 g",
+"Pranzo — Pasta di grano duro 65 g (crudo) + Passata di pomodoro + Olio EVO 3 g",
+"Merenda pomeriggio — Yamamoto Ultra Whey WPC S Evo Gourmet Choco 30 g",
+"Cena (presto, ~19:00) — Ricotta Vallelata 150 g + Zucchine grigliate 150 g (peso a crudo) + Pane grano duro senza sale 30 g + Olio EVO 1 g + Mela 120 g",
+"Dopo cena — Arachidi sgusciate 10 g",
+"Integrazione pranzo (con il pasto) — Nutravita Ca-Mg-Zn-D3 1 cpr",
+"Integrazione sera (giorni pari) — FarmaFer 1 cpr (≈30 mg ferro) ~2 h dopo cena",
+"Totali — ≈1200–1210 kcal | Olio EVO 4 g | Sale aggiungibile max ≈0.20 g"
+],
+"oil_evo_total_g": 4,
+"salt_total_max_g": 0.2
+}
+]
+}
