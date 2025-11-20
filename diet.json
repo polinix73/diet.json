@@ -1,1 +1,38 @@
-{ "timezone": "Europe/Rome", "days": [ { "date": "2025-11-19", "title": "~1300 kcal - Olio 5 g | Sale aggiungibile max ~0.30 g | CHO tutti entro le 16:00 | zero verdure a cena | Acqua ~1.4 L", "lines": [ "Colazione - Uovo 1 (~60 g) + Albume AIA Aequilibrium 120 g + Pane morbido ai 6 cereali Esselunga 20 g", "Merenda mattina - Danone Skyr albicocca 150 g", "Pranzo - Patate 92 g (crude, lesse) + Zucchine grigliate 150 g (peso a crudo) + Pane senza sale 25 g + Mandarino 100 g + Olio EVO 2 g + Petto di pollo 100 g (piastra, senza sale)", "Merenda pomeriggio (<=16:00) - Yamamoto Ultra Whey WPC S Evo Gourmet Choco 30 g (in acqua)", "Cena - Petto di pollo 250 g (piastra, senza sale; zero verdure) + Olio EVO 3 g", "Integrazione pranzo (con il pasto) - Nutravita Ca-Mg-Zn-D3 1 cpr", "Integrazione cena (giorni dispari) - WeightWorld Minerali e Vitamine 1 cpr con la cena", "Totali - ~1300 kcal | Olio EVO 5 g | Sale aggiungibile max ~0.30 g" ], "oil_evo_total_g": 5, "salt_total_max_g": 0.3 }, { "date": "2025-11-20", "title": "~1300 kcal - Olio 6 g | Sale aggiungibile max ~0.20 g | CHO <=16:00 | zero verdure a cena | Acqua 0.9-1.2 L (stop 18:00-19:00)", "lines": [ "Colazione - Uovo 1 (~60 g) + Albume AIA Aequilibrium 120 g + Pane morbido ai 6 cereali Esselunga 20 g", "Merenda mattina - Danone Skyr albicocca 150 g", "Pranzo - Patate 70 g (crude, lesse) + Passata di pomodoro 120 g + Jocca Fiocchi Cremosi 135 g + Olio EVO 3 g", "Merenda pomeriggio (<=16:00) - Yamamoto Ultra Whey WPC S Evo Gourmet Choco 30 g (in acqua)", "Cena - Petto di pollo 300 g (piastra, senza sale; zero verdure) + Olio EVO 3 g", "Integrazione pranzo (con il pasto) - Nutravita Ca-Mg-Zn-D3 1 cpr", "Integrazione sera (giorni pari) - FarmaFer 1 cpr (~30 mg ferro) ~2 h dopo cena", "Totali - ~1300 kcal | Olio EVO 6 g | Sale aggiungibile max ~0.20 g" ], "oil_evo_total_g": 6, "salt_total_max_g": 0.2 }, { "date": "2025-11-21", "title": "~1300 kcal - Olio 5 g | Sale aggiungibile max ~0.20 g | cena portatile (zero CHO e verdure) | Acqua 0.8-1.0 L (stop ~18:00)", "lines": [ "Colazione - Uovo 1 (~60 g) + Albume AIA Aequilibrium 120 g + Pane morbido ai 6 cereali Esselunga 20 g", "Merenda mattina - Danone Skyr albicocca 150 g", "Pranzo - Patate 50 g (crude, lesse) + Olio EVO 2 g", "Merenda pomeriggio (<=16:00) - Yamamoto Ultra Whey WPC S Evo Gourmet Choco 30 g (in acqua)", "Mini snack (<=16:00) - Noci californiane sgusciate 6 g (non salate)", "Cena (to-go) - Petto di pollo 285 g (piastra, senza sale; zero verdure) + Olio EVO 3 g", "Integrazione pranzo (con il pasto) - Nutravita Ca-Mg-Zn-D3 1 cpr", "Integrazione cena (giorni dispari) - WeightWorld Minerali e Vitamine 1 cpr con la cena", "Totali - ~1300 kcal | Olio EVO 5 g | Sale aggiungibile max ~0.20 g" ], "oil_evo_total_g": 5, "salt_total_max_g": 0.2 } ] }
+{
+"timezone": "Europe/Rome",
+"days": [
+{
+"date": "2025-11-20",
+"title": "~1300 kcal - Olio 6 g | Sale aggiungibile max ~0.20 g | Na <=0.9 g | CHO 30-35 g entro 16:00 | zero verdure a cena | Acqua 0.9-1.2 L (stop 18:00-19:00)",
+"lines": [
+"Colazione - Uovo 1 (~60 g) + Albume AIA Aequilibrium 120 g + Pane morbido ai 6 cereali Esselunga 20 g",
+"Merenda mattina - Danone Skyr albicocca 150 g",
+"Pranzo - Patate 70 g (crude, lesse) + Jocca Fiocchi Cremosi 135 g + Olio EVO 3 g",
+"Merenda pomeriggio (<=16:00) - Yamamoto Ultra Whey WPC S Evo Gourmet Choco 30 g (in acqua)",
+"Cena - Petto di pollo 300 g (piastra, senza sale; zero verdure) + Olio EVO 3 g",
+"Integrazione pranzo (con il pasto) - Nutravita Ca-Mg-Zn-D3 1 cpr",
+"Integrazione sera (giorni pari) - FarmaFer 1 cpr (~30 mg ferro) ~2 h dopo cena",
+"Totali - ~1300 kcal | Olio EVO 6 g | Sale aggiungibile max ~0.20 g | CHO tutti entro le 16:00"
+],
+"oil_evo_total_g": 6,
+"salt_total_max_g": 0.2
+},
+{
+"date": "2025-11-21",
+"title": "~1300 kcal - Olio 5 g | Sale aggiungibile max ~0.20 g | Na 0.8-0.9 g | CHO 20-25 g entro 15:00 | cena portatile (zero CHO e verdure) | Acqua 0.8-1.0 L (stop ~18:00)",
+"lines": [
+"Colazione - Uovo 1 (~60 g) + Albume AIA Aequilibrium 120 g + Pane morbido ai 6 cereali Esselunga 15 g",
+"Merenda mattina - Danone Skyr albicocca 150 g",
+"Pranzo - Patate 40 g (crude, lesse) + Olio EVO 2 g",
+"Mini snack (<=14:30) - Noci californiane sgusciate 6 g (non salate)",
+"Merenda pomeriggio (<=14:30) - Yamamoto Ultra Whey WPC S Evo Gourmet Choco 30 g (in acqua)",
+"Cena (to-go) - Petto di pollo 285 g (piastra, senza sale; zero verdure) + Olio EVO 3 g",
+"Integrazione pranzo (con il pasto) - Nutravita Ca-Mg-Zn-D3 1 cpr",
+"Integrazione cena (giorni dispari) - WeightWorld Minerali e Vitamine 1 cpr con la cena",
+"Totali - ~1300 kcal | Olio EVO 5 g | Sale aggiungibile max ~0.20 g | CHO tutti entro le 15:00"
+],
+"oil_evo_total_g": 5,
+"salt_total_max_g": 0.2
+}
+]
+}
