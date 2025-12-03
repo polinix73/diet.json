@@ -1,1 +1,53 @@
-{ "timezone": "Europe/Rome", "days": [ { "date": "2025-12-01", "title": "1300 kcal - Olio 6 g | Sale aggiungibile max 1.20 g | Acqua 1.8 L", "lines": [ "Colazione - Uovo 1 (60 g) + Albume AIA Aequilibrium 120 g + Pane morbido ai 6 cereali Esselunga 25 g", "Merenda mattina - Skyr alla frutta 150 g", "Pranzo - Pasta di grano duro 90 g (crudo) + Parmigiano Reggiano 8 g + Olio EVO 3 g + Mela 150 g", "Merenda pomeriggio - Dessert proteico Esselunga 200 g", "Cena - Fesa di tacchino 230 g (piastra) + Insalata mista 150 g + Olio EVO 3 g", "Integrazione pranzo - Nutravita Ca-Mg-Zn-D3 1 cpr", "Integrazione cena (giorni dispari) - WeightWorld Minerali e Vitamine 1 cpr con la cena", "Totali - 1300 kcal | Olio EVO 6 g | No carbo a cena" ], "oil_evo_total_g": 6, "salt_total_max_g": 1.20 }, { "date": "2025-12-02", "title": "1300 kcal - Olio 6 g | Sale aggiungibile max 1.10 g | Acqua 1.8 L", "lines": [ "Colazione - Uovo 1 (60 g) + Albume AIA Aequilibrium 120 g + Pane morbido ai 6 cereali Esselunga 25 g", "Merenda mattina - Skyr alla frutta 150 g", "Pranzo - Riso basmati 80 g (crudo) + Parmigiano Reggiano 8 g + Olio EVO 3 g + Mandarini 150 g", "Merenda pomeriggio - Dessert proteico Esselunga 200 g", "Cena - Exquisa Fitline HighPro fiocchi di latte con yogurt 1 vaschetta (175 g) + Prosciutto cotto Negroni 40 g + Zucchine 200 g (griglia, peso a crudo) + Olio EVO 3 g", "Integrazione pranzo - Nutravita Ca-Mg-Zn-D3 1 cpr", "Integrazione sera (giorni pari) - FarmaFer 1 cpr circa 2 h dopo cena, prima di dormire", "Totali - 1300 kcal | Olio EVO 6 g | No carbo a cena" ], "oil_evo_total_g": 6, "salt_total_max_g": 1.10 }, { "date": "2025-12-03", "title": "1300 kcal - Olio 6 g | Sale aggiungibile max 1.00 g | Acqua 1.6-1.8 L (D-3)", "lines": [ "Colazione - Uovo 1 (60 g) + Albume AIA Aequilibrium 120 g + Pane morbido ai 6 cereali Esselunga 20 g", "Merenda mattina - Skyr alla frutta 150 g", "Pranzo - Pasta di grano duro 55 g (crudo) + Passata di pomodoro + Parmigiano Reggiano 6 g + Olio EVO 3 g + Mela 100 g", "Merenda pomeriggio - Yamamoto Ultra Whey WPC S Evo 30 g in acqua", "Cena - Petto di pollo 300 g (piastra) + Melanzane 200 g (griglia, peso a crudo) + Olio EVO 3 g", "Integrazione pranzo - Nutravita Ca-Mg-Zn-D3 1 cpr", "Integrazione cena (giorni dispari) - WeightWorld Minerali e Vitamine 1 cpr con la cena", "Totali - 1300 kcal | Olio EVO 6 g | No carbo a cena | Non aggiungere sale" ], "oil_evo_total_g": 6, "salt_total_max_g": 1.00 }, { "date": "2025-12-04", "title": "1300 kcal - Olio 6 g | Sale aggiungibile max 0.90 g | Acqua 1.2-1.4 L stop 18:00-19:00 (D-2)", "lines": [ "Colazione - Uovo 1 (60 g) + Albume AIA Aequilibrium 120 g + Pane morbido ai 6 cereali Esselunga 15 g", "Merenda mattina - Yamamoto Ultra Whey WPC S Evo 30 g in acqua", "Pranzo - Pasta di grano duro 35 g (crudo) + Passata di pomodoro + Parmigiano Reggiano 6 g + Olio EVO 3 g + Mela 100 g", "Merenda pomeriggio - Yogurt greco bianco 150 g", "Cena - Fesa di tacchino 400 g (piastra) + Olio EVO 3 g", "Integrazione pranzo - Nutravita Ca-Mg-Zn-D3 1 cpr", "Integrazione sera (giorni pari) - FarmaFer 1 cpr circa 2 h dopo cena, prima di dormire", "Totali - 1300 kcal | Olio EVO 6 g | No carbo a cena | Non aggiungere sale" ], "oil_evo_total_g": 6, "salt_total_max_g": 0.90 }, { "date": "2025-12-05", "title": "1300 kcal - Olio 5 g | Sale aggiungibile max 0.80 g | Acqua 0.9-1.1 L stop 18:00 (D-1)", "lines": [ "Colazione - Uova 2 (120 g) + Albume AIA Aequilibrium 180 g + Pane morbido ai 6 cereali Esselunga 15 g", "Merenda mattina - Yamamoto Ultra Whey WPC S Evo 30 g in acqua", "Pranzo - Patate 40 g (crude, lesse) + Uovo sodo 1 (60 g) + Olio EVO 2 g + Mela 100 g", "Merenda pomeriggio - Yogurt greco bianco 150 g", "Cena - Petto di pollo 600 g (piastra) + Olio EVO 3 g", "Integrazione pranzo - Nutravita Ca-Mg-Zn-D3 1 cpr", "Integrazione cena (giorni dispari) - WeightWorld Minerali e Vitamine 1 cpr con la cena", "Totali - 1300 kcal | Olio EVO 5 g | No carbo a cena | Non aggiungere sale" ], "oil_evo_total_g": 5, "salt_total_max_g": 0.80 } ] }
+{
+"timezone": "Europe/Rome",
+"days": [
+{
+"date": "2025-12-03",
+"title": "1300 kcal - Olio 6 g | Sale aggiungibile max 1.00 g | Acqua 1.6-1.8 L (D-3)",
+"lines": [
+"Colazione - Uovo 1 (60 g) + Albume AIA Aequilibrium 120 g + Pane morbido ai 6 cereali Esselunga 20 g",
+"Merenda mattina - Kefir alla frutta 150 g",
+"Pranzo - Pasta di grano duro 55 g (crudo) + Passata di pomodoro + Parmigiano Reggiano 6 g + Olio EVO 3 g + Mela 100 g",
+"Merenda pomeriggio - Yamamoto Ultra Whey WPC S Evo 30 g in acqua",
+"Cena - Petto di pollo 300 g (piastra) + Melanzane 200 g (griglia, peso a crudo) + Olio EVO 3 g",
+"Integrazione pranzo - Nutravita Ca-Mg-Zn-D3 1 cpr",
+"Integrazione cena (giorni dispari) - WeightWorld Minerali e Vitamine 1 cpr con la cena",
+"Totali - 1300 kcal | Olio EVO 6 g | No carbo a cena | Non aggiungere sale"
+],
+"oil_evo_total_g": 6,
+"salt_total_max_g": 1.00
+},
+{
+"date": "2025-12-04",
+"title": "1300 kcal - Olio 6 g | Sale aggiungibile max 0.90 g | Acqua 1.2-1.4 L stop 18:00-19:00 (D-2)",
+"lines": [
+"Colazione - Uovo 1 (60 g) + Albume AIA Aequilibrium 120 g + Pane morbido ai 6 cereali Esselunga 15 g",
+"Merenda mattina - Kefir alla frutta 150 g",
+"Pranzo - Pasta di grano duro 35 g (crudo) + Passata di pomodoro + Parmigiano Reggiano 6 g + Olio EVO 3 g + Mela 100 g",
+"Merenda pomeriggio - Yamamoto Ultra Whey WPC S Evo 30 g in acqua",
+"Cena - Fesa di tacchino 400 g (piastra) + Olio EVO 3 g",
+"Integrazione pranzo - Nutravita Ca-Mg-Zn-D3 1 cpr",
+"Integrazione sera (giorni pari) - FarmaFer 1 cpr circa 2 h dopo cena, prima di dormire",
+"Totali - 1300 kcal | Olio EVO 6 g | No carbo a cena | Non aggiungere sale"
+],
+"oil_evo_total_g": 6,
+"salt_total_max_g": 0.90
+},
+{
+"date": "2025-12-05",
+"title": "1300 kcal - Olio 5 g | Sale aggiungibile max 0.80 g | Acqua 0.9-1.1 L stop 18:00 (D-1)",
+"lines": [
+"Colazione - Uova 2 (120 g) + Albume AIA Aequilibrium 180 g + Pane morbido ai 6 cereali Esselunga 15 g",
+"Merenda mattina - Kefir alla frutta 150 g",
+"Pranzo - Patate 40 g (crude, lesse) + Uovo sodo 1 (60 g) + Olio EVO 2 g + Mela 100 g",
+"Merenda pomeriggio - Yamamoto Ultra Whey WPC S Evo 30 g in acqua",
+"Cena - Petto di pollo 600 g (piastra) + Olio EVO 3 g",
+"Integrazione pranzo - Nutravita Ca-Mg-Zn-D3 1 cpr",
+"Integrazione cena (giorni dispari) - WeightWorld Minerali e Vitamine 1 cpr con la cena",
+"Totali - 1300 kcal | Olio EVO 5 g | No carbo a cena | Non aggiungere sale"
+],
+"oil_evo_total_g": 5,
+"salt_total_max_g": 0.80
+}
+]
+}
