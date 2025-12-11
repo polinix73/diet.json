@@ -1,136 +1,63 @@
-{
-"timezone": "Europe/Rome",
+{"timezone": "Europe/Rome",
 "days": [
-{
-"date": "2025-12-04",
-"title": "1300 kcal - Olio 6 g | Sale aggiungibile max 0.90 g | Acqua 1.2-1.4 L stop 18:00-19:00 (D-2)",
-"lines": [
-"Colazione - Uovo 1 (60 g) + Albume AIA Aequilibrium 120 g + Pane morbido ai 6 cereali Esselunga 15 g",
-"Merenda mattina - Kefir alla frutta 150 g",
-"Pranzo - Pasta di grano duro 35 g (crudo) + Passata di pomodoro + Parmigiano Reggiano 6 g + Olio EVO 3 g + Mela 100 g + Uovo sodo 1 (60 g)",
-"Merenda pomeriggio - Yamamoto Ultra Whey WPC S Evo 30 g in acqua",
-"Cena - Fesa di tacchino 320 g (piastra) + Olio EVO 3 g",
-"Integrazione pranzo - Nutravita Ca-Mg-Zn-D3 1 cpr",
-"Integrazione sera (giorni pari) - FarmaFer 1 cpr circa 2 h dopo cena, prima di dormire",
-"Totali - 1300 kcal | Olio EVO 6 g | No carbo a cena | Non aggiungere sale"
-],
-"oil_evo_total_g": 6,
-"salt_total_max_g": 0.90
-},
-{
-"date": "2025-12-05",
-"title": "1300 kcal - Olio 5 g | Sale aggiungibile max 0.80 g | Acqua 0.9-1.1 L stop 18:00 (D-1)",
-"lines": [
-"Colazione - Uova 2 (120 g) + Albume AIA Aequilibrium 180 g + Pane morbido ai 6 cereali Esselunga 15 g",
-"Merenda mattina - Kefir alla frutta 150 g",
-"Pranzo - Patate 40 g (crude, lesse) + Uovo sodo 1 (60 g) + Olio EVO 2 g + Mela 100 g",
-"Merenda pomeriggio - Yamamoto Ultra Whey WPC S Evo 30 g in acqua",
-"Cena - Petto di pollo 600 g (piastra) + Olio EVO 3 g",
-"Integrazione pranzo - Nutravita Ca-Mg-Zn-D3 1 cpr",
-"Integrazione cena (giorni dispari) - WeightWorld Minerali e Vitamine 1 cpr con la cena",
-"Totali - 1300 kcal | Olio EVO 5 g | No carbo a cena | Non aggiungere sale"
-],
-"oil_evo_total_g": 5,
-"salt_total_max_g": 0.80
-},
-{
-"date": "2025-12-08",
-"title": "Lunedì 8 dicembre – Allenamento TKD – circa 1600 kcal – Olio EVO 10 g | Sale aggiungibile max 3.0 g",
-"lines": [
-"Colazione – Uovo intero 1 (≈60 g) + Albume 120 g + Salmone affumicato 40 g + Pane morbido ai 6 cereali Esselunga 40 g + Mandorle 10 g",
-"Merenda mattina – Kefir alla frutta 150 g",
-"Pranzo piatto unico – Risotto con verza: Riso basmati 70 g (peso a crudo) + Verza 150 g + Olio EVO 5 g + Burro 5 g + Parmigiano Reggiano 8 g + Exquisa HighPro Fitline fiocchi di latte 40 g (mantecato a fine cottura) + Mela 150 g",
-"Merenda pomeriggio (pre-allenamento) – Yamamoto Ultra Whey WPC S Evo 30 g in acqua",
-"Cena – Petto di pollo 150 g (piastra) + Patate 200 g (peso a crudo, al forno/airfryer con carta forno) + Zucchine 150 g (grigliate) + Olio EVO 5 g totale su patate e zucchine + Pane di grano duro 20 g + Mela 120 g",
-"Note – Giorno TKD standard, struttura: piatto unico a pranzo + cena pollo/patate/verdura"
-],
-"oil_evo_total_g": 10,
-"salt_total_max_g": 3.0
-},
-{
-"date": "2025-12-09",
-"title": "Martedì 9 dicembre – Giorno di riposo – circa 1300 kcal – Olio EVO 7 g | Sale aggiungibile max 2.0 g",
-"lines": [
-"Colazione – Uovo intero 1 (≈60 g) + Albume 120 g + Salmone affumicato 40 g + Pane morbido ai 6 cereali Esselunga 40 g + Noci 10 g",
-"Merenda mattina – Kefir alla frutta 150 g",
-"Pranzo piatto unico – Farro con ceci e verdure: Farro secco 60 g (peso a crudo) + Ceci in barattolo Esselunga lessi 60 g (peso sgocciolato) + Carote 80 g + Zucchine 80 g + Olio EVO 4 g + Parmigiano Reggiano 5 g (facoltativo) + Mela 150 g",
-"Merenda pomeriggio – Dessert proteico Esselunga 150 g",
-"Cena – Filetto di merluzzo surgelato 130 g (forno o vapore) + Patate 130 g (peso a crudo, lesse o al vapore) + Cavolo 120 g (stufato in padella antiaderente con acqua) + Olio EVO 3 g sulle verdure/patate + Mela 120 g",
-"Note – Riposo, quota carbo leggermente ridotta, proteine ben distribuite"
-],
-"oil_evo_total_g": 7,
-"salt_total_max_g": 2.0
-},
-{
-"date": "2025-12-10",
-"title": "Mercoledì 10 dicembre – Allenamento TKD – circa 1600 kcal – Olio EVO 10 g | Sale aggiungibile max 3.0 g",
-"lines": [
-"Colazione – Uovo intero 1 (≈60 g) + Albume 120 g + Salmone affumicato 40 g + Pane morbido ai 6 cereali Esselunga 40 g + Mandorle 10 g",
-"Merenda mattina – Kefir alla frutta 150 g",
-"Pranzo piatto unico – Pasta e lenticchie: Pasta di grano duro 70 g (peso a crudo) + Lenticchie secche 40 g (peso secco, poi lessate) + Passata di pomodoro 80 g + Carote 50 g + Sedano/cipolla se li usi abitualmente (minimi) + Olio EVO 5 g a crudo + Parmigiano Reggiano 8 g + Mela 150 g",
-"Merenda pomeriggio (pre-allenamento) – Yamamoto Ultra Whey WPC S Evo 30 g in acqua",
-"Cena – Petto di tacchino 160 g (piastra) + Patate 200 g (peso a crudo, al forno/airfryer) + Rape 120 g (lessate o in padella antiaderente con acqua) + Olio EVO 5 g totale su patate e rape + Pane di grano duro 20 g + Mela 120 g",
-"Note – Piatto unico con legume a pranzo per variare le fonti proteiche"
-],
-"oil_evo_total_g": 10,
-"salt_total_max_g": 3.0
-},
 {
 "date": "2025-12-11",
 "title": "Giovedì 11 dicembre – Allenamento TKD (eventuali pesi) – circa 1600–1650 kcal – Olio EVO 10 g | Sale aggiungibile max 3.0 g",
 "lines": [
-"Colazione – Uovo intero 1 (≈60 g) + Albume 120 g + Salmone affumicato 40 g + Pane morbido ai 6 cereali Esselunga 40 g + Noci 10 g",
+"Colazione – Uovo intero 1 (≈60 g) + Albume AIA AEQuilibrium 150 g + Pane morbido ai 6 cereali Esselunga 40 g + Noci 10 g",
 "Merenda mattina – Kefir alla frutta 150 g",
 "Pranzo piatto unico – Riso piselli e pollo: Riso basmati 70 g (peso a crudo) + Piselli surgelati Esselunga 80 g + Petto di pollo AEQUILIBRIUM 80 g (a dadini) + Passata di pomodoro 50 g (se gradita) + Olio EVO 5 g + Parmigiano Reggiano 8 g + Mela 150 g",
 "Merenda pomeriggio (pre-allenamento) – Yamamoto Ultra Whey WPC S Evo 30 g in acqua",
 "Cena – Sovracosce di pollo senza pelle 150 g (forno o airfryer, senza panatura) + Patate 200 g (peso a crudo) oppure Farro secco 50 g (come alternativa di carbo) + Verza 150 g (stufata in padella con acqua) + Olio EVO 5 g totale su contorno e patate/farro + Mela 120 g",
-"Note – Giorno più impegnativo: mantenuta struttura semplice, con opzione farro a cena al posto delle patate"
+"Note – Giorno impegnativo ma ancora fuori dal vero “taglio sodio”: colazione senza salmone affumicato per ridurre il carico di sale, usa il sale con moderazione senza superare i 3 g aggiunti totali."
 ],
 "oil_evo_total_g": 10,
-"salt_total_max_g": 3.0
+"salt_total_max_g": 3.0,
+"sale_aggiungibile_max_g": 3.0
 },
 {
 "date": "2025-12-12",
-"title": "Venerdì 12 dicembre – Allenamento TKD – circa 1600 kcal – Olio EVO 10 g | Sale aggiungibile max 3.0 g",
+"title": "Venerdì 12 dicembre – Allenamento TKD – circa 1800 kcal – ≤1,5 g sodio (~3,8 g sale totali) – Olio EVO 10 g | Sale aggiungibile max 0.5 g",
 "lines": [
-"Colazione – Uovo intero 1 (≈60 g) + Albume 120 g + Salmone affumicato 40 g + Pane morbido ai 6 cereali Esselunga 40 g + Mandorle 10 g",
+"Colazione – Uovo intero 1 (≈60 g) + Albume AIA AEQuilibrium 150 g + Pane morbido ai 6 cereali Esselunga 40 g + Mandorle 10 g",
 "Merenda mattina – Kefir alla frutta 150 g",
-"Pranzo piatto unico – Pasta fagioli e cavolo: Pasta di grano duro 70 g (peso a crudo) + Fagioli in barattolo Esselunga lessi 60 g (peso sgocciolato) + Cavolo 120 g (a listarelle) + Passata di pomodoro 70 g + Olio EVO 5 g + Parmigiano Reggiano 8 g + Mela 150 g",
+"Pranzo piatto unico – Pasta fagioli e cavolo: Pasta di grano duro 70 g (peso a crudo) + Fagioli in barattolo Esselunga lessi 60 g (peso sgocciolato, ben risciacquati) + Cavolo 120 g (a listarelle) + Passata di pomodoro 70 g + Olio EVO 5 g + Parmigiano Reggiano 8 g + Mela 150 g",
 "Merenda pomeriggio (pre-allenamento) – Yamamoto Ultra Whey WPC S Evo 30 g in acqua",
-"Cena – Filetto di salmone (se disponibile) altrimenti Merluzzo surgelato 150 g + Patate 180 g (peso a crudo, forno/airfryer) + Peperoni già arrostiti 120 g + Olio EVO 5 g totale + Pane di grano duro 15–20 g + Mela 120 g",
-"Note – Legumi anche qui al pranzo, pesce alla sera; scegli salmone solo se ti torna nei grassi della giornata, altrimenti merluzzo"
+"Cena – Tonno in scatola al naturale sgocciolato 150 g (scegli preferibilmente versione a basso contenuto di sale, ben sgocciolato) + Patate 180 g (peso a crudo, forno/airfryer) + Peperoni già arrostiti 120 g (meglio non in salamoia molto salata, eventualmente sciacquati) + Olio EVO 5 g totale + Pane di grano duro 15–20 g + Mela 120 g",
+"Note – Inizio soft del taglio sodio: colazione senza salmone affumicato per ridurre il sodio di base, usa tonno al naturale a basso contenuto di sale e non superare ~0,5 g di sale aggiunto totale nella giornata (meglio se qualcosa meno), preferendo erbe, spezie e limone."
 ],
 "oil_evo_total_g": 10,
-"salt_total_max_g": 3.0
+"salt_total_max_g": 3.8,
+"sale_aggiungibile_max_g": 0.5
 },
 {
 "date": "2025-12-13",
-"title": "Sabato 13 dicembre – Allenamento TKD – circa 1600 kcal – Olio EVO 10 g | Sale aggiungibile max 3.0 g",
+"title": "Sabato 13 dicembre – Allenamento TKD – circa 1800 kcal – ≤1,5 g sodio (~3,8 g sale totali) – Niente sale a tavola – Olio EVO 10 g | Sale aggiungibile max 0.5 g (solo in cottura)",
 "lines": [
-"Colazione – Uovo intero 1 (≈60 g) + Albume 120 g + Salmone affumicato 40 g + Pane morbido ai 6 cereali Esselunga 40 g + Noci 10 g",
+"Colazione – Uovo intero 1 (≈60 g) + Albume AIA AEQuilibrium 150 g + Pane morbido ai 6 cereali Esselunga 40 g + Noci 10 g",
 "Merenda mattina – Kefir alla frutta 150 g",
-"Pranzo piatto unico – Orzotto/farrott* con gamberi (tipo risotto): Farro secco 60 g (peso a crudo) + Gamberi sgusciati 80 g (gamberi non sgusciati ≈120 g prima di pulirli) + Zucchine 100 g + Passata di pomodoro 40 g (se gradita) + Olio EVO 5 g + Mela 150 g",
+"Pranzo piatto unico – Orzotto/farrotto con gamberi (tipo risotto): Farro secco 60 g (peso a crudo) + Gamberi sgusciati 80 g (gamberi non sgusciati ≈120 g prima di pulirli) + Zucchine 100 g + Passata di pomodoro 40 g (se gradita) + Olio EVO 5 g + Mela 150 g",
 "Merenda pomeriggio (pre-allenamento) – Yamamoto Ultra Whey WPC S Evo 30 g in acqua",
-"Cena – Macinato bovino magro 130 g (tipo hamburger o polpette senza panatura) + Patate 190 g (peso a crudo, forno/airfryer) + Verza o cavolo 150 g (stufati) + Olio EVO 5 g totale + Pane di grano duro 15–20 g + Mela 120 g",
-"Note – Piatto unico a pranzo con cereale + pesce, cena con carne rossa magra allineata al fabbisogno"
+"Cena – Macinato bovino magro 130 g (tipo hamburger o polpette senza panatura) + Patate 190 g (peso a crudo, forno/airfryer) + Verza o cavolo 150 g (stufati in padella con acqua) + Olio EVO 5 g totale + Pane di grano duro 15–20 g + Mela 120 g",
+"Note – Colazione senza salmone affumicato per tenere il sodio più basso fin dal mattino. Niente sale a tavola: usa solo il sale minimo in cottura (idealmente meno dei 0,5 g disponibili), il resto del gusto va costruito con erbe, spezie, aglio, cipolla, limone."
 ],
 "oil_evo_total_g": 10,
-"salt_total_max_g": 3.0
+"salt_total_max_g": 3.8,
+"sale_aggiungibile_max_g": 0.5
 },
 {
 "date": "2025-12-14",
-"title": "Domenica 14 dicembre – Giorno di riposo – circa 1300 kcal – Olio EVO 7 g | Sale aggiungibile max 2.0 g",
+"title": "Domenica 14 dicembre – Giorno di riposo – circa 1600 kcal – ≤1,2 g sodio (~3,0 g sale totali) – Evita formaggi stagionati – Olio EVO 7 g | Sale aggiungibile max 0.1 g",
 "lines": [
-"Colazione – Uovo intero 1 (≈60 g) + Albume 120 g + Salmone affumicato 40 g + Pane morbido ai 6 cereali Esselunga 40 g + Mandorle 10 g",
+"Colazione – Uovo intero 1 (≈60 g) + Albume AIA AEQuilibrium 150 g + Pane morbido ai 6 cereali Esselunga 40 g + Mandorle 10 g",
 "Merenda mattina – Kefir alla frutta 150 g",
-"Pranzo piatto unico – Riso con fagioli e peperoni: Riso basmati 60 g (peso a crudo) + Fagioli in barattolo Esselunga lessi 60 g (peso sgocciolato) + Peperoni arrostiti 120 g + Passata di pomodoro 50 g + Olio EVO 4 g + Parmigiano Reggiano 5 g + Mela 150 g",
-"Merenda pomeriggio – Dessert proteico Esselunga 150 g",
-"Cena – Bastoncini di merluzzo Findus 120 g (peso prodotto, cotti in airfryer senza aggiunta di grassi) oppure Merluzzo semplice 130 g + Patate 130 g (peso a crudo) + Zucchine o fagiolini 100–120 g + Olio EVO 3 g totale + Mela 120 g",
-"Note – Riposo con piatto unico legumi/cereali a pranzo e cena semplice a base di pesce"
+"Pranzo piatto unico – Riso con fagioli e peperoni: Riso basmati 60 g (peso a crudo) + Fagioli in barattolo Esselunga lessi 60 g (peso sgocciolato, ben risciacquati) + Peperoni arrostiti 120 g (preferibilmente non in salamoia molto salata) + Passata di pomodoro 50 g + Olio EVO 4 g + Mela 150 g",
+"Merenda pomeriggio – Dessert proteico Esselunga 150 g (scegli versione con basso contenuto di sodio, se possibile)",
+"Cena – Piatto proteico a base di latticini: Fiocchi di latte tipo Jocca/Exquisa 150 g (oppure Mozzarella fresca vaccina 100 g oppure Philadelphia light o proteica 40–50 g; scegli una sola opzione) + Patate 130 g (peso a crudo, lesse o in forno/airfryer, senza aggiunta di sale) + Zucchine o fagiolini 100–120 g (cotti in acqua, senza sale) + Olio EVO 3 g totale + Mela 120 g",
+"Note – Giorno di riposo ~1600 kcal: colazione senza salmone affumicato, niente formaggi stagionati (niente Parmigiano o simili) e niente prodotti confezionati molto salati (niente bastoncini di pesce). A cena usa solo una delle opzioni di latticini suggerite e considera il sale aggiunto praticamente nullo (al massimo una spolverata simbolica in cottura) per rispettare il limite di sodio della giornata."
 ],
 "oil_evo_total_g": 7,
-"salt_total_max_g": 2.0
+"salt_total_max_g": 3.0,
+"sale_aggiungibile_max_g": 0.1
 }
-]
-}
-
+]}
