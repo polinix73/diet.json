@@ -3,33 +3,33 @@
   "days": [
   {
     "date": "2025-12-17",
-    "title": "Mercoledì 17 dicembre – Giorno -2 – Switch – Sodio intrinseco basso + pizzico sale – ~1460 kcal",
+    "title": "Mercoledì 17 dicembre – Giorno -2 – Switch – Ob: Mantenere Energie – ~1600 kcal",
     "lines": [
-      "Colazione – Uovo intero 1 + Albume AIA 100 g + Pane sciapo 20 g + Burro 5 g",
+      "Colazione – Uovo intero 1 + Albume AIA 100 g + Pane sciapo 40 g (Aumentato) + Burro 10 g (Aumentato)",
       "Merenda mattina – Yogurt Greco Esselunga 0% al Miele (1 vasetto da 150g)",
-      "Pranzo (Basso residuo) – Pasta grano duro 65 g + Petto di pollo fresco 90 g + Zucchine 60 g + Passata pomodoro 40 g + Olio EVO 5 g + Parmigiano 5 g + Mela 150 g",
+      "Pranzo (Basso residuo) – Pasta grano duro 80 g (Aumentata) + Petto di pollo fresco 90 g + Zucchine 60 g + Passata pomodoro 40 g + Olio EVO 10 g (Aumentato) + Parmigiano 5 g + Mela 150 g",
       "Merenda pomeriggio – Yamamoto Ultra Whey 30 g in acqua",
-      "Cena (Post workout) – Petto di pollo fresco 150 g + Patate 200 g (sbucciate) + Zucchine 120 g + Olio EVO 5 g + Pane sciapo 10 g + Mela 120 g",
-      "Note – Yogurt al miele inserito (126 kcal, basso sodio). Calorie totali perfette per iniziare lo svuotamento. Acqua <2,0L. Sale aggiunto max 0,5g (pizzico)."
+      "Cena (Post workout) – Petto di pollo fresco 150 g + Patate 250 g (Aumentate) + Zucchine 120 g + Olio EVO 10 g (Aumentato) + Pane sciapo 20 g + Mela 120 g",
+      "Note – Sei già in peso (52.5). Calorie alzate a ~1600 per non svuotare il muscolo. Sodio <1,5g totali (sicurezza). Acqua <2,0L."
     ],
-    "oil_evo_total_g": 10,
-    "salt_total_max_g": 2.25,
+    "oil_evo_total_g": 20,
+    "salt_total_max_g": 2.3,
     "sale_aggiungibile_max_g": 0.5,
     "water_max_l": 2.0
   },
   {
     "date": "2025-12-18",
-    "title": "Giovedì 18 dicembre – Giorno -1 – FLUSH TOTALE – Sodio <0,5 g (NO sale aggiunto) – ~1260 kcal",
+    "title": "Giovedì 18 dicembre – Giorno -1 – FLUSH LEGGERO – Sodio <0,5 g – ~1550/1600 kcal",
     "lines": [
-      "Colazione – Uovo intero 1 + Albume AIA 80 g (ridotto a 80g per limitare sodio nascosto: 135mg Na) + Pane sciapo 20 g + Burro 5 g",
-      "Merenda mattina – Yogurt Greco Esselunga 0% al Miele (1 vasetto da 150g) – (Solo 48mg Na: ottimo)",
-      "Pranzo (Ultimo amido) – Riso basmati 70 g + Petto di tacchino/pollo fresco 100 g + Zucchine 80 g + Passata pomodoro 30 g + Olio EVO 5 g + Mela 150 g + (NO PARMIGIANO)",
+      "Colazione – Uovo intero 1 + Albume AIA 100 g + Pane sciapo 40 g + Burro 10 g",
+      "Merenda mattina – Yogurt Greco Esselunga 0% al Miele (1 vasetto da 150g)",
+      "Pranzo (Ultimo amido) – Riso basmati 90 g (Porzione piena) + Petto di tacchino/pollo fresco 100 g + Zucchine 80 g + Passata pomodoro 30 g + Olio EVO 10 g + Mela 150 g + (NO PARMIGIANO)",
       "Merenda pomeriggio – Yamamoto Ultra Whey 30 g in pochissima acqua (100ml)",
-      "Cena (Scarico glicogeno) – Petto di pollo fresco 150 g (piastra, assolutamente senza sale) + Zucchine 120 g (stracotte) + Olio EVO 5 g + Mela 120 g",
-      "Note – Calorie tenute basse (~1260) per sicurezza peso. Sodio Totale calcolato: ~440mg (Sotto la soglia flush di 500mg). Acqua <0,8L a piccoli sorsi."
+      "Cena (Scarico glicogeno parziale) – Petto di pollo fresco 200 g (Porzione abbondante per sazietà) + Zucchine 120 g + Olio EVO 10 g + Mela 150 g",
+      "Note – Manteniamo le calorie alte (~1600) usando grassi e proteine. Il taglio del sodio (<500mg) e dell'acqua (<0.8L) sarà più che sufficiente per perdere i 500g rimasti senza soffrire la fame."
     ],
-    "oil_evo_total_g": 10,
-    "salt_total_max_g": 1.1,
+    "oil_evo_total_g": 20,
+    "salt_total_max_g": 1.3,
     "sale_aggiungibile_max_g": 0.0,
     "water_max_l": 0.8
   },
@@ -37,9 +37,9 @@
     "date": "2025-12-19",
     "title": "Venerdì 19 dicembre – PESATA (Obiettivo 52.0 kg)",
     "lines": [
-      "Mattina – Digiuno completo.",
-      "Bocca secca? – Sciacquare bocca con acqua ghiacciata e sputare.",
-      "Post Pesata – Bere subito soluzione elettrolitica + Carbo veloci."
+      "Mattina – Pesata a digiuno.",
+      "Previsione – Con questo piano dovresti svegliarti esattamente intorno ai 51.9 - 52.0 kg sentendoti energica.",
+      "Post Pesata – Ricarica immediata."
     ],
     "oil_evo_total_g": 0,
     "salt_total_max_g": 0.0,
