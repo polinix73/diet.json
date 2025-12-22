@@ -3,33 +3,33 @@
 "days": [
 {
 "date": "2025-12-22",
-"title": "Lunedì 22 dicembre – Allenamento – ~1600 kcal – Cereali solo a pranzo – Cena con pane (no patate)",
+"title": "Lunedì 22 dicembre – Allenamento – 1600 kcal circa – Cereali solo a pranzo – Sale libero",
 "lines": [
-"Colazione – Uovo intero 1 (≈60 g) + Albume 150 g + Pane ai 6 cereali Esselunga 55 g + Burro 6 g + Marmellata 15 g | Sargenor: dopo colazione",
+"Colazione – Uovo intero 1 (≈60 g) + Albume 150 g + Pane ai 6 cereali Esselunga 55 g + Burro 5 g + Marmellata 10 g | Sargenor: dopo colazione",
 "Merenda mattina – Yogurt greco 0% 170 g",
-"Pranzo – Pasta grano duro 70 g + Passata 80 g + Zucchine 200 g + Prosciutto cotto 70 g + Parmigiano 10 g + Olio EVO 6 g | Acutil: a pranzo",
-"Merenda pomeriggio – Yamamoto (whey) 30 g in acqua | Acutil: metà pomeriggio",
-"Cena – Petto di tacchino 160 g + Pane 60 g + Insalata 200 g + Olio EVO 6 g + Mela 150 g | Multivitaminico: a cena | Ferro: dopo cena (giorno alterno)"
+"Pranzo – Pasta grano duro 60 g + Passata 80 g + Zucchine 200 g + Prosciutto cotto 70 g + Parmigiano 10 g + Olio EVO 5 g | Acutil: a pranzo",
+"Merenda pomeriggio (cinema UCI) – Popcorn salati “cestino piccolo” | Acutil: metà pomeriggio",
+"Cena – Petto di tacchino 160 g + Pane 50 g + Insalata 200 g + Olio EVO 6 g + Mela 150 g | Multivitaminico: a cena | Ferro: dopo cena (giorno alterno)"
 ],
-"oil_evo_total_g": 12,
-"salt_total_max_g": 6.0
+"oil_evo_total_g": 11,
+"salt_total_max_g": 99.0
 },
 {
 "date": "2025-12-23",
-"title": "Martedì 23 dicembre – Riposo – ~1550–1600 kcal (dipende dal dessert) – Cereali solo a pranzo",
+"title": "Martedì 23 dicembre – Riposo – 1600 kcal circa – Cereali solo a pranzo – Sale libero",
 "lines": [
 "Colazione – Uovo intero 1 + Albume 150 g + Pane ai 6 cereali Esselunga 50 g + Burro 6 g + Marmellata 10 g | Sargenor: dopo colazione",
-"Merenda mattina – Kefir 150 g + Banana 60 g",
+"Merenda mattina – Kefir 150 g + Banana 80 g",
 "Pranzo – Riso basmati 55 g + Petto di tacchino 130 g + Peperoni arrostiti 150 g + Insalata 100 g + Olio EVO 6 g | Acutil: a pranzo",
-"Merenda pomeriggio – Yamamoto (whey) 30 g in acqua | Acutil: metà pomeriggio",
-"Cena – Mozzarella 80 g + Prosciutto cotto 60 g + Verdure 300 g + Pane 30 g + Olio EVO 4 g | Multivitaminico: a cena"
+"Merenda pomeriggio – Dessert proteico Esselunga 1 vasetto | Acutil: metà pomeriggio",
+"Cena – Mozzarella 80 g + Prosciutto cotto 60 g + Verdure miste 300 g + Pane 30 g + Olio EVO 4 g | Multivitaminico: a cena"
 ],
 "oil_evo_total_g": 10,
-"salt_total_max_g": 6.0
+"salt_total_max_g": 99.0
 },
 {
 "date": "2025-12-24",
-"title": "Mercoledì 24 dicembre – Allenamento – ~1600 kcal – Cereali solo a pranzo – Cena fiocchi di latte + bresaola",
+"title": "Mercoledì 24 dicembre – Allenamento – 1600 kcal circa – Cereali solo a pranzo – Sale libero",
 "lines": [
 "Colazione – Uovo intero 1 + Albume 150 g + Pane ai 6 cereali Esselunga 55 g + Burro 8 g + Marmellata 15 g | Sargenor: dopo colazione",
 "Merenda mattina – Yogurt 150 g + Pera 180 g",
@@ -38,24 +38,24 @@
 "Cena – Fiocchi di latte (Exquisa/High-pro) 150 g + Bresaola 60 g + Pane 40 g + Verdure 250 g + Olio EVO 6 g | Multivitaminico: a cena | Ferro: dopo cena (giorno alterno)"
 ],
 "oil_evo_total_g": 14,
-"salt_total_max_g": 6.0
+"salt_total_max_g": 99.0
 },
 {
 "date": "2025-12-25",
-"title": "Giovedì 25 dicembre – Allenamento – ~1600 kcal – Pranzo con pasta – Cena mozzarella",
+"title": "Giovedì 25 dicembre – Allenamento – 1600 kcal circa – Cereali solo a pranzo – Sale libero",
 "lines": [
 "Colazione – Uovo intero 1 + Albume 150 g + Pane ai 6 cereali Esselunga 55 g + Burro 8 g + Marmellata 10 g | Sargenor: dopo colazione",
 "Merenda mattina – Pandoro/Panettone 20 g",
 "Pranzo – Pasta grano duro 65 g + Ragù magro (carne bovina magra 80 g) + Passata 80 g + Parmigiano 10 g + Olio EVO 6 g | Acutil: a pranzo",
-"Merenda pomeriggio – Yamamoto (whey) 30 g in acqua | Acutil: metà pomeriggio",
-"Cena – Mozzarella 100 g + Prosciutto (crudo o cotto) 30 g + Patate 150 g + Verdure 250 g + Olio EVO 6 g | Multivitaminico: a cena"
+"Merenda pomeriggio – Dessert proteico Esselunga 1 vasetto | Acutil: metà pomeriggio",
+"Cena – Mozzarella 100 g + Prosciutto crudo 30 g + Patate 150 g + Verdure 250 g + Olio EVO 6 g | Multivitaminico: a cena"
 ],
 "oil_evo_total_g": 12,
-"salt_total_max_g": 6.0
+"salt_total_max_g": 99.0
 },
 {
 "date": "2025-12-26",
-"title": "Venerdì 26 dicembre – Allenamento – ~1600 kcal – Riso solo a pranzo – Cena pollo",
+"title": "Venerdì 26 dicembre – Allenamento – 1600 kcal circa – Cereali solo a pranzo – Sale libero",
 "lines": [
 "Colazione – Uovo intero 1 + Albume 150 g + Pane ai 6 cereali Esselunga 55 g + Burro 6 g + Marmellata 15 g | Sargenor: dopo colazione",
 "Merenda mattina – Kefir 150 g",
@@ -64,11 +64,11 @@
 "Cena – Petto di pollo 140 g + Pane 50 g + Verdure 300 g + Olio EVO 4 g + Arancia 100 g | Multivitaminico: a cena | Ferro: dopo cena (giorno alterno)"
 ],
 "oil_evo_total_g": 12,
-"salt_total_max_g": 6.0
+"salt_total_max_g": 99.0
 },
 {
 "date": "2025-12-27",
-"title": "Sabato 27 dicembre – Allenamento – ~1600 kcal – Pasta solo a pranzo – Cena affettati + pane",
+"title": "Sabato 27 dicembre – Allenamento – 1600 kcal circa – Cereali solo a pranzo – Sale libero",
 "lines": [
 "Colazione – Uovo intero 1 + Albume 150 g + Pane ai 6 cereali Esselunga 53 g + Burro 8 g + Marmellata 10 g | Sargenor: dopo colazione",
 "Merenda mattina – Yogurt 150 g + Kiwi 100 g",
@@ -77,11 +77,11 @@
 "Cena – Bresaola 60 g + Prosciutto cotto 60 g + Pane 50 g + Verdure 300 g + Olio EVO 5 g | Multivitaminico: a cena"
 ],
 "oil_evo_total_g": 11,
-"salt_total_max_g": 6.0
+"salt_total_max_g": 99.0
 },
 {
 "date": "2025-12-28",
-"title": "Domenica 28 dicembre – Riposo – ~1600 kcal – Farro solo a pranzo – Cena tacchino",
+"title": "Domenica 28 dicembre – Riposo – 1600 kcal circa – Cereali solo a pranzo – Sale libero",
 "lines": [
 "Colazione – Uovo intero 1 + Albume 150 g + Pane ai 6 cereali Esselunga 55 g + Burro 6 g + Marmellata 15 g | Sargenor: dopo colazione",
 "Merenda mattina – Kefir 130 g + Mela 150 g",
@@ -90,7 +90,7 @@
 "Cena – Petto di tacchino 150 g + Pane 50 g + Verdure 300 g + Olio EVO 4 g | Multivitaminico: a cena | Ferro: dopo cena (giorno alterno)"
 ],
 "oil_evo_total_g": 12,
-"salt_total_max_g": 6.0
+"salt_total_max_g": 99.0
 }
 ]
 }
