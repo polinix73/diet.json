@@ -1,1 +1,58 @@
-{ "timezone": "Europe/Rome", "days": [ { "date": "2026-01-07", "title": "Piano pasto 1500 kcal (stima) - senza Twix", "lines": [ "Colazione: Albume Aequilibrum 100 g", "Colazione: Uovo intero 1", "Colazione: Burro 4 g", "Colazione: Pane ai 6 cereali Esselunga 26 g", "Colazione: Marmellata 10 g", "Merenda mattina: Yogurt greco lampone Esselunga 150 g", "Pranzo: Pasta di grano duro secca 105 g", "Pranzo: Olio EVO 6 g", "Pranzo: Grana 8 g", "Pranzo: Mela 150 g", "Merenda pomeriggio: Mousse proteica al cioccolato Esselunga 200 g", "Cena: Petto di pollo alla piastra 150 g (peso a crudo)", "Cena: Pane grano duro da forno 50 g", "Cena: Olio EVO 5 g", "Cena: Zucchine 300 g", "Cena: Mela 120 g" ], "oil_evo_total_g": 11, "salt_total_max_g": 5 }, { "date": "2026-01-08", "title": "Piano pasto 1500 kcal (stima) - senza Twix (cena con Philadelphia light)", "lines": [ "Colazione: Albume Aequilibrum 100 g", "Colazione: Uovo intero 1", "Colazione: Burro 4 g", "Colazione: Pane ai 6 cereali Esselunga 26 g", "Colazione: Marmellata 10 g", "Merenda mattina: Yogurt greco lampone Esselunga 150 g", "Pranzo: Pasta di grano duro secca 105 g", "Pranzo: Olio EVO 6 g", "Pranzo: Grana 8 g", "Pranzo: Mela 150 g", "Merenda pomeriggio: Mousse proteica al cioccolato Esselunga 200 g", "Cena: Philadelphia light 150 g", "Cena: Pane grano duro da forno 50 g", "Cena: Olio EVO 5 g", "Cena: Zucchine 300 g", "Cena: Mela 120 g" ], "oil_evo_total_g": 11, "salt_total_max_g": 5 } ] }
+{
+"timezone": "Europe/Rome",
+"days": [
+{
+"date": "2026-01-07",
+"title": "FASE 1 - 1500 kcal (ricalibrato) - macro target 120P/140C/50F",
+"lines": [
+"Acqua: 5-6 L",
+"Sale max aggiungibile: 10 g (≈ sodio max 4000 mg; range E3 7.5-10 g ≈ sodio 3000-4000 mg)",
+"Colazione: Albume Aequilibrum 100 g",
+"Colazione: Uovo intero 1",
+"Colazione: Burro 4 g",
+"Colazione: Pane ai 6 cereali Esselunga 20 g",
+"Colazione: Marmellata 5 g",
+"Merenda mattina: Yogurt greco 0% grassi lampone Esselunga 150 g",
+"Pranzo: Pasta di grano duro secca 91 g",
+"Pranzo: Olio EVO 10 g",
+"Pranzo: Grana 8 g",
+"Pranzo: Mela 100 g",
+"Merenda pomeriggio: Mousse proteica al cioccolato Esselunga 150 g (vasetto)",
+"Cena: Petto di pollo alla piastra 220 g (peso a crudo)",
+"Cena: Pane grano duro da forno 30 g",
+"Cena: Olio EVO 23 g",
+"Cena: Zucchine 300 g",
+"Cena: Mela 80 g"
+],
+"oil_evo_total_g": 33,
+"salt_total_max_g": 10
+},
+{
+"date": "2026-01-08",
+"title": "FASE 1 - 1500 kcal (ricalibrato) - macro target 120P/140C/50F (cena con Philadelphia light)",
+"lines": [
+"Acqua: 5-6 L",
+"Sale max aggiungibile: 10 g (≈ sodio max 4000 mg; range E3 7.5-10 g ≈ sodio 3000-4000 mg)",
+"Colazione: Albume Aequilibrum 100 g",
+"Colazione: Uovo intero 1",
+"Colazione: Burro 4 g",
+"Colazione: Pane ai 6 cereali Esselunga 26 g",
+"Colazione: Marmellata 10 g",
+"Merenda mattina: Yogurt greco 0% grassi lampone Esselunga 150 g",
+"Pranzo: Pasta di grano duro secca 86 g",
+"Pranzo: Petto di pollo alla piastra 170 g (peso a crudo)",
+"Pranzo: Olio EVO 7 g",
+"Pranzo: Grana 10 g",
+"Pranzo: Mela 100 g",
+"Merenda pomeriggio: Mousse proteica al cioccolato Esselunga 150 g (vasetto)",
+"Cena: Philadelphia light 150 g",
+"Cena: Pane grano duro da forno 20 g",
+"Cena: Olio EVO 8 g",
+"Cena: Zucchine 300 g",
+"Cena: Mela 50 g"
+],
+"oil_evo_total_g": 15,
+"salt_total_max_g": 10
+}
+]
+}
