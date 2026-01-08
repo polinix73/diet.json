@@ -286,3 +286,121 @@
         "macros_total_g": {
           "P": 113,
           "C": 148,
+          "F": 49,
+          "fiber": 28
+        }
+      }
+    },
+    {
+      "date": "2026-01-14",
+      "title": "FASE 1 - 1500 kcal - Ricalibrato (Cena: Salume Tacchino)",
+      "lines": [
+        "Acqua: 3-4 L (obbligatorio)",
+        "MACROS (1500 kcal): Proteine 120 g - Carboidrati 140 g - Grassi 50 g",
+        "Olio EVO: massimo 12 g/die",
+        "Colazione: Albume Aequilibrum 100 g",
+        "Colazione: Uovo intero 1",
+        "Colazione: Burro 4 g",
+        "Colazione: Pane ai 6 cereali Esselunga 50 g",
+        "Colazione: Marmellata 20 g",
+        "Merenda mattina: Yogurt greco 0% grassi lampone Esselunga 150 g",
+        "Pranzo: Pasta di grano duro secca (pesata a crudo) 60 g",
+        "Pranzo: Olio EVO 4 g",
+        "Pranzo: Grana 10 g",
+        "Pranzo: Verdura mista 300 g",
+        "Merenda pomeriggio: Mousse proteica Esselunga 150 g",
+        "Merenda pomeriggio: Mela 150 g",
+        "Merenda pomeriggio: Mandorle non salate 20 g",
+        "Cena: Affettato di Tacchino Aequilibrium 100 g",
+        "Cena: Pane grano duro da forno 30 g",
+        "Cena: Olio EVO 8 g (aumentato per compensare magrezza)",
+        "Cena: Zucchine 300 g"
+      ],
+      "oil_evo_total_g": 12,
+      "salt_total_max_g": 3.5,
+      "calculated": {
+        "kcal_total": 1480,
+        "macros_total_g": {
+          "P": 118,
+          "C": 142,
+          "F": 49,
+          "fiber": 27
+        }
+      }
+    },
+    {
+      "date": "2026-01-15",
+      "title": "FASE 1 - 1500 kcal - Ricalibrato (Cena: Philadelphia)",
+      "lines": [
+        "Acqua: 3-4 L (obbligatorio)",
+        "MACROS (1500 kcal): Proteine 120 g - Carboidrati 140 g - Grassi 50 g",
+        "Olio EVO: massimo 4 g/die",
+        "Colazione: Albume Aequilibrum 100 g",
+        "Colazione: Uovo intero 1",
+        "Colazione: Burro 4 g",
+        "Colazione: Pane ai 6 cereali Esselunga 50 g",
+        "Colazione: Marmellata 20 g",
+        "Merenda mattina: Yogurt greco 0% grassi lampone Esselunga 150 g",
+        "Pranzo: Riso basmati secco (pesato a crudo) 60 g",
+        "Pranzo: Olio EVO 4 g",
+        "Pranzo: Grana 10 g",
+        "Pranzo: Verdura mista 300 g",
+        "Merenda pomeriggio: Yamamoto Ultra Whey (in acqua) 30 g",
+        "Merenda pomeriggio: Mela 150 g",
+        "Merenda pomeriggio: Mandorle non salate 22 g",
+        "Cena: Philadelphia Light 125 g (ridotto)",
+        "Cena: Pane grano duro da forno 30 g",
+        "Cena: Olio EVO 0 g (rimosso per grassi formaggio)",
+        "Cena: Zucchine 300 g"
+      ],
+      "oil_evo_total_g": 4,
+      "salt_total_max_g": 3.6,
+      "calculated": {
+        "kcal_total": 1500,
+        "macros_total_g": {
+          "P": 115,
+          "C": 140,
+          "F": 53,
+          "fiber": 26
+        }
+      }
+    },
+    {
+      "date": "2026-01-16",
+      "title": "FASE 1 - 1500 kcal - Ricalibrato (Cena: Prosciutto Cotto)",
+      "lines": [
+        "Acqua: 3-4 L (obbligatorio)",
+        "MACROS (1500 kcal): Proteine 120 g - Carboidrati 140 g - Grassi 50 g",
+        "Olio EVO: massimo 12 g/die",
+        "Colazione: Albume Aequilibrum 100 g",
+        "Colazione: Uovo intero 1",
+        "Colazione: Burro 4 g",
+        "Colazione: Pane ai 6 cereali Esselunga 50 g",
+        "Colazione: Marmellata 20 g",
+        "Merenda mattina: Yogurt greco 0% grassi lampone Esselunga 150 g",
+        "Pranzo: Pasta di grano duro secca (pesata a crudo) 60 g",
+        "Pranzo: Olio EVO 4 g",
+        "Pranzo: Grana 10 g",
+        "Pranzo: Verdura mista 300 g",
+        "Merenda pomeriggio: Mousse proteica Esselunga 150 g",
+        "Merenda pomeriggio: Mela 150 g",
+        "Merenda pomeriggio: Mandorle non salate 20 g",
+        "Cena: Prosciutto Cotto sgrassato 100 g",
+        "Cena: Pane grano duro da forno 30 g",
+        "Cena: Olio EVO 8 g (aumentato per compensare magrezza)",
+        "Cena: Zucchine 300 g"
+      ],
+      "oil_evo_total_g": 12,
+      "salt_total_max_g": 3.5,
+      "calculated": {
+        "kcal_total": 1485,
+        "macros_total_g": {
+          "P": 119,
+          "C": 141,
+          "F": 51,
+          "fiber": 27
+        }
+      }
+    }
+  ]
+}
