@@ -143,7 +143,7 @@
     },
     {
       "date": "2026-01-10",
-      "title": "FASE 1 - 1500 kcal - Ricalibrato (Pasta, Albume, Pollo ridotto)",
+      "title": "FASE 1 - 1500 kcal - Ricalibrato (Cena: Tonno al naturale)",
       "lines": [
         "Acqua: 3-4 L (obbligatorio)",
         "MACROS (1500 kcal): Proteine 120 g - Carboidrati 140 g - Grassi 50 g",
@@ -163,7 +163,7 @@
         "Merenda pomeriggio: Mousse proteica Esselunga 150 g",
         "Merenda pomeriggio: Mela 150 g",
         "Merenda pomeriggio: Mandorle non salate 20 g",
-        "Cena: Petto di pollo alla piastra 140 g (peso a crudo)",
+        "Cena: Tonno al naturale sgocciolato 112 g (2 scatolette piccole)",
         "Cena: Pane grano duro da forno 30 g",
         "Cena: Olio EVO 4 g",
         "Cena: Zucchine 300 g"
@@ -171,9 +171,9 @@
       "oil_evo_total_g": 8,
       "salt_total_max_g": 3.5,
       "calculated": {
-        "kcal_total": 1495,
+        "kcal_total": 1490,
         "macros_total_g": {
-          "P": 119,
+          "P": 118,
           "C": 141,
           "F": 49,
           "fiber": 27
@@ -182,7 +182,7 @@
     },
     {
       "date": "2026-01-11",
-      "title": "FASE 1 - 1500 kcal - Ricalibrato (Riso, Whey, Albume)",
+      "title": "FASE 1 - 1500 kcal - Ricalibrato (Cena: Mozzarella)",
       "lines": [
         "Acqua: 3-4 L (obbligatorio)",
         "MACROS (1500 kcal): Proteine 120 g - Carboidrati 140 g - Grassi 50 g",
@@ -199,26 +199,26 @@
         "Merenda pomeriggio: Yamamoto Ultra Whey (in acqua) 30 g",
         "Merenda pomeriggio: Mela 150 g",
         "Merenda pomeriggio: Mandorle non salate 22 g",
-        "Cena: Petto di pollo alla piastra 130 g (peso a crudo)",
+        "Cena: Mozzarella Light 125 g",
         "Cena: Pane grano duro da forno 30 g",
-        "Cena: Olio EVO 4 g",
+        "Cena: Olio EVO 0 g (rimosso per grassi mozzarella)",
         "Cena: Zucchine 300 g"
       ],
-      "oil_evo_total_g": 8,
+      "oil_evo_total_g": 4,
       "salt_total_max_g": 3.6,
       "calculated": {
-        "kcal_total": 1488,
+        "kcal_total": 1495,
         "macros_total_g": {
-          "P": 124,
+          "P": 122,
           "C": 138,
-          "F": 48,
+          "F": 52,
           "fiber": 26
         }
       }
     },
     {
       "date": "2026-01-12",
-      "title": "FASE 1 - 1500 kcal - Ricalibrato (Pasta, Dessert, Albume)",
+      "title": "FASE 1 - 1500 kcal - Ricalibrato (Cena: Hamburger Manzo)",
       "lines": [
         "Acqua: 3-4 L (obbligatorio)",
         "MACROS (1500 kcal): Proteine 120 g - Carboidrati 140 g - Grassi 50 g",
@@ -235,26 +235,26 @@
         "Merenda pomeriggio: Dessert proteico Esselunga 200 g",
         "Merenda pomeriggio: Arancia 150 g",
         "Merenda pomeriggio: Mandorle non salate 20 g",
-        "Cena: Petto di pollo alla piastra 140 g (peso a crudo)",
+        "Cena: Hamburger di manzo magro 120 g",
         "Cena: Pane grano duro da forno 30 g",
-        "Cena: Olio EVO 4 g",
+        "Cena: Olio EVO 0 g (rimosso per grassi carne)",
         "Cena: Zucchine 300 g"
       ],
-      "oil_evo_total_g": 8,
+      "oil_evo_total_g": 4,
       "salt_total_max_g": 3.5,
       "calculated": {
-        "kcal_total": 1502,
+        "kcal_total": 1510,
         "macros_total_g": {
-          "P": 121,
+          "P": 120,
           "C": 142,
-          "F": 50,
+          "F": 53,
           "fiber": 28
         }
       }
     },
     {
       "date": "2026-01-13",
-      "title": "FASE 1 - 1500 kcal - Ricalibrato (Riso, Albume, Pollo ridotto)",
+      "title": "FASE 1 - 1500 kcal - Ricalibrato (Cena: Bastoncini Findus)",
       "lines": [
         "Acqua: 3-4 L (obbligatorio)",
         "MACROS (1500 kcal): Proteine 120 g - Carboidrati 140 g - Grassi 50 g",
@@ -271,26 +271,26 @@
         "Merenda pomeriggio: Dessert proteico Esselunga 200 g",
         "Merenda pomeriggio: Arancia 150 g",
         "Merenda pomeriggio: Mandorle non salate 20 g",
-        "Cena: Petto di pollo alla piastra 140 g (peso a crudo)",
+        "Cena: Bastoncini di merluzzo Findus (al forno) 5 pz (ca 125g)",
         "Cena: Pane grano duro da forno 30 g",
-        "Cena: Olio EVO 4 g",
+        "Cena: Olio EVO 0 g (rimosso per grassi bastoncini)",
         "Cena: Zucchine 300 g"
       ],
-      "oil_evo_total_g": 8,
+      "oil_evo_total_g": 4,
       "salt_total_max_g": 3.5,
       "calculated": {
-        "kcal_total": 1502,
+        "kcal_total": 1515,
         "macros_total_g": {
-          "P": 121,
-          "C": 142,
-          "F": 50,
+          "P": 115,
+          "C": 150,
+          "F": 51,
           "fiber": 28
         }
       }
     },
     {
       "date": "2026-01-14",
-      "title": "FASE 1 - 1500 kcal - Ricalibrato (Pasta, Albume, Pollo ridotto)",
+      "title": "FASE 1 - 1500 kcal - Ricalibrato (Cena: Tacchino Aequilibrium)",
       "lines": [
         "Acqua: 3-4 L (obbligatorio)",
         "MACROS (1500 kcal): Proteine 120 g - Carboidrati 140 g - Grassi 50 g",
@@ -307,7 +307,7 @@
         "Merenda pomeriggio: Mousse proteica Esselunga 150 g",
         "Merenda pomeriggio: Mela 150 g",
         "Merenda pomeriggio: Mandorle non salate 20 g",
-        "Cena: Petto di pollo alla piastra 140 g (peso a crudo)",
+        "Cena: Petto di tacchino Aequilibrium 120 g",
         "Cena: Pane grano duro da forno 30 g",
         "Cena: Olio EVO 4 g",
         "Cena: Zucchine 300 g"
@@ -315,9 +315,9 @@
       "oil_evo_total_g": 8,
       "salt_total_max_g": 3.5,
       "calculated": {
-        "kcal_total": 1495,
+        "kcal_total": 1490,
         "macros_total_g": {
-          "P": 119,
+          "P": 120,
           "C": 141,
           "F": 49,
           "fiber": 27
@@ -326,7 +326,7 @@
     },
     {
       "date": "2026-01-15",
-      "title": "FASE 1 - 1500 kcal - Ricalibrato (Riso, Whey, Albume)",
+      "title": "FASE 1 - 1500 kcal - Ricalibrato (Cena: Philadelphia)",
       "lines": [
         "Acqua: 3-4 L (obbligatorio)",
         "MACROS (1500 kcal): Proteine 120 g - Carboidrati 140 g - Grassi 50 g",
@@ -343,7 +343,7 @@
         "Merenda pomeriggio: Yamamoto Ultra Whey (in acqua) 30 g",
         "Merenda pomeriggio: Mela 150 g",
         "Merenda pomeriggio: Mandorle non salate 22 g",
-        "Cena: Petto di pollo alla piastra 130 g (peso a crudo)",
+        "Cena: Philadelphia Light 150 g",
         "Cena: Pane grano duro da forno 30 g",
         "Cena: Olio EVO 4 g",
         "Cena: Zucchine 300 g"
@@ -351,18 +351,18 @@
       "oil_evo_total_g": 8,
       "salt_total_max_g": 3.6,
       "calculated": {
-        "kcal_total": 1488,
+        "kcal_total": 1500,
         "macros_total_g": {
-          "P": 124,
-          "C": 138,
-          "F": 48,
+          "P": 118,
+          "C": 140,
+          "F": 53,
           "fiber": 26
         }
       }
     },
     {
       "date": "2026-01-16",
-      "title": "FASE 1 - 1500 kcal - Ricalibrato (Pasta, Albume, Pollo ridotto)",
+      "title": "FASE 1 - 1500 kcal - Ricalibrato (Cena: Prosciutto Cotto)",
       "lines": [
         "Acqua: 3-4 L (obbligatorio)",
         "MACROS (1500 kcal): Proteine 120 g - Carboidrati 140 g - Grassi 50 g",
@@ -379,19 +379,19 @@
         "Merenda pomeriggio: Mousse proteica Esselunga 150 g",
         "Merenda pomeriggio: Mela 150 g",
         "Merenda pomeriggio: Mandorle non salate 20 g",
-        "Cena: Petto di pollo alla piastra 140 g (peso a crudo)",
+        "Cena: Prosciutto Cotto sgrassato 100 g",
         "Cena: Pane grano duro da forno 30 g",
-        "Cena: Olio EVO 4 g",
+        "Cena: Olio EVO 0 g (rimosso per grassi prosciutto)",
         "Cena: Zucchine 300 g"
       ],
-      "oil_evo_total_g": 8,
+      "oil_evo_total_g": 4,
       "salt_total_max_g": 3.5,
       "calculated": {
         "kcal_total": 1495,
         "macros_total_g": {
           "P": 119,
           "C": 141,
-          "F": 49,
+          "F": 51,
           "fiber": 27
         }
       }
