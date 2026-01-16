@@ -34,157 +34,155 @@
 "salt_total_max_g": 0.9
 },
 {
-"date": "2026-01-17",
-"title": "FASE 1 - 1500 kcal (stima) - pranzo solo carbo - taglio sodio (Na cap <= 1.5 g)",
-"lines": [
-"Acqua: 3-4 L",
-"Calorie: 1500 kcal",
-"Fase E3: FASE 1 (fibre alte)",
-"Sodio (Na) cap: <= 1.5 g",
-"Sale totale max (NaCl): circa 3.8 g",
-"Sale aggiunto: 0 g (obbligatorio) - niente sale a tavola",
-"Nota: oggi puoi usare latticini e tonno, ma senza sale aggiunto e porzioni moderate",
-"Colazione: Albume AIA Aequilibrum 150 g",
-"Colazione: Uovo intero 1",
-"Colazione: Pane morbido ai 6 cereali Esselunga 40 g",
-"Colazione: Marmellata 15 g",
-"Merenda mattina: Yogurt greco 0% grassi lampone Esselunga 150 g",
-"Pranzo: Riso basmati secco (pesato a crudo) 90 g (solo carbo)",
-"Pranzo: Zucchine 300 g",
-"Pranzo: Mela 150 g",
-"Merenda pomeriggio: Mousse proteica cioccolato Esselunga 150 g",
-"Merenda pomeriggio: Arancia 150 g",
-"Cena: Jocca 200 g",
-"Cena: Philadelphia light 40 g",
-"Cena: Tonno al naturale sgocciolato 80 g (se serve, sciacqua rapido)",
-"Cena: Zucchine 300 g",
-"Cena: Olio EVO 8 g"
-],
-"oil_evo_total_g": 8,
-"salt_total_max_g": 3.8
-},
-{
-"date": "2026-01-18",
-"title": "FASE 2 - 1500 kcal (stima) - stop fibre - pranzo solo carbo - taglio sodio (Na cap <= 1.2 g)",
-"lines": [
-"Acqua: 6-7 L",
-"Calorie: 1500 kcal",
-"Fase E3: FASE 2 (senza scorie) - stop totale verdure, frutta, integrali, legumi",
-"Sodio (Na) cap: <= 1.2 g",
-"Sale totale max (NaCl): circa 3.0 g",
-"Sale aggiunto: 0 g (obbligatorio)",
-"Nota: da oggi NO latticini (mozzarella, jocca, philadelphia) e NO verdure/frutta",
-"Colazione: Uova intere 2 (fresche, senza sale)",
-"Colazione: Miele 20 g",
-"Merenda mattina: Miele 20 g",
-"Pranzo: Riso bianco secco (pesato a crudo) 140 g (solo carbo)",
-"Merenda pomeriggio: Miele 20 g",
-"Cena: Uova intere 4 (fresche, senza sale)",
-"Cena: Olio EVO 25 g"
-],
-"oil_evo_total_g": 25,
-"salt_total_max_g": 3.0
-},
-{
-"date": "2026-01-19",
-"title": "FASE 2 - 1500 kcal (stima) - stop fibre - pranzo solo carbo - taglio sodio (Na cap <= 1.2 g)",
-"lines": [
-"Acqua: 6-7 L",
-"Calorie: 1500 kcal",
-"Fase E3: FASE 2 (senza scorie) - stop totale verdure, frutta, integrali, legumi",
-"Sodio (Na) cap: <= 1.2 g",
-"Sale totale max (NaCl): circa 3.0 g",
-"Sale aggiunto: 0 g (obbligatorio) - no salse (soia/ketchup/BBQ)",
-"Colazione: Uova intere 2 (fresche, senza sale)",
-"Colazione: Miele 20 g",
-"Merenda mattina: Miele 20 g",
-"Pranzo: Pasta di riso secca (pesata a crudo) 150 g (solo carbo)",
-"Merenda pomeriggio: Miele 20 g",
-"Cena: Uova intere 4 (fresche, senza sale)",
-"Cena: Olio EVO 25 g"
-],
-"oil_evo_total_g": 25,
-"salt_total_max_g": 3.0
-},
-{
-"date": "2026-01-20",
-"title": "FASE 3 - 1500 kcal (stima) - carbo a 50 g - stop fibre - taglio sodio (Na cap <= 1.0 g) - gallette e burro arachidi disponibili da cena",
-"lines": [
-"Acqua: 6-7 L (ultimo giorno alto)",
-"Calorie: 1500 kcal",
-"Fase E3: 20/01 (deplezione) - fibre 0 g - carbo circa 50 g",
-"Sodio (Na) cap: <= 1.0 g",
-"Sale totale max (NaCl): circa 2.5 g",
-"Sale aggiunto: 0 g (obbligatorio) - pane/crackers limitati",
-"Nota: gallette riso e burro arachidi arrivano il 20 sera, quindi solo a cena",
-"Colazione: Uova intere 2 (fresche, senza sale)",
-"Colazione: Olio EVO 15 g",
-"Merenda mattina: Miele 10 g",
-"Pranzo: Riso bianco secco (pesato a crudo) 60 g (solo carbo)",
-"Merenda pomeriggio: Miele 10 g",
-"Cena: Uova intere 4 (fresche, senza sale)",
-"Cena: Gallette di riso 3",
-"Cena: Burro di arachidi 100% senza sale 40 g",
-"Cena: Olio EVO 20 g"
-],
-"oil_evo_total_g": 35,
-"salt_total_max_g": 2.5
-},
-{
-"date": "2026-01-21",
-"title": "FASE 3 - 1500 kcal (stima) - taglio acqua e sodio - stop fibre - pranzo solo carbo - taglio sodio (Na cap <= 0.9 g)",
-"lines": [
-"Acqua: 3 L",
-"Calorie: 1500 kcal",
-"Fase E3: 21/01 - sodio basso, niente cibi conservati",
-"Sodio (Na) cap: <= 0.9 g",
-"Sale totale max (NaCl): circa 2.25 g",
-"Sale aggiunto: 0 g (obbligatorio)",
-"Nota E3: da oggi vietati tonno in scatola e salumi (prosciutto, ecc.)",
-"Colazione: Uova intere 2 (fresche, senza sale)",
-"Colazione: Olio EVO 20 g",
-"Merenda mattina: Burro di arachidi 100% senza sale 25 g",
-"Merenda mattina: Gallette di riso 1",
-"Pranzo: Gallette di riso 2 (solo carbo)",
-"Merenda pomeriggio: Miele 10 g",
-"Cena: Uova intere 4 (fresche, senza sale)",
-"Cena: Olio EVO 25 g"
-],
-"oil_evo_total_g": 45,
-"salt_total_max_g": 2.25
-},
-{
-"date": "2026-01-22",
-"title": "THE CUT - circa 1100 kcal - sodio al minimo - stop acqua alle 18:00 - stop fibre - taglio sodio (Na cap <= 0.8-0.9 g)",
-"lines": [
-"Acqua: 0.5-0.8 L totali, stop totale alle 18:00",
-"Calorie: circa 1100 kcal",
-"Fase E3: THE CUT (giorno critico) - volume cibo basso",
-"Sodio: il piu basso possibile (sale aggiunto 0 g)",
-"Nota E3: evita albume in brick; evita acqua del rubinetto se molto calcarea",
-"Colazione: Uova intere 2 (fresche, senza sale)",
-"Colazione: Olio EVO 30 g",
-"Merenda mattina: Miele 10 g",
-"Pranzo: Miele 20 g (solo carbo)",
-"Merenda pomeriggio: Miele 10 g",
-"Cena: Uova intere 3 (fresche, senza sale)",
-"Cena: Olio EVO 40 g"
-],
-"oil_evo_total_g": 70,
-"salt_total_max_g": 2.0
-},
-{
-"date": "2026-01-23",
-"title": "FASE 4 - PESATA - digiuno",
-"lines": [
-"Fase E3: GAME DAY (pesata)",
-"Acqua: 0 ml (solo sorsi se proprio necessario)",
-"Cibo: digiuno fino alla bilancia",
-"Verifica finale: rispettati cap sodio del file (16:1.5g, 17:1.5g, 18:1.2g, 19:1.2g, 20:1.0g, 21:0.9g, 22:0.8-0.9g) e fasi E3 (acqua e stop fibre)",
-"Verifica finale: 16/01 tipologia alimenti invariata; dal 18 stop fibre; dal 20 fibre 0; niente merluzzo o platessa; gallette e burro arachidi usati solo da cena 20/01; pranzo solo carbo dal 17/01"
-],
-"oil_evo_total_g": 0,
-"salt_total_max_g": 0.0
-}
-]
+  "date": "2026-01-17",
+      "title": "FASE 1 - Ultimo Fibre - Pranzo Carbo - Cena Proteica - Na cap <= 1.5g",
+      "lines": [
+        "Fase E3: FASE 1 - Ultimo giorno fibre alte",
+        "Acqua: 3-4 L",
+        "Sodio (Na) cap: <= 1.5 g",
+        "Sale aggiunto: 0 g",
+        "Colazione: Albume AIA Aequilibrum 250 g",
+        "Colazione: Uovo intero 1",
+        "Colazione: Pane morbido ai 6 cereali Esselunga 50 g",
+        "Colazione: Marmellata 20 g",
+        "Merenda mattina: Danone Skyr Fragola 150 g",
+        "Pranzo: Riso basmati secco (pesato a crudo) 90 g (Solo Carbo)",
+        "Pranzo: Mela 150 g",
+        "Merenda pomeriggio: Arancia 150 g",
+        "Cena: Petto di pollo 200 g (Aumentato per target proteine)",
+        "Cena: Patate 300 g (lesse, senza sale)",
+        "Cena: Olio EVO 15 g",
+        "Nota: Domani STOP totale fibre"
+      ],
+      "oil_evo_total_g": 15,
+      "salt_total_max_g": 3.8
+    },
+    {
+      "date": "2026-01-18",
+      "title": "FASE 2 - Svuotamento - STOP FIBRE - Na cap <= 1.2g",
+      "lines": [
+        "Fase E3: FASE 2 - Senza scorie - STOP totale verdure, frutta, integrali",
+        "Acqua: 6-7 L (Carico Acqua)",
+        "Sodio (Na) cap: <= 1.2 g",
+        "Sale aggiunto: 0 g",
+        "Fibre: < 10 g",
+        "Colazione: Riso bianco secco 60 g",
+        "Colazione: Danone Skyr Fragola 75 g (sostituisce miele)",
+        "Merenda mattina: Danone Skyr Fragola 75 g (sostituisce miele)",
+        "Pranzo: Riso bianco secco 95 g",
+        "Pranzo: Petto di pollo 200 g (Necessario per target proteine)",
+        "Pranzo: Olio EVO 10 g",
+        "Merenda pomeriggio: Gallette di riso 4 (circa 30g)",
+        "Cena: Albume AIA Aequilibrum 350 g",
+        "Cena: Uova intere 2",
+        "Cena: Olio EVO 15 g"
+      ],
+      "oil_evo_total_g": 25,
+      "salt_total_max_g": 3.0
+    },
+    {
+      "date": "2026-01-19",
+      "title": "FASE 2 - Svuotamento - STOP FIBRE - Na cap <= 1.2g",
+      "lines": [
+        "Fase E3: FASE 2 - Senza scorie",
+        "Acqua: 6-7 L (Carico Acqua)",
+        "Sodio (Na) cap: <= 1.2 g",
+        "Sale aggiunto: 0 g",
+        "Fibre: < 10 g",
+        "Colazione: Riso bianco secco 60 g",
+        "Colazione: Danone Skyr Fragola 75 g (sostituisce miele)",
+        "Merenda mattina: Danone Skyr Fragola 75 g (sostituisce miele)",
+        "Pranzo: Riso bianco secco 95 g",
+        "Pranzo: Petto di pollo 200 g",
+        "Pranzo: Olio EVO 10 g",
+        "Merenda pomeriggio: Gallette di riso 4 (circa 30g)",
+        "Cena: Albume AIA Aequilibrum 350 g",
+        "Cena: Uova intere 2",
+        "Cena: Olio EVO 15 g"
+      ],
+      "oil_evo_total_g": 25,
+      "salt_total_max_g": 3.0
+    },
+    {
+      "date": "2026-01-20",
+      "title": "FASE 3 - Deplezione - Carbo 50g - Na cap <= 1.0g",
+      "lines": [
+        "Fase E3: FASE 3 - Via i Carbo - Ultima Acqua Alta",
+        "Acqua: 6-7 L",
+        "Sodio (Na) cap: <= 1.0 g",
+        "Sale aggiunto: 0 g",
+        "Fibre: 0 g",
+        "Colazione: Albume AIA Aequilibrum 200 g",
+        "Colazione: Uovo intero 1",
+        "Colazione: Olio EVO 20 g",
+        "Merenda mattina: Danone Skyr Fragola 75 g (sostituisce miele)",
+        "Pranzo: Petto di pollo 200 g",
+        "Pranzo: Olio EVO 20 g",
+        "Merenda pomeriggio: Danone Skyr Fragola 75 g (sostituisce miele)",
+        "Cena: Petto di pollo 150 g (Sostituisce parte dell'albume per sodio)",
+        "Cena: Uova intere 2",
+        "Cena: Gallette di riso 4 (Carbo a cena)",
+        "Cena: Burro di arachidi 100% senza sale 30 g",
+        "Cena: Olio EVO 10 g"
+      ],
+      "oil_evo_total_g": 50,
+      "salt_total_max_g": 2.5
+    },
+    {
+      "date": "2026-01-21",
+      "title": "FASE 3 - Taglio Acqua e Sodio - Na cap <= 0.9g",
+      "lines": [
+        "Fase E3: Taglio Acqua (3L) e Sodio",
+        "Acqua: 3 L",
+        "Sodio (Na) cap: <= 0.9 g (Critico: NO albumi in brick, NO salse)",
+        "Sale aggiunto: 0 g",
+        "Colazione: Uova intere 3 (sostituisce albume fresco 200 g + 1 uovo)",
+        "Colazione: Olio EVO 15 g",
+        "Pranzo: Petto di pollo 250 g (Senza sale)",
+        "Pranzo: Gallette di riso 4 (circa 30g - unici carbo solidi)",
+        "Pranzo: Olio EVO 15 g",
+        "Merenda pomeriggio: Miele 10 g",
+        "Cena: Petto di pollo 200 g",
+        "Cena: Uova intere 2",
+        "Cena: Burro di arachidi 100% senza sale 20 g",
+        "Cena: Olio EVO 15 g"
+      ],
+      "oil_evo_total_g": 45,
+      "salt_total_max_g": 2.25
+    },
+    {
+      "date": "2026-01-22",
+      "title": "THE CUT - Giorno Critico - Na cap <= 0.8-0.9g",
+      "lines": [
+        "Fase E3: THE CUT - Carbo quasi zero",
+        "Acqua: 0.5 - 0.8 L (STOP ore 18:00)",
+        "Calorie: ~1100 kcal",
+        "Sodio (Na) cap: <= 0.8-0.9 g",
+        "Sale aggiunto: 0 g",
+        "Colazione: Uova intere 3 (sostituisce albume fresco 200 g + 1 uovo)",
+        "Colazione: Olio EVO 15 g",
+        "Pranzo: Petto di pollo 200 g",
+        "Pranzo: Olio EVO 10 g",
+        "Merenda pomeriggio: Burro di arachidi 100% senza sale 20 g",
+        "Cena: Petto di pollo 150 g",
+        "Cena: Uovo intero 1",
+        "Cena: Olio EVO 10 g"
+      ],
+      "oil_evo_total_g": 35,
+      "salt_total_max_g": 2.0
+    },
+    {
+      "date": "2026-01-23",
+      "title": "FASE 4 - PESATA",
+      "lines": [
+        "Fase E3: GAME DAY",
+        "Acqua: 0 ml",
+        "Cibo: Digiuno fino alla pesata",
+        "Obiettivo: 52.0 kg",
+        "Se > 52.4 kg: Bagno caldo o sauna leggera"
+      ],
+      "oil_evo_total_g": 0,
+      "salt_total_max_g": 0.0
+    }
+  ]
 }
