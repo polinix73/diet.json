@@ -1,46 +1,14 @@
 {
-"timezone": "Europe/Rome",
-"days": [
-{
-"date": "2026-01-16",
-"title": "FASE 1 - 1500 kcal (stima) - macro target 120P/140C/50F - pranzo pasta - olio EVO max 8 g",
-"lines": [
-"Acqua: 3-4 L (obbligatorio)",
-"Calorie: 1500 kcal (stima da tabelle nutrizionali)",
-"MACROS target (1500 kcal): Proteine 120 g, Carboidrati 140 g, Grassi 50 g",
-"Olio EVO: massimo 8 g al giorno; grassi restanti da mandorle non salate",
-"Sale: sala normalmente; non superare il sale max aggiungibile",
-"Sale max aggiungibile: 0.9 g (stima; per restare circa 2500 mg sodio totali, inclusi i cibi)",
-"Fibre: alte (tanta verdura + frutta)",
-"Allenamento: spingi forte, hai i carboidrati per farlo",
-"Colazione: Albume AIA Aequilibrum 150 g",
-"Colazione: Uovo intero 1",
-"Colazione: Pane morbido ai 6 cereali Esselunga 40 g",
-"Colazione: Marmellata 15 g",
-"Merenda mattina: Yogurt greco 0% grassi lampone Esselunga 150 g",
-"Pranzo: Pasta di semola secca (pesata a crudo) 78 g",
-"Pranzo: Grana 10 g",
-"Pranzo: Olio EVO 4 g",
-"Pranzo: Zucchine 300 g",
-"Merenda pomeriggio: Mousse proteica cioccolato Esselunga 150 g",
-"Merenda pomeriggio: Arancia 150 g",
-"Merenda pomeriggio: Mandorle non salate 5 g",
-"Cena: Petto di tacchino AIA Aequilibrum (affettato) 130 g",
-"Cena: Jocca 150 g",
-"Cena: Olio EVO 4 g",
-"Cena: Zucchine 300 g"
-],
-"oil_evo_total_g": 8,
-"salt_total_max_g": 0.9
-},
-{
-  "date": "2026-01-17",
+  "timezone": "Europe/Rome",
+  "days": [
+    {
+      "date": "2026-01-17",
       "title": "FASE 1 - Ultimo Fibre - Pranzo Carbo - Cena Proteica - Na cap <= 1.5g",
       "lines": [
         "Fase E3: FASE 1 - Ultimo giorno fibre alte",
         "Acqua: 3-4 L",
         "Sodio (Na) cap: <= 1.5 g",
-        "Sale aggiunto: 0 g",
+        "Sale aggiunto: Vedi voce 'salt_addable_max_g'",
         "Colazione: Albume AIA Aequilibrum 250 g",
         "Colazione: Uovo intero 1",
         "Colazione: Pane morbido ai 6 cereali Esselunga 50 g",
@@ -55,7 +23,8 @@
         "Nota: Domani STOP totale fibre"
       ],
       "oil_evo_total_g": 15,
-      "salt_total_max_g": 3.8
+      "salt_total_max_g": 3.8,
+      "salt_addable_max_g": 1.3
     },
     {
       "date": "2026-01-18",
@@ -64,7 +33,7 @@
         "Fase E3: FASE 2 - Senza scorie - STOP totale verdure, frutta, integrali",
         "Acqua: 6-7 L (Carico Acqua)",
         "Sodio (Na) cap: <= 1.2 g",
-        "Sale aggiunto: 0 g",
+        "Sale aggiunto: Vedi voce 'salt_addable_max_g'",
         "Fibre: < 10 g",
         "Colazione: Riso bianco secco 60 g",
         "Colazione: Danone Skyr Fragola 75 g (sostituisce miele)",
@@ -78,7 +47,8 @@
         "Cena: Olio EVO 15 g"
       ],
       "oil_evo_total_g": 25,
-      "salt_total_max_g": 3.0
+      "salt_total_max_g": 3.0,
+      "salt_addable_max_g": 0.7
     },
     {
       "date": "2026-01-19",
@@ -87,7 +57,7 @@
         "Fase E3: FASE 2 - Senza scorie",
         "Acqua: 6-7 L (Carico Acqua)",
         "Sodio (Na) cap: <= 1.2 g",
-        "Sale aggiunto: 0 g",
+        "Sale aggiunto: Vedi voce 'salt_addable_max_g'",
         "Fibre: < 10 g",
         "Colazione: Riso bianco secco 60 g",
         "Colazione: Danone Skyr Fragola 75 g (sostituisce miele)",
@@ -101,7 +71,8 @@
         "Cena: Olio EVO 15 g"
       ],
       "oil_evo_total_g": 25,
-      "salt_total_max_g": 3.0
+      "salt_total_max_g": 3.0,
+      "salt_addable_max_g": 0.7
     },
     {
       "date": "2026-01-20",
@@ -110,7 +81,7 @@
         "Fase E3: FASE 3 - Via i Carbo - Ultima Acqua Alta",
         "Acqua: 6-7 L",
         "Sodio (Na) cap: <= 1.0 g",
-        "Sale aggiunto: 0 g",
+        "Sale aggiunto: Vedi voce 'salt_addable_max_g'",
         "Fibre: 0 g",
         "Colazione: Albume AIA Aequilibrum 200 g",
         "Colazione: Uovo intero 1",
@@ -126,7 +97,8 @@
         "Cena: Olio EVO 10 g"
       ],
       "oil_evo_total_g": 50,
-      "salt_total_max_g": 2.5
+      "salt_total_max_g": 2.5,
+      "salt_addable_max_g": 0.5
     },
     {
       "date": "2026-01-21",
@@ -135,7 +107,7 @@
         "Fase E3: Taglio Acqua (3L) e Sodio",
         "Acqua: 3 L",
         "Sodio (Na) cap: <= 0.9 g (Critico: NO albumi in brick, NO salse)",
-        "Sale aggiunto: 0 g",
+        "Sale aggiunto: Vedi voce 'salt_addable_max_g'",
         "Colazione: Uova intere 3 (sostituisce albume fresco 200 g + 1 uovo)",
         "Colazione: Olio EVO 15 g",
         "Pranzo: Petto di pollo 250 g (Senza sale)",
@@ -148,7 +120,8 @@
         "Cena: Olio EVO 15 g"
       ],
       "oil_evo_total_g": 45,
-      "salt_total_max_g": 2.25
+      "salt_total_max_g": 2.25,
+      "salt_addable_max_g": 0.7
     },
     {
       "date": "2026-01-22",
@@ -158,7 +131,7 @@
         "Acqua: 0.5 - 0.8 L (STOP ore 18:00)",
         "Calorie: ~1100 kcal",
         "Sodio (Na) cap: <= 0.8-0.9 g",
-        "Sale aggiunto: 0 g",
+        "Sale aggiunto: Vedi voce 'salt_addable_max_g'",
         "Colazione: Uova intere 3 (sostituisce albume fresco 200 g + 1 uovo)",
         "Colazione: Olio EVO 15 g",
         "Pranzo: Petto di pollo 200 g",
@@ -169,7 +142,8 @@
         "Cena: Olio EVO 10 g"
       ],
       "oil_evo_total_g": 35,
-      "salt_total_max_g": 2.0
+      "salt_total_max_g": 2.0,
+      "salt_addable_max_g": 0.0
     },
     {
       "date": "2026-01-23",
@@ -182,7 +156,8 @@
         "Se > 52.4 kg: Bagno caldo o sauna leggera"
       ],
       "oil_evo_total_g": 0,
-      "salt_total_max_g": 0.0
+      "salt_total_max_g": 0.0,
+      "salt_addable_max_g": 0.0
     }
   ]
 }
