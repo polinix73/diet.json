@@ -3,9 +3,10 @@
   "days": [
     {
       "date": "2026-01-17",
-      "title": "FASE 1 - Ultimo Fibre - Pranzo Carbo - Cena Proteica - Na cap <= 1.5g",
+      "title": "FASE 1 - Ultimo Fibre - Pranzo Carbo - Cena Proteica - Na cap <= 1.5 g",
       "lines": [
         "Fase E3: FASE 1 - Ultimo giorno fibre alte",
+        "NOTE: Domani STOP totale fibre",
         "Acqua: 3-4 L",
         "Sodio (Na) cap: <= 1.5 g",
         "Sale aggiunto: Vedi voce 'salt_addable_max_g'",
@@ -19,8 +20,7 @@
         "Merenda pomeriggio: Arancia 150 g",
         "Cena: Petto di pollo 200 g (Aumentato per target proteine)",
         "Cena: Patate 300 g (lesse, senza sale)",
-        "Cena: Olio EVO 15 g",
-        "Nota: Domani STOP totale fibre"
+        "Cena: Olio EVO 15 g"
       ],
       "oil_evo_total_g": 15,
       "salt_total_max_g": 3.8,
@@ -28,7 +28,7 @@
     },
     {
       "date": "2026-01-18",
-      "title": "FASE 2 - Svuotamento - STOP FIBRE - Na cap <= 1.2g",
+      "title": "FASE 2 - Svuotamento - STOP FIBRE - Na cap <= 1.2 g",
       "lines": [
         "Fase E3: FASE 2 - Senza scorie - STOP totale verdure, frutta, integrali",
         "Acqua: 6-7 L (Carico Acqua)",
@@ -41,7 +41,7 @@
         "Pranzo: Riso bianco secco 95 g",
         "Pranzo: Petto di pollo 200 g (Necessario per target proteine)",
         "Pranzo: Olio EVO 10 g",
-        "Merenda pomeriggio: Gallette di riso 4 (circa 30g)",
+        "Merenda pomeriggio: Gallette di riso 4 (circa 30 g)",
         "Cena: Albume AIA Aequilibrum 350 g",
         "Cena: Uova intere 2",
         "Cena: Olio EVO 15 g"
@@ -52,7 +52,7 @@
     },
     {
       "date": "2026-01-19",
-      "title": "FASE 2 - Svuotamento - STOP FIBRE - Na cap <= 1.2g",
+      "title": "FASE 2 - Svuotamento - STOP FIBRE - Na cap <= 1.2 g",
       "lines": [
         "Fase E3: FASE 2 - Senza scorie",
         "Acqua: 6-7 L (Carico Acqua)",
@@ -65,7 +65,7 @@
         "Pranzo: Riso bianco secco 95 g",
         "Pranzo: Petto di pollo 200 g",
         "Pranzo: Olio EVO 10 g",
-        "Merenda pomeriggio: Gallette di riso 4 (circa 30g)",
+        "Merenda pomeriggio: Gallette di riso 4 (circa 30 g)",
         "Cena: Albume AIA Aequilibrum 350 g",
         "Cena: Uova intere 2",
         "Cena: Olio EVO 15 g"
@@ -76,7 +76,7 @@
     },
     {
       "date": "2026-01-20",
-      "title": "FASE 3 - Deplezione - Carbo 50g - Na cap <= 1.0g",
+      "title": "FASE 3 - Deplezione - Carbo 50 g - Na cap <= 1.0 g",
       "lines": [
         "Fase E3: FASE 3 - Via i Carbo - Ultima Acqua Alta",
         "Acqua: 6-7 L",
@@ -102,16 +102,16 @@
     },
     {
       "date": "2026-01-21",
-      "title": "FASE 3 - Taglio Acqua e Sodio - Na cap <= 0.9g",
+      "title": "FASE 3 - Taglio Acqua e Sodio - Na cap <= 0.9 g",
       "lines": [
-        "Fase E3: Taglio Acqua (3L) e Sodio",
+        "Fase E3: Taglio Acqua (3 L) e Sodio",
         "Acqua: 3 L",
         "Sodio (Na) cap: <= 0.9 g (Critico: NO albumi in brick, NO salse)",
         "Sale aggiunto: Vedi voce 'salt_addable_max_g'",
         "Colazione: Uova intere 3 (sostituisce albume fresco 200 g + 1 uovo)",
         "Colazione: Olio EVO 15 g",
         "Pranzo: Petto di pollo 250 g (Senza sale)",
-        "Pranzo: Gallette di riso 4 (circa 30g - unici carbo solidi)",
+        "Pranzo: Gallette di riso 4 (circa 30 g - unici carbo solidi)",
         "Pranzo: Olio EVO 15 g",
         "Merenda pomeriggio: Miele 10 g",
         "Cena: Petto di pollo 200 g",
@@ -125,12 +125,12 @@
     },
     {
       "date": "2026-01-22",
-      "title": "THE CUT - Giorno Critico - Na cap <= 0.8-0.9g",
+      "title": "THE CUT - Giorno Critico - Na cap <= 0.9 g",
       "lines": [
         "Fase E3: THE CUT - Carbo quasi zero",
-        "Acqua: 0.5 - 0.8 L (STOP ore 18:00)",
+        "Acqua: 0.5-0.8 L (STOP ore 18:00)",
         "Calorie: ~1100 kcal",
-        "Sodio (Na) cap: <= 0.8-0.9 g",
+        "Sodio (Na) cap: <= 0.9 g",
         "Sale aggiunto: Vedi voce 'salt_addable_max_g'",
         "Colazione: Uova intere 3 (sostituisce albume fresco 200 g + 1 uovo)",
         "Colazione: Olio EVO 15 g",
