@@ -3,114 +3,120 @@
     "days": [
         {
             "date": "2026-01-18",
-            "title": "1500 kcal (stima) - Taglio sodio Maria - Na cap <= 1.2 g",
+            "title": "1500 kcal - Taglio sodio Maria - Na cap <= 1.2 g",
             "lines": [
                 "Acqua: 3-4 L",
                 "Sodio (Na) cap: <= 1.2 g (Sale totale max 3.0 g)",
-                "Note: Dieta senza scorie (no verdure). Usa pane sciocco.",
+                "Note: Dieta senza scorie. Pane sciapo obbligatorio.",
                 "Colazione: Albume AIA Aequilibrum 150 g",
                 "Colazione: Uovo intero 1",
-                "Colazione: Pane di grano duro (senza sale) 40 g",
+                "Colazione: Pane di grano duro (senza sale) 50 g",
                 "Colazione: Miele 15 g",
                 "Merenda mattina: Danone Skyr fragola 150 g (senza pezzi)",
-                "Pranzo: Pasta di semola di grano duro 90 g (peso a crudo)",
-                "Pranzo: Olio EVO 8 g",
+                "Pranzo: Pasta di semola di grano duro 100 g (peso a crudo)",
+                "Pranzo: Olio EVO 10 g",
                 "Merenda pomeriggio: Esselunga Dessert proteico cioccolato 200 g",
                 "Cena: Filetti di tonno Mareblu al naturale 90 g (peso sgocciolato)",
-                "Cena: Patate 350 g (lessate o microonde, senza sale in cottura)",
-                "Check: Pesare il sale aggiunto con bilancino di precisione"
+                "Cena: Patate 350 g (lessate, senza buccia, senza sale)",
+                "Cena: Olio EVO 10 g (a crudo sulle patate)",
+                "Check: Sale max dalla saliera: ~0.7 g (un pizzico)"
             ],
-            "oil_evo_total_g": 8,
-            "sale_max_aggiungibile": 1.2
+            "oil_evo_total_g": 20,
+            "sale_max_aggiungibile": 0.7
         },
         {
             "date": "2026-01-19",
-            "title": "1500 kcal (stima) - Taglio sodio Maria - Na cap <= 1.2 g",
+            "title": "1500 kcal - Taglio sodio Maria - Na cap <= 1.2 g",
             "lines": [
                 "Acqua: 3-4 L",
                 "Sodio (Na) cap: <= 1.2 g (Sale totale max 3.0 g)",
-                "Note: Dieta senza scorie. Formaggi freschi contengono già sale.",
+                "Note: Dieta senza scorie.",
                 "Colazione: Albume AIA Aequilibrum 150 g",
                 "Colazione: Uovo intero 1",
                 "Colazione: Pane di grano duro (senza sale) 40 g",
                 "Colazione: Miele 15 g",
                 "Merenda mattina: Danone Skyr albicocca 150 g (senza pezzi)",
                 "Pranzo: Riso bianco (non integrale) 90 g (peso a crudo)",
-                "Pranzo: Olio EVO 8 g",
+                "Pranzo: Olio EVO 10 g",
                 "Merenda pomeriggio: Esselunga Dessert proteico cioccolato 200 g",
                 "Cena: Mozzarella Brimi 125 g",
-                "Cena: Patate 350 g (lessate o microonde, senza sale in cottura)",
-                "Check: Pesare il sale aggiunto con bilancino di precisione"
+                "Cena: Patate 350 g (lessate, senza buccia, senza sale)",
+                "Cena: Olio EVO 10 g",
+                "Check: Sale max dalla saliera: ~1.0 g"
             ],
-            "oil_evo_total_g": 8,
-            "sale_max_aggiungibile": 1.5
+            "oil_evo_total_g": 20,
+            "sale_max_aggiungibile": 1.0
         },
         {
             "date": "2026-01-20",
-            "title": "1500 kcal (stima) - Taglio sodio Maria - Na cap <= 1.0 g",
+            "title": "1500 kcal - Taglio sodio Maria - Na cap <= 1.0 g",
             "lines": [
                 "Acqua: 3-4 L",
                 "Sodio (Na) cap: <= 1.0 g (Sale totale max 2.5 g)",
-                "Note: Dieta senza scorie. Attenzione ai due formaggi a cena.",
+                "Note: Dieta senza scorie. Attenzione ai formaggi.",
                 "Colazione: Albume AIA Aequilibrum 120 g",
                 "Colazione: Uovo intero 1",
                 "Colazione: Pane di grano duro (senza sale) 30 g",
                 "Colazione: Miele 15 g",
                 "Merenda mattina: Danone Skyr fragola 150 g (senza pezzi)",
-                "Pranzo: Pasta di semola di grano duro 85 g (peso a crudo)",
-                "Pranzo: Olio EVO 6 g",
+                "Pranzo: Pasta di semola di grano duro 90 g (peso a crudo)",
+                "Pranzo: Olio EVO 10 g",
                 "Merenda pomeriggio: Esselunga Dessert proteico cioccolato 200 g",
                 "Cena: Philadelphia Light 60 g",
                 "Cena: Mozzarella Brimi 100 g",
-                "Cena: Patate 300 g (senza sale in cottura)",
-                "Check: Il margine per il sale aggiunto oggi è basso a causa dei formaggi"
+                "Cena: Patate 300 g (lessate, senza buccia, senza sale)",
+                "Cena: Olio EVO 10 g",
+                "Check: Sale max dalla saliera: ~0.3 g (quasi zero)"
             ],
-            "oil_evo_total_g": 6,
-            "sale_max_aggiungibile": 0.7
+            "oil_evo_total_g": 20,
+            "sale_max_aggiungibile": 0.3
         },
         {
             "date": "2026-01-21",
-            "title": "1500 kcal (stima) - Taglio sodio Maria - Na cap <= 0.8 g",
+            "title": "1500 kcal - Taglio sodio Maria - Na cap <= 0.8 g",
             "lines": [
                 "Acqua: 3-4 L",
                 "Sodio (Na) cap: <= 0.8 g (Sale totale max 2.0 g)",
-                "Note: Dieta senza scorie. Giorno più stretto per il sale.",
+                "Note: Giorno più severo. NIENTE sale aggiunto.",
                 "Colazione: Albume AIA Aequilibrum 80 g",
                 "Colazione: Uovo intero 1",
-                "Colazione: Pane di grano duro (senza sale) 20 g",
+                "Colazione: Pane di grano duro (senza sale) 30 g",
                 "Colazione: Miele 15 g",
                 "Merenda mattina: Danone Skyr fragola 150 g (senza pezzi)",
-                "Pranzo: Pasta di semola di grano duro 85 g (peso a crudo)",
-                "Pranzo: Olio EVO 4 g",
+                "Pranzo: Pasta di semola di grano duro 90 g (peso a crudo)",
+                "Pranzo: Olio EVO 10 g",
                 "Merenda pomeriggio: Esselunga Dessert proteico cioccolato 200 g",
                 "Cena: Mozzarella Brimi 100 g",
                 "Cena: Philadelphia Light 40 g",
-                "Cena: Patate 250 g (senza sale in cottura)",
+                "Cena: Patate 250 g (lessate, senza buccia, senza sale)",
                 "Extra: Gallette di riso senza sale 4 pezzi",
-                "Check: Pochissimo margine per sale aggiunto oggi"
+                "Cena: Olio EVO 10 g",
+                "Check: Sale max dalla saliera: 0 g (NON AGGIUNGERE SALE)"
             ],
-            "oil_evo_total_g": 4,
-            "sale_max_aggiungibile": 0.6
+            "oil_evo_total_g": 20,
+            "sale_max_aggiungibile": 0.0
         },
         {
             "date": "2026-01-22",
-            "title": "1500 kcal (stima) - Taglio sodio Maria - Na cap <= 0.9 g",
+            "title": "1500 kcal - Taglio sodio Maria - Na cap <= 0.9 g - NO CARBO dopo le 16:00",
             "lines": [
                 "Acqua: 3-4 L",
                 "Sodio (Na) cap: <= 0.9 g (Sale totale max 2.25 g)",
-                "Note: NO CARBO dopo le 16:00. Il pollo è naturalmente povero di sodio.",
+                "Note: NO CARBO dopo le 16:00. Aumentato pranzo e olio per calorie.",
                 "Colazione: Albume AIA Aequilibrum 100 g",
                 "Colazione: Uovo intero 1",
-                "Colazione: Pane di grano duro (senza sale) 20 g",
+                "Colazione: Pane di grano duro (senza sale) 50 g",
                 "Colazione: Miele 15 g",
                 "Merenda mattina: Danone Skyr albicocca 150 g (senza pezzi)",
-                "Pranzo: Riso bianco (non integrale) 85 g (peso a crudo)",
-                "Pranzo: Olio EVO 4 g",
-                "Cena: Petto di pollo fresco 200 g (piastra)",
-                "Check: Oggi puoi salare di più il pollo perché non ci sono formaggi o scatolame"
+                "Pranzo: Riso bianco (non integrale) 120 g (peso a crudo)",
+                "Pranzo: Olio EVO 15 g",
+                "Merenda pomeriggio: Parmigiano Reggiano 30 g (o Affettato Tacchino 50g)",
+                "Cena: Petto di pollo fresco 250 g (piastra, senza sale)",
+                "Cena: Olio EVO 10 g (a crudo sul pollo)",
+                "Check: Sale max dalla saliera: ~1.2 g (Oggi puoi salare il pollo)"
             ],
-            "oil_evo_total_g": 4,
-            "sale_max_aggiungibile": 1.6
+            "oil_evo_total_g": 25,
+            "sale_max_aggiungibile": 1.2
         }
     ]
 }
