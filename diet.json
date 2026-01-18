@@ -5,7 +5,7 @@
             "date": "2026-01-18",
             "title": "1500 kcal - Taglio sodio Maria - Na cap <= 1.2 g",
             "lines": [
-                "Acqua: 3-4 L",
+                "Acqua: 6 L (carico acqua medio-alto)",
                 "Sodio (Na) cap: <= 1.2 g (Sale totale max 3.0 g)",
                 "Note: Dieta senza scorie. Pane sciapo obbligatorio.",
                 "Colazione: Albume AIA Aequilibrum 150 g",
@@ -18,8 +18,8 @@
                 "Merenda pomeriggio: Esselunga Dessert proteico cioccolato 200 g",
                 "Cena: Filetti di tonno Mareblu al naturale 90 g (peso sgocciolato)",
                 "Cena: Patate 350 g (lessate, senza buccia, senza sale)",
-                "Cena: Olio EVO 10 g (a crudo sulle patate)",
-                "Check: Sale max dalla saliera: ~0.7 g (un pizzico)"
+                "Cena: Olio EVO 10 g",
+                "Check: Sale max dalla saliera: ~0.7 g"
             ],
             "oil_evo_total_g": 20,
             "sale_max_aggiungibile": 0.7
@@ -28,7 +28,7 @@
             "date": "2026-01-19",
             "title": "1500 kcal - Taglio sodio Maria - Na cap <= 1.2 g",
             "lines": [
-                "Acqua: 3-4 L",
+                "Acqua: 6 L (carico acqua medio-alto)",
                 "Sodio (Na) cap: <= 1.2 g (Sale totale max 3.0 g)",
                 "Note: Dieta senza scorie.",
                 "Colazione: Albume AIA Aequilibrum 150 g",
@@ -51,9 +51,9 @@
             "date": "2026-01-20",
             "title": "1500 kcal - Taglio sodio Maria - Na cap <= 1.0 g",
             "lines": [
-                "Acqua: 3-4 L",
+                "Acqua: 6 L (carico acqua medio-alto)",
                 "Sodio (Na) cap: <= 1.0 g (Sale totale max 2.5 g)",
-                "Note: Dieta senza scorie. Attenzione ai formaggi.",
+                "Note: Inserito Burro Arachidi (tolto un po' di patate/olio per compensare).",
                 "Colazione: Albume AIA Aequilibrum 120 g",
                 "Colazione: Uovo intero 1",
                 "Colazione: Pane di grano duro (senza sale) 30 g",
@@ -64,45 +64,44 @@
                 "Merenda pomeriggio: Esselunga Dessert proteico cioccolato 200 g",
                 "Cena: Philadelphia Light 60 g",
                 "Cena: Mozzarella Brimi 100 g",
-                "Cena: Patate 300 g (lessate, senza buccia, senza sale)",
-                "Cena: Olio EVO 10 g",
-                "Check: Sale max dalla saliera: ~0.3 g (quasi zero)"
+                "Cena: Patate 200 g (ridotte per far spazio all'extra)",
+                "Extra Sera: Gallette di riso senza sale 4 pezzi + Burro Arachidi Fiorentini 20 g",
+                "Check: Sale max dalla saliera: ~0.3 g"
             ],
-            "oil_evo_total_g": 20,
+            "oil_evo_total_g": 10,
             "sale_max_aggiungibile": 0.3
         },
         {
             "date": "2026-01-21",
             "title": "1500 kcal - Taglio sodio Maria - Na cap <= 0.8 g",
             "lines": [
-                "Acqua: 3-4 L",
+                "Acqua: 3-4 L (riduzione acqua)",
                 "Sodio (Na) cap: <= 0.8 g (Sale totale max 2.0 g)",
-                "Note: Giorno più severo. NIENTE sale aggiunto.",
+                "Note: Giorno severo. NIENTE sale aggiunto.",
                 "Colazione: Albume AIA Aequilibrum 80 g",
                 "Colazione: Uovo intero 1",
                 "Colazione: Pane di grano duro (senza sale) 30 g",
                 "Colazione: Miele 15 g",
                 "Merenda mattina: Danone Skyr fragola 150 g (senza pezzi)",
                 "Pranzo: Pasta di semola di grano duro 90 g (peso a crudo)",
-                "Pranzo: Olio EVO 10 g",
+                "Pranzo: Olio EVO 5 g",
                 "Merenda pomeriggio: Esselunga Dessert proteico cioccolato 200 g",
                 "Cena: Mozzarella Brimi 100 g",
                 "Cena: Philadelphia Light 40 g",
-                "Cena: Patate 250 g (lessate, senza buccia, senza sale)",
-                "Extra: Gallette di riso senza sale 4 pezzi",
-                "Cena: Olio EVO 10 g",
+                "Cena: Patate 200 g (lessate, senza buccia, senza sale)",
+                "Extra Sera: Gallette di riso senza sale 4 pezzi + Burro Arachidi Fiorentini 20 g",
                 "Check: Sale max dalla saliera: 0 g (NON AGGIUNGERE SALE)"
             ],
-            "oil_evo_total_g": 20,
+            "oil_evo_total_g": 5,
             "sale_max_aggiungibile": 0.0
         },
         {
             "date": "2026-01-22",
             "title": "1500 kcal - Taglio sodio Maria - Na cap <= 0.9 g - NO CARBO dopo le 16:00",
             "lines": [
-                "Acqua: 3-4 L",
+                "Acqua: 1-1.5 L (scarico drastico)",
                 "Sodio (Na) cap: <= 0.9 g (Sale totale max 2.25 g)",
-                "Note: NO CARBO dopo le 16:00. Aumentato pranzo e olio per calorie.",
+                "Note: NO CARBO dopo le 16:00 (quindi niente gallette/burro arachidi stasera).",
                 "Colazione: Albume AIA Aequilibrum 100 g",
                 "Colazione: Uovo intero 1",
                 "Colazione: Pane di grano duro (senza sale) 50 g",
@@ -113,7 +112,7 @@
                 "Merenda pomeriggio: Parmigiano Reggiano 30 g (o Affettato Tacchino 50g)",
                 "Cena: Petto di pollo fresco 250 g (piastra, senza sale)",
                 "Cena: Olio EVO 10 g (a crudo sul pollo)",
-                "Check: Sale max dalla saliera: ~1.2 g (Oggi puoi salare il pollo)"
+                "Check: Sale max dalla saliera: ~1.2 g"
             ],
             "oil_evo_total_g": 25,
             "sale_max_aggiungibile": 1.2
