@@ -1,163 +1,116 @@
 {
-  "timezone": "Europe/Rome",
-  "days": [
-    {
-      "date": "2026-01-17",
-      "title": "FASE 1 - Ultimo Fibre - Pranzo Carbo - Cena Proteica - Na cap <= 1.5 g",
-      "lines": [
-        "Fase E3: FASE 1 - Ultimo giorno fibre alte",
-        "Acqua: 3-4 L",
-        "Sodio (Na) cap: <= 1.5 g",
-        "Sale aggiunto: vedi salt_addable_max_g",
-        "Colazione: Albume AIA Aequilibrum 250 g",
-        "Colazione: Uovo intero 1",
-        "Colazione: Pane morbido ai 6 cereali Esselunga 50 g",
-        "Colazione: Marmellata 20 g",
-        "Merenda mattina: Danone Skyr Fragola 150 g",
-        "Pranzo: Riso basmati secco (peso a crudo) 90 g (solo carbo)",
-        "Pranzo: Mela 150 g",
-        "Merenda pomeriggio: Arancia 150 g",
-        "Cena: Petto di pollo 200 g",
-        "Cena: Patate 300 g (lesse, senza sale)",
-        "Cena: Olio EVO 15 g",
-        "Nota: domani stop totale fibre"
-      ],
-      "oil_evo_total_g": 15,
-      "salt_total_max_g": 3.8,
-      "salt_addable_max_g": 1.3
-    },
-    {
-      "date": "2026-01-18",
-      "title": "FASE 2 - Svuotamento - STOP FIBRE - Na cap <= 1.2 g",
-      "lines": [
-        "Fase E3: FASE 2 - Senza scorie - stop verdure, frutta, integrali",
-        "Acqua: 6-7 L (carico acqua)",
-        "Sodio (Na) cap: <= 1.2 g",
-        "Sale aggiunto: vedi salt_addable_max_g",
-        "Fibre: < 10 g",
-        "Colazione: Riso bianco secco 60 g",
-        "Colazione: Danone Skyr Fragola 75 g",
-        "Merenda mattina: Danone Skyr Fragola 75 g",
-        "Pranzo: Riso bianco secco 95 g",
-        "Pranzo: Petto di pollo 200 g",
-        "Pranzo: Olio EVO 10 g",
-        "Merenda pomeriggio: Gallette di riso 4 (circa 30 g)",
-        "Cena: Albume AIA Aequilibrum 350 g",
-        "Cena: Uova intere 2",
-        "Cena: Olio EVO 15 g"
-      ],
-      "oil_evo_total_g": 25,
-      "salt_total_max_g": 3.0,
-      "salt_addable_max_g": 0.7
-    },
-    {
-      "date": "2026-01-19",
-      "title": "FASE 2 - Svuotamento - STOP FIBRE - Na cap <= 1.2 g",
-      "lines": [
-        "Fase E3: FASE 2 - Senza scorie",
-        "Acqua: 6-7 L (carico acqua)",
-        "Sodio (Na) cap: <= 1.2 g",
-        "Sale aggiunto: vedi salt_addable_max_g",
-        "Fibre: < 10 g",
-        "Colazione: Riso bianco secco 60 g",
-        "Colazione: Danone Skyr Fragola 75 g",
-        "Merenda mattina: Danone Skyr Fragola 75 g",
-        "Pranzo: Riso bianco secco 95 g",
-        "Pranzo: Petto di pollo 200 g",
-        "Pranzo: Olio EVO 10 g",
-        "Merenda pomeriggio: Gallette di riso 4 (circa 30 g)",
-        "Cena: Albume AIA Aequilibrum 350 g",
-        "Cena: Uova intere 2",
-        "Cena: Olio EVO 15 g"
-      ],
-      "oil_evo_total_g": 25,
-      "salt_total_max_g": 3.0,
-      "salt_addable_max_g": 0.7
-    },
-    {
-      "date": "2026-01-20",
-      "title": "FASE 3 - Deplezione - Carbo 50 g - Na cap <= 1.0 g",
-      "lines": [
-        "Fase E3: FASE 3 - Via i carbo - ultima acqua alta",
-        "Acqua: 6-7 L",
-        "Sodio (Na) cap: <= 1.0 g",
-        "Sale aggiunto: vedi salt_addable_max_g",
-        "Fibre: 0 g",
-        "Colazione: Albume AIA Aequilibrum 200 g",
-        "Colazione: Uovo intero 1",
-        "Colazione: Olio EVO 20 g",
-        "Merenda mattina: Danone Skyr Fragola 75 g",
-        "Pranzo: Petto di pollo 200 g",
-        "Pranzo: Olio EVO 20 g",
-        "Merenda pomeriggio: Danone Skyr Fragola 75 g",
-        "Cena: Petto di pollo 150 g",
-        "Cena: Uova intere 2",
-        "Cena: Gallette di riso 4",
-        "Cena: Burro di arachidi 100% senza sale 30 g",
-        "Cena: Olio EVO 10 g"
-      ],
-      "oil_evo_total_g": 50,
-      "salt_total_max_g": 2.5,
-      "salt_addable_max_g": 0.5
-    },
-    {
-      "date": "2026-01-21",
-      "title": "FASE 3 - Taglio Acqua e Sodio - Na cap <= 0.9 g",
-      "lines": [
-        "Fase E3: Taglio acqua e sodio",
-        "Acqua: 3 L",
-        "Sodio (Na) cap: <= 0.9 g",
-        "Sale aggiunto: vedi salt_addable_max_g",
-        "Colazione: Uova intere 3",
-        "Colazione: Olio EVO 15 g",
-        "Pranzo: Petto di pollo 250 g (senza sale)",
-        "Pranzo: Gallette di riso 4 (circa 30 g)",
-        "Pranzo: Olio EVO 15 g",
-        "Merenda pomeriggio: Miele 10 g",
-        "Cena: Petto di pollo 200 g",
-        "Cena: Uova intere 2",
-        "Cena: Burro di arachidi 100% senza sale 20 g",
-        "Cena: Olio EVO 15 g"
-      ],
-      "oil_evo_total_g": 45,
-      "salt_total_max_g": 2.25,
-      "salt_addable_max_g": 0.7
-    },
-    {
-      "date": "2026-01-22",
-      "title": "THE CUT - Giorno critico - Na cap <= 0.8-0.9 g",
-      "lines": [
-        "Fase E3: THE CUT - Carbo quasi zero",
-        "Acqua: 0.5-0.8 L (stop ore 18:00)",
-        "Calorie: circa 1100 kcal",
-        "Sodio (Na) cap: <= 0.8-0.9 g",
-        "Sale aggiunto: vedi salt_addable_max_g",
-        "Colazione: Uova intere 3",
-        "Colazione: Olio EVO 15 g",
-        "Pranzo: Petto di pollo 200 g",
-        "Pranzo: Olio EVO 10 g",
-        "Merenda pomeriggio: Burro di arachidi 100% senza sale 20 g",
-        "Cena: Petto di pollo 150 g",
-        "Cena: Uovo intero 1",
-        "Cena: Olio EVO 10 g"
-      ],
-      "oil_evo_total_g": 35,
-      "salt_total_max_g": 2.0,
-      "salt_addable_max_g": 0.0
-    },
-    {
-      "date": "2026-01-23",
-      "title": "FASE 4 - PESATA",
-      "lines": [
-        "Fase E3: GAME DAY",
-        "Acqua: 0 ml",
-        "Cibo: digiuno fino alla pesata",
-        "Obiettivo: 52.0 kg",
-        "Se > 52.4 kg: bagno caldo o sauna leggera"
-      ],
-      "oil_evo_total_g": 0,
-      "salt_total_max_g": 0.0,
-      "salt_addable_max_g": 0.0
-    }
-  ]
+    "timezone": "Europe/Rome",
+    "days": [
+        {
+            "date": "2026-01-18",
+            "title": "1500 kcal (stima) - Taglio sodio Maria - Na cap <= 1.2 g",
+            "lines": [
+                "Acqua: 3-4 L",
+                "Sodio (Na) cap: <= 1.2 g (Sale totale max 3.0 g)",
+                "Note: Dieta senza scorie (no verdure). Usa pane sciocco.",
+                "Colazione: Albume AIA Aequilibrum 150 g",
+                "Colazione: Uovo intero 1",
+                "Colazione: Pane di grano duro (senza sale) 40 g",
+                "Colazione: Miele 15 g",
+                "Merenda mattina: Danone Skyr fragola 150 g (senza pezzi)",
+                "Pranzo: Pasta di semola di grano duro 90 g (peso a crudo)",
+                "Pranzo: Olio EVO 8 g",
+                "Merenda pomeriggio: Esselunga Dessert proteico cioccolato 200 g",
+                "Cena: Filetti di tonno Mareblu al naturale 90 g (peso sgocciolato)",
+                "Cena: Patate 350 g (lessate o microonde, senza sale in cottura)",
+                "Check: Pesare il sale aggiunto con bilancino di precisione"
+            ],
+            "oil_evo_total_g": 8,
+            "sale_max_aggiungibile": 1.2
+        },
+        {
+            "date": "2026-01-19",
+            "title": "1500 kcal (stima) - Taglio sodio Maria - Na cap <= 1.2 g",
+            "lines": [
+                "Acqua: 3-4 L",
+                "Sodio (Na) cap: <= 1.2 g (Sale totale max 3.0 g)",
+                "Note: Dieta senza scorie. Formaggi freschi contengono già sale.",
+                "Colazione: Albume AIA Aequilibrum 150 g",
+                "Colazione: Uovo intero 1",
+                "Colazione: Pane di grano duro (senza sale) 40 g",
+                "Colazione: Miele 15 g",
+                "Merenda mattina: Danone Skyr albicocca 150 g (senza pezzi)",
+                "Pranzo: Riso bianco (non integrale) 90 g (peso a crudo)",
+                "Pranzo: Olio EVO 8 g",
+                "Merenda pomeriggio: Esselunga Dessert proteico cioccolato 200 g",
+                "Cena: Mozzarella Brimi 125 g",
+                "Cena: Patate 350 g (lessate o microonde, senza sale in cottura)",
+                "Check: Pesare il sale aggiunto con bilancino di precisione"
+            ],
+            "oil_evo_total_g": 8,
+            "sale_max_aggiungibile": 1.5
+        },
+        {
+            "date": "2026-01-20",
+            "title": "1500 kcal (stima) - Taglio sodio Maria - Na cap <= 1.0 g",
+            "lines": [
+                "Acqua: 3-4 L",
+                "Sodio (Na) cap: <= 1.0 g (Sale totale max 2.5 g)",
+                "Note: Dieta senza scorie. Attenzione ai due formaggi a cena.",
+                "Colazione: Albume AIA Aequilibrum 120 g",
+                "Colazione: Uovo intero 1",
+                "Colazione: Pane di grano duro (senza sale) 30 g",
+                "Colazione: Miele 15 g",
+                "Merenda mattina: Danone Skyr fragola 150 g (senza pezzi)",
+                "Pranzo: Pasta di semola di grano duro 85 g (peso a crudo)",
+                "Pranzo: Olio EVO 6 g",
+                "Merenda pomeriggio: Esselunga Dessert proteico cioccolato 200 g",
+                "Cena: Philadelphia Light 60 g",
+                "Cena: Mozzarella Brimi 100 g",
+                "Cena: Patate 300 g (senza sale in cottura)",
+                "Check: Il margine per il sale aggiunto oggi è basso a causa dei formaggi"
+            ],
+            "oil_evo_total_g": 6,
+            "sale_max_aggiungibile": 0.7
+        },
+        {
+            "date": "2026-01-21",
+            "title": "1500 kcal (stima) - Taglio sodio Maria - Na cap <= 0.8 g",
+            "lines": [
+                "Acqua: 3-4 L",
+                "Sodio (Na) cap: <= 0.8 g (Sale totale max 2.0 g)",
+                "Note: Dieta senza scorie. Giorno più stretto per il sale.",
+                "Colazione: Albume AIA Aequilibrum 80 g",
+                "Colazione: Uovo intero 1",
+                "Colazione: Pane di grano duro (senza sale) 20 g",
+                "Colazione: Miele 15 g",
+                "Merenda mattina: Danone Skyr fragola 150 g (senza pezzi)",
+                "Pranzo: Pasta di semola di grano duro 85 g (peso a crudo)",
+                "Pranzo: Olio EVO 4 g",
+                "Merenda pomeriggio: Esselunga Dessert proteico cioccolato 200 g",
+                "Cena: Mozzarella Brimi 100 g",
+                "Cena: Philadelphia Light 40 g",
+                "Cena: Patate 250 g (senza sale in cottura)",
+                "Extra: Gallette di riso senza sale 4 pezzi",
+                "Check: Pochissimo margine per sale aggiunto oggi"
+            ],
+            "oil_evo_total_g": 4,
+            "sale_max_aggiungibile": 0.6
+        },
+        {
+            "date": "2026-01-22",
+            "title": "1500 kcal (stima) - Taglio sodio Maria - Na cap <= 0.9 g",
+            "lines": [
+                "Acqua: 3-4 L",
+                "Sodio (Na) cap: <= 0.9 g (Sale totale max 2.25 g)",
+                "Note: NO CARBO dopo le 16:00. Il pollo è naturalmente povero di sodio.",
+                "Colazione: Albume AIA Aequilibrum 100 g",
+                "Colazione: Uovo intero 1",
+                "Colazione: Pane di grano duro (senza sale) 20 g",
+                "Colazione: Miele 15 g",
+                "Merenda mattina: Danone Skyr albicocca 150 g (senza pezzi)",
+                "Pranzo: Riso bianco (non integrale) 85 g (peso a crudo)",
+                "Pranzo: Olio EVO 4 g",
+                "Cena: Petto di pollo fresco 200 g (piastra)",
+                "Check: Oggi puoi salare di più il pollo perché non ci sono formaggi o scatolame"
+            ],
+            "oil_evo_total_g": 4,
+            "sale_max_aggiungibile": 1.6
+        }
+    ]
 }
