@@ -30,22 +30,21 @@
             "lines": [
                 "Acqua: 6 L (carico acqua medio-alto)",
                 "Sodio (Na) cap: <= 1.2 g (Sale totale max 3.0 g)",
-                "Note: Dieta senza scorie.",
-                "Colazione: Albume AIA Aequilibrum 150 g",
-                "Colazione: Uovo intero 1",
+                "Note: Uova a colazione (olio ridotto per compensare i grassi).",
+                "Colazione: Uova intere 3 (cottura senza grassi)",
                 "Colazione: Pane di grano duro (senza sale) 40 g",
                 "Colazione: Miele 15 g",
-                "Merenda mattina: Danone Skyr albicocca 150 g (senza pezzi)",
+                "Merenda mattina: Mela 200 g (sbucciata)",
                 "Pranzo: Riso bianco (non integrale) 90 g (peso a crudo)",
-                "Pranzo: Olio EVO 10 g",
-                "Merenda pomeriggio: Esselunga Dessert proteico cioccolato 200 g",
+                "Pranzo: Olio EVO 5 g",
+                "Merenda pomeriggio: Yamamoto Ultra Whey WPC EVO 30 g (in acqua)",
                 "Cena: Mozzarella Brimi 125 g",
                 "Cena: Patate 350 g (lessate, senza buccia, senza sale)",
-                "Cena: Olio EVO 10 g",
-                "Check: Sale max dalla saliera: ~1.0 g"
+                "Cena: Olio EVO 5 g",
+                "Check: Sodio naturale alimenti ~1.0g. Sale aggiunto consentito: max 0.5 g (un pizzico)."
             ],
-            "oil_evo_total_g": 20,
-            "sale_max_aggiungibile": 1.0
+            "oil_evo_total_g": 10,
+            "sale_max_aggiungibile": 0.5
         },
         {
             "date": "2026-01-20",
@@ -53,23 +52,22 @@
             "lines": [
                 "Acqua: 6 L (carico acqua medio-alto)",
                 "Sodio (Na) cap: <= 1.0 g (Sale totale max 2.5 g)",
-                "Note: Inserito Burro Arachidi (tolto un po' di patate/olio per compensare).",
-                "Colazione: Albume AIA Aequilibrum 120 g",
-                "Colazione: Uovo intero 1",
+                "Note: Formaggi ridotti per bilanciare il sodio delle uova.",
+                "Colazione: Uova intere 3 (cottura senza grassi)",
                 "Colazione: Pane di grano duro (senza sale) 30 g",
                 "Colazione: Miele 15 g",
-                "Merenda mattina: Danone Skyr fragola 150 g (senza pezzi)",
+                "Merenda mattina: Mela 200 g (sbucciata)",
                 "Pranzo: Pasta di semola di grano duro 90 g (peso a crudo)",
-                "Pranzo: Olio EVO 10 g",
-                "Merenda pomeriggio: Esselunga Dessert proteico cioccolato 200 g",
-                "Cena: Philadelphia Light 60 g",
-                "Cena: Mozzarella Brimi 100 g",
+                "Pranzo: Olio EVO 5 g",
+                "Merenda pomeriggio: Yamamoto Ultra Whey WPC EVO 30 g (in acqua)",
+                "Cena: Mozzarella Brimi 80 g (ridotta per sodio)",
+                "Cena: Philadelphia Light 40 g (ridotta per sodio)",
                 "Cena: Patate 200 g (ridotte per far spazio all'extra)",
                 "Extra Sera: Gallette di riso senza sale 4 pezzi + Burro Arachidi Fiorentini 20 g",
-                "Check: Sale max dalla saliera: ~0.3 g"
+                "Check: Sale max dalla saliera: 0 g (Sodio naturale alimenti già al limite)."
             ],
-            "oil_evo_total_g": 10,
-            "sale_max_aggiungibile": 0.3
+            "oil_evo_total_g": 5,
+            "sale_max_aggiungibile": 0.0
         },
         {
             "date": "2026-01-21",
