@@ -99,7 +99,7 @@
             "lines": [
                 "Acqua: 1-1.5 L (scarico drastico)",
                 "Sodio (Na) cap: <= 0.9 g (Sale totale max 2.25 g)",
-                "Note: NO CARBO dopo le 16:00 (quindi niente gallette/burro arachidi stasera).",
+                "Note: NO CARBO dopo le 16:00 (Niente gallette/burro arachidi stasera).",
                 "Colazione: Albume AIA Aequilibrum 100 g",
                 "Colazione: Uovo intero 1",
                 "Colazione: Pane di grano duro (senza sale) 50 g",
@@ -107,13 +107,13 @@
                 "Merenda mattina: Danone Skyr albicocca 150 g (senza pezzi)",
                 "Pranzo: Riso bianco (non integrale) 120 g (peso a crudo)",
                 "Pranzo: Olio EVO 15 g",
-                "Merenda pomeriggio: Parmigiano Reggiano 30 g (o Affettato Tacchino 50g)",
+                "Merenda pomeriggio: Danone Skyr alla frutta 150 g (Consumare entro le 16:00)",
                 "Cena: Petto di pollo fresco 250 g (piastra, senza sale)",
                 "Cena: Olio EVO 10 g (a crudo sul pollo)",
-                "Check: Sale max dalla saliera: ~1.2 g"
+                "Check: Sale max dalla saliera: ~1.0 g (Pesare con bilancino!)"
             ],
             "oil_evo_total_g": 25,
-            "sale_max_aggiungibile": 1.2
+            "sale_max_aggiungibile": 1.0
         }
     ]
 }
