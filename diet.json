@@ -1,119 +1,357 @@
 {
-    "timezone": "Europe/Rome",
-    "days": [
-        {
-            "date": "2026-01-18",
-            "title": "1500 kcal - Taglio sodio Maria - Na cap <= 1.2 g",
-            "lines": [
-                "Acqua: 6 L (carico acqua medio-alto)",
-                "Sodio (Na) cap: <= 1.2 g (Sale totale max 3.0 g)",
-                "Note: Dieta senza scorie. Pane sciapo obbligatorio.",
-                "Colazione: Albume AIA Aequilibrum 150 g",
-                "Colazione: Uovo intero 1",
-                "Colazione: Pane di grano duro (senza sale) 50 g",
-                "Colazione: Miele 15 g",
-                "Merenda mattina: Danone Skyr fragola 150 g (senza pezzi)",
-                "Pranzo: Pasta di semola di grano duro 100 g (peso a crudo)",
-                "Pranzo: Olio EVO 10 g",
-                "Merenda pomeriggio: Esselunga Dessert proteico cioccolato 200 g",
-                "Cena: Filetti di tonno Mareblu al naturale 90 g (peso sgocciolato)",
-                "Cena: Patate 350 g (lessate, senza buccia, senza sale)",
-                "Cena: Olio EVO 10 g",
-                "Check: Sale max dalla saliera: ~0.7 g"
-            ],
-            "oil_evo_total_g": 20,
-            "sale_max_aggiungibile": 0.7
-        },
-        {
-            "date": "2026-01-19",
-            "title": "1500 kcal - Taglio sodio Maria - Na cap <= 1.2 g",
-            "lines": [
-                "Acqua: 6 L (carico acqua medio-alto)",
-                "Sodio (Na) cap: <= 1.2 g (Sale totale max 3.0 g)",
-                "Note: Uova a colazione (olio ridotto per compensare i grassi).",
-                "Colazione: Uova intere 3 (cottura senza grassi)",
-                "Colazione: Pane di grano duro (senza sale) 40 g",
-                "Colazione: Miele 15 g",
-                "Merenda mattina: Mela 200 g (sbucciata)",
-                "Pranzo: Riso bianco (non integrale) 90 g (peso a crudo)",
-                "Pranzo: Olio EVO 5 g",
-                "Merenda pomeriggio: Yamamoto Ultra Whey WPC EVO 30 g (in acqua)",
-                "Cena: Mozzarella Brimi 125 g",
-                "Cena: Patate 350 g (lessate, senza buccia, senza sale)",
-                "Cena: Olio EVO 5 g",
-                "Check: Sodio naturale alimenti ~1.0g. Sale aggiunto consentito: max 0.5 g (un pizzico)."
-            ],
-            "oil_evo_total_g": 10,
-            "sale_max_aggiungibile": 0.5
-        },
-        {
-            "date": "2026-01-20",
-            "title": "1500 kcal - Taglio sodio Maria - Na cap <= 1.0 g",
-            "lines": [
-                "Acqua: 6 L (carico acqua medio-alto)",
-                "Sodio (Na) cap: <= 1.0 g (Sale totale max 2.5 g)",
-                "Note: Formaggi ridotti per bilanciare il sodio delle uova.",
-                "Colazione: Uova intere 3 (cottura senza grassi)",
-                "Colazione: Pane di grano duro (senza sale) 30 g",
-                "Colazione: Miele 15 g",
-                "Merenda mattina: Mela 200 g (sbucciata)",
-                "Pranzo: Pasta di semola di grano duro 90 g (peso a crudo)",
-                "Pranzo: Olio EVO 5 g",
-                "Merenda pomeriggio: Yamamoto Ultra Whey WPC EVO 30 g (in acqua)",
-                "Cena: Mozzarella Brimi 80 g (ridotta per sodio)",
-                "Cena: Philadelphia Light 40 g (ridotta per sodio)",
-                "Cena: Patate 200 g (ridotte per far spazio all'extra)",
-                "Extra Sera: Gallette di riso senza sale 4 pezzi + Burro Arachidi Fiorentini 20 g",
-                "Check: Sale max dalla saliera: 0 g (Sodio naturale alimenti già al limite)."
-            ],
-            "oil_evo_total_g": 5,
-            "sale_max_aggiungibile": 0.0
-        },
-        {
-            "date": "2026-01-21",
-            "title": "1500 kcal - Taglio sodio Maria - Na cap <= 0.8 g",
-            "lines": [
-                "Acqua: 3-4 L (riduzione acqua)",
-                "Sodio (Na) cap: <= 0.8 g (Sale totale max 2.0 g)",
-                "Note: Giorno severo. NIENTE sale aggiunto.",
-                "Colazione: Albume AIA Aequilibrum 80 g",
-                "Colazione: Uovo intero 1",
-                "Colazione: Pane di grano duro (senza sale) 30 g",
-                "Colazione: Miele 15 g",
-                "Merenda mattina: Danone Skyr fragola 150 g (senza pezzi)",
-                "Pranzo: Pasta di semola di grano duro 90 g (peso a crudo)",
-                "Pranzo: Olio EVO 5 g",
-                "Merenda pomeriggio: Esselunga Dessert proteico cioccolato 200 g",
-                "Cena: Mozzarella Brimi 100 g",
-                "Cena: Philadelphia Light 40 g",
-                "Cena: Patate 200 g (lessate, senza buccia, senza sale)",
-                "Extra Sera: Gallette di riso senza sale 4 pezzi + Burro Arachidi Fiorentini 20 g",
-                "Check: Sale max dalla saliera: 0 g (NON AGGIUNGERE SALE)"
-            ],
-            "oil_evo_total_g": 5,
-            "sale_max_aggiungibile": 0.0
-        },
-        {
-            "date": "2026-01-22",
-            "title": "1500 kcal - Taglio sodio Maria - Na cap <= 0.9 g - NO CARBO dopo le 16:00",
-            "lines": [
-                "Acqua: 1-1.5 L (scarico drastico)",
-                "Sodio (Na) cap: <= 0.9 g (Sale totale max 2.25 g)",
-                "Note: NO CARBO dopo le 16:00 (Niente gallette/burro arachidi stasera).",
-                "Colazione: Albume AIA Aequilibrum 100 g",
-                "Colazione: Uovo intero 1",
-                "Colazione: Pane di grano duro (senza sale) 50 g",
-                "Colazione: Miele 15 g",
-                "Merenda mattina: Danone Skyr albicocca 150 g (senza pezzi)",
-                "Pranzo: Riso bianco (non integrale) 120 g (peso a crudo)",
-                "Pranzo: Olio EVO 15 g",
-                "Merenda pomeriggio: Danone Skyr alla frutta 150 g (Consumare entro le 16:00)",
-                "Cena: Petto di pollo fresco 250 g (piastra, senza sale)",
-                "Cena: Olio EVO 10 g (a crudo sul pollo)",
-                "Check: Sale max dalla saliera: ~1.0 g (Pesare con bilancino!)"
-            ],
-            "oil_evo_total_g": 25,
-            "sale_max_aggiungibile": 1.0
-        }
-    ]
+"timezone": "Europe/Rome",
+"days": [
+{
+"date": "2026-01-29",
+"title": "A - TKD carb ok + tonno - ~1000 kcal - macro stimati P31 C44 F25",
+"lines": [
+"Colazione: 1 uovo intero + Pane 6 cereali 30 g + marmellata 10 g",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Pasta secca 50 g (peso a crudo) + verdure 400 g + olio EVO 8 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Tonno naturale 80 g (sgocciolato) + insalata 200 g + olio EVO 8 g",
+"Extra (opzionale): 1 galletta di riso + frutta 50 g"
+],
+"oil_evo_total_g": 16,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-01-30",
+"title": "B - TKD + affettato Aequilibrium - ~990 kcal - macro stimati P32 C42 F26",
+"lines": [
+"Colazione: 1 uovo intero + Pane 6 cereali 30 g + marmellata 5 g",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Riso 40 g (peso a crudo) + verdure 400 g + olio EVO 8 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Petto di tacchino Aequilibrium 90 g + Philadelphia Light 30 g + insalata 200 g",
+"Snack: 1 galletta di riso + burro arachidi 10 g (senza sale)"
+],
+"oil_evo_total_g": 8,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-01-31",
+"title": "C - Pratico (prosciutto + aeq) - ~990 kcal - macro stimati P32 C45 F23",
+"lines": [
+"Colazione: 1 uovo intero + Pane 6 cereali 20 g + marmellata 5 g",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Patate 220 g + verdure 400 g + olio EVO 7 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Prosciutto cotto alta qualita 70 g + Petto di tacchino Aequilibrium 50 g + Philadelphia Light 30 g + insalata 200 g",
+"Extra: 2 gallette di riso"
+],
+"oil_evo_total_g": 7,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-01",
+"title": "D - Gallette + burro arachidi - ~1000 kcal - macro stimati P31 C41 F28",
+"lines": [
+"Colazione: 2 gallette di riso + burro arachidi 20 g (senza sale)",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Pasta secca 50 g (peso a crudo) + verdure 400 g + olio EVO 6 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Petto di pollo Aequilibrium 110 g + Philadelphia Light 20 g + insalata 200 g + olio EVO 7 g + frutta 50 g"
+],
+"oil_evo_total_g": 13,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-02",
+"title": "A - TKD carb ok + tonno - ~1000 kcal - macro stimati P31 C44 F25",
+"lines": [
+"Colazione: 1 uovo intero + Pane 6 cereali 30 g + marmellata 10 g",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Pasta secca 50 g (peso a crudo) + verdure 400 g + olio EVO 8 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Tonno naturale 80 g (sgocciolato) + insalata 200 g + olio EVO 8 g",
+"Extra (opzionale): 1 galletta di riso + frutta 50 g"
+],
+"oil_evo_total_g": 16,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-03",
+"title": "B - TKD + affettato Aequilibrium - ~990 kcal - macro stimati P32 C42 F26",
+"lines": [
+"Colazione: 1 uovo intero + Pane 6 cereali 30 g + marmellata 5 g",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Riso 40 g (peso a crudo) + verdure 400 g + olio EVO 8 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Petto di tacchino Aequilibrium 90 g + Philadelphia Light 30 g + insalata 200 g",
+"Snack: 1 galletta di riso + burro arachidi 10 g (senza sale)"
+],
+"oil_evo_total_g": 8,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-04",
+"title": "C - Pratico (prosciutto + aeq) - ~990 kcal - macro stimati P32 C45 F23",
+"lines": [
+"Colazione: 1 uovo intero + Pane 6 cereali 20 g + marmellata 5 g",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Patate 220 g + verdure 400 g + olio EVO 7 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Prosciutto cotto alta qualita 70 g + Petto di tacchino Aequilibrium 50 g + Philadelphia Light 30 g + insalata 200 g",
+"Extra: 2 gallette di riso"
+],
+"oil_evo_total_g": 7,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-05",
+"title": "D - Gallette + burro arachidi - ~1000 kcal - macro stimati P31 C41 F28",
+"lines": [
+"Colazione: 2 gallette di riso + burro arachidi 20 g (senza sale)",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Pasta secca 50 g (peso a crudo) + verdure 400 g + olio EVO 6 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Petto di pollo Aequilibrium 110 g + Philadelphia Light 20 g + insalata 200 g + olio EVO 7 g + frutta 50 g"
+],
+"oil_evo_total_g": 13,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-06",
+"title": "A - TKD carb ok + tonno - ~1000 kcal - macro stimati P31 C44 F25",
+"lines": [
+"Colazione: 1 uovo intero + Pane 6 cereali 30 g + marmellata 10 g",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Pasta secca 50 g (peso a crudo) + verdure 400 g + olio EVO 8 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Tonno naturale 80 g (sgocciolato) + insalata 200 g + olio EVO 8 g",
+"Extra (opzionale): 1 galletta di riso + frutta 50 g"
+],
+"oil_evo_total_g": 16,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-07",
+"title": "B - TKD + affettato Aequilibrium - ~990 kcal - macro stimati P32 C42 F26",
+"lines": [
+"Colazione: 1 uovo intero + Pane 6 cereali 30 g + marmellata 5 g",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Riso 40 g (peso a crudo) + verdure 400 g + olio EVO 8 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Petto di tacchino Aequilibrium 90 g + Philadelphia Light 30 g + insalata 200 g",
+"Snack: 1 galletta di riso + burro arachidi 10 g (senza sale)"
+],
+"oil_evo_total_g": 8,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-08",
+"title": "C - Pratico (prosciutto + aeq) - ~990 kcal - macro stimati P32 C45 F23",
+"lines": [
+"Colazione: 1 uovo intero + Pane 6 cereali 20 g + marmellata 5 g",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Patate 220 g + verdure 400 g + olio EVO 7 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Prosciutto cotto alta qualita 70 g + Petto di tacchino Aequilibrium 50 g + Philadelphia Light 30 g + insalata 200 g",
+"Extra: 2 gallette di riso"
+],
+"oil_evo_total_g": 7,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-09",
+"title": "D - Gallette + burro arachidi - ~1000 kcal - macro stimati P31 C41 F28",
+"lines": [
+"Colazione: 2 gallette di riso + burro arachidi 20 g (senza sale)",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Pasta secca 50 g (peso a crudo) + verdure 400 g + olio EVO 6 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Petto di pollo Aequilibrium 110 g + Philadelphia Light 20 g + insalata 200 g + olio EVO 7 g + frutta 50 g"
+],
+"oil_evo_total_g": 13,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-10",
+"title": "A - TKD carb ok + tonno - ~1000 kcal - macro stimati P31 C44 F25",
+"lines": [
+"Colazione: 1 uovo intero + Pane 6 cereali 30 g + marmellata 10 g",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Pasta secca 50 g (peso a crudo) + verdure 400 g + olio EVO 8 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Tonno naturale 80 g (sgocciolato) + insalata 200 g + olio EVO 8 g",
+"Extra (opzionale): 1 galletta di riso + frutta 50 g"
+],
+"oil_evo_total_g": 16,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-11",
+"title": "B - TKD + affettato Aequilibrium - ~990 kcal - macro stimati P32 C42 F26",
+"lines": [
+"Colazione: 1 uovo intero + Pane 6 cereali 30 g + marmellata 5 g",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Riso 40 g (peso a crudo) + verdure 400 g + olio EVO 8 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Petto di tacchino Aequilibrium 90 g + Philadelphia Light 30 g + insalata 200 g",
+"Snack: 1 galletta di riso + burro arachidi 10 g (senza sale)"
+],
+"oil_evo_total_g": 8,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-12",
+"title": "C - Pratico (prosciutto + aeq) - ~990 kcal - macro stimati P32 C45 F23",
+"lines": [
+"Colazione: 1 uovo intero + Pane 6 cereali 20 g + marmellata 5 g",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Patate 220 g + verdure 400 g + olio EVO 7 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Prosciutto cotto alta qualita 70 g + Petto di tacchino Aequilibrium 50 g + Philadelphia Light 30 g + insalata 200 g",
+"Extra: 2 gallette di riso"
+],
+"oil_evo_total_g": 7,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-13",
+"title": "D - Gallette + burro arachidi - ~1000 kcal - macro stimati P31 C41 F28",
+"lines": [
+"Colazione: 2 gallette di riso + burro arachidi 20 g (senza sale)",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Pasta secca 50 g (peso a crudo) + verdure 400 g + olio EVO 6 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Petto di pollo Aequilibrium 110 g + Philadelphia Light 20 g + insalata 200 g + olio EVO 7 g + frutta 50 g"
+],
+"oil_evo_total_g": 13,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-14",
+"title": "A - TKD carb ok + tonno - ~1000 kcal - macro stimati P31 C44 F25",
+"lines": [
+"Colazione: 1 uovo intero + Pane 6 cereali 30 g + marmellata 10 g",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Pasta secca 50 g (peso a crudo) + verdure 400 g + olio EVO 8 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Tonno naturale 80 g (sgocciolato) + insalata 200 g + olio EVO 8 g",
+"Extra (opzionale): 1 galletta di riso + frutta 50 g"
+],
+"oil_evo_total_g": 16,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-15",
+"title": "B - TKD + affettato Aequilibrium - ~990 kcal - macro stimati P32 C42 F26",
+"lines": [
+"Colazione: 1 uovo intero + Pane 6 cereali 30 g + marmellata 5 g",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Riso 40 g (peso a crudo) + verdure 400 g + olio EVO 8 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Petto di tacchino Aequilibrium 90 g + Philadelphia Light 30 g + insalata 200 g",
+"Snack: 1 galletta di riso + burro arachidi 10 g (senza sale)"
+],
+"oil_evo_total_g": 8,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-16",
+"title": "C - Pratico (prosciutto + aeq) - ~990 kcal - macro stimati P32 C45 F23",
+"lines": [
+"Colazione: 1 uovo intero + Pane 6 cereali 20 g + marmellata 5 g",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Patate 220 g + verdure 400 g + olio EVO 7 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Prosciutto cotto alta qualita 70 g + Petto di tacchino Aequilibrium 50 g + Philadelphia Light 30 g + insalata 200 g",
+"Extra: 2 gallette di riso"
+],
+"oil_evo_total_g": 7,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-17",
+"title": "D - Gallette + burro arachidi - ~1000 kcal - macro stimati P31 C41 F28",
+"lines": [
+"Colazione: 2 gallette di riso + burro arachidi 20 g (senza sale)",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Pasta secca 50 g (peso a crudo) + verdure 400 g + olio EVO 6 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Petto di pollo Aequilibrium 110 g + Philadelphia Light 20 g + insalata 200 g + olio EVO 7 g + frutta 50 g"
+],
+"oil_evo_total_g": 13,
+"salt_total_max_g": 0.0
+},
+{
+"date": "2026-02-18",
+"title": "A - TKD carb ok + tonno - ~1000 kcal - macro stimati P31 C44 F25",
+"lines": [
+"Colazione: 1 uovo intero + Pane 6 cereali 30 g + marmellata 10 g",
+"Colazione (integratori): Caffeina Yamamoto 1 compressa + Acetyl L-Carnitine 2 capsule",
+"Merenda mattina: Skyr 150 g",
+"Pranzo: Pasta secca 50 g (peso a crudo) + verdure 400 g + olio EVO 8 g",
+"13:30 (integratori): Te verde 3 capsule + 1 compressa vitamina",
+"17:00 (integratori): Acetyl L-Carnitine 2 capsule (16:00 se non c'e allenamento)",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 200 g",
+"Cena: Tonno naturale 80 g (sgocciolato) + insalata 200 g + olio EVO 8 g",
+"Extra (opzionale): 1 galletta di riso + frutta 50 g"
+],
+"oil_evo_total_g": 16,
+"salt_total_max_g": 0.0
+}
+]
 }
