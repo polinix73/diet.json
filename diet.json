@@ -32,6 +32,23 @@
 "salt_total_max_g": 0.0
 },
 {
+"date": "2026-02-07",
+"title": "1600 kcal (stima) - Target P110 C173 F52 - Olio EVO 15 g max - Sodio max <= 1800 mg",
+"lines": [
+"Sodio max: <= 1800 mg (sale aggiunto: 0 g)",
+"Colazione - 1 uovo intero + Albume AIA 200 g + Pane 6 cereali 40 g + Marmellata 10 g",
+"Colazione - Integrazioni: Caffeina Yamamoto 1 cps + Acetyl-L-Carnitine 2 cps",
+"Merenda mattina - Skyr 150 g",
+"Pranzo - Pasta secca 70 g (peso a crudo) + Grana 10 g + Verdure cotte semplici 400 g + Olio EVO 10 g + Arachidi sgusciate non salate 12 g + Mela 100 g",
+"Pranzo 13:30 - Integrazioni: Te verde 3 cps + Vitamina 1 cps",
+"Merenda pomeriggio - Dessert proteico Esselunga 200 g",
+"Merenda pomeriggio - Integrazione: Acetyl-L-Carnitine 2 cps (ore 17:00)",
+"Cena - Tonno naturale sgocciolato 60 g + Mozzarella 40 g + Verdure/insalata semplice 200 g + Pane di grano duro 30 g + Olio EVO 5 g + Arachidi sgusciate non salate 12 g + Mela 100 g"
+],
+"oil_evo_total_g": 15,
+"salt_total_max_g": 4.57
+},
+{
 "date": "2026-02-08",
 "title": "1600 kcal (stima) - Target P110 C173 F52 - Olio EVO 15 g max - Sodio max <= 1800 mg",
 "lines": [
