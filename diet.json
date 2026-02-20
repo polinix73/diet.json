@@ -2,286 +2,121 @@
 "timezone": "Europe/Rome",
 "days": [
 {
-"date": "2026-02-06",
-"title": "Schema D - 1600 kcal (stima tabellare: 1600) - Pasta + Grana a pranzo",
-"lines": [
-"Allenamento: TKD ore 18:00",
-"Colazione: Uovo intero 1",
-"Colazione: Albume AIA 200 g",
-"Colazione: Pane 6 cereali 50 g",
-"Colazione: Marmellata 14 g",
-"Colazione: Caffeina Yamamoto 1 compressa",
-"Colazione: Carnitina 2 capsule",
-"Merenda mattina: Skyr 150 g",
-"Pranzo (13:30): Pasta secca 100 g",
-"Pranzo (13:30): Grana 10 g",
-"Pranzo (13:30): Verdure 400 g",
-"Pranzo (13:30): Olio EVO 10 g",
-"Pranzo (13:30): Te verde 3 capsule",
-"Pranzo (13:30): Vitamina 1 compressa",
-"Merenda pomeriggio (17:00): Dessert proteico Esselunga cioccolato 200 g",
-"Merenda pomeriggio (17:00): Mela 150 g",
-"Merenda pomeriggio (17:00): Carnitina 2 capsule",
-"Cena: Petto di pollo Aequilibrium 110 g",
-"Cena: Philadelphia Light 20 g",
-"Cena: Insalata 200 g",
-"Cena: Olio EVO 8 g",
-"Cena: Pane di grano duro 48 g"
-],
-"oil_evo_total_g": 18,
-"salt_total_max_g": 0.0
-},
-{
-"date": "2026-02-07",
-"title": "1600 kcal (stima) - Olio EVO 15 g max - Sodio max <= 1800 mg",
-"lines": [
-"Equivalenza: 50 g mela = 10 g pane di grano duro (circa)",
-"Sodio max: <= 1800 mg (sale aggiunto: 0 g)",
-"Colazione - 1 uovo intero + Albume AIA 200 g + Pane 6 cereali 40 g + Marmellata 10 g",
-"Colazione - Integrazioni: Caffeina Yamamoto 1 cps + Acetyl-L-Carnitine 2 cps",
-"Merenda mattina - Skyr 150 g",
-"Pranzo - Pasta secca 70 g (peso a crudo) + Grana 10 g + Verdure cotte semplici 400 g + Olio EVO 10 g + Arachidi sgusciate non salate 12 g + Mela 100 g",
-"Pranzo 13:30 - Integrazioni: Te verde 3 cps + Vitamina 1 cps",
-"Merenda pomeriggio - Dessert proteico Esselunga 200 g",
-"Merenda pomeriggio - Integrazione: Acetyl-L-Carnitine 2 cps (ore 17:00)",
-"Cena - Tonno naturale sgocciolato 60 g + Mozzarella 40 g + Verdure/insalata semplice 200 g + Pane di grano duro 30 g + Olio EVO 5 g + Arachidi sgusciate non salate 12 g + Mela 100 g"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 4.57
-},
-{
-"date": "2026-02-08",
-"title": "1600 kcal (stima) - Olio EVO 15 g max - Sodio max <= 1800 mg",
-"lines": [
-"Equivalenza: 50 g mela = 10 g pane di grano duro (circa)",
-"Sodio max: <= 1800 mg (sale aggiunto: 0 g)",
-"Colazione - 1 uovo intero + Albume AIA 200 g + Pane 6 cereali 40 g + Marmellata 10 g",
-"Colazione - Integrazioni: Caffeina Yamamoto 1 cps + Acetyl-L-Carnitine 2 cps",
-"Merenda mattina - Skyr 150 g",
-"Pranzo - Pasta secca 70 g (peso a crudo) + Grana 10 g + Verdure cotte semplici 400 g + Olio EVO 10 g + Arachidi sgusciate non salate 13 g + Mela 100 g",
-"Pranzo 13:30 - Integrazioni: Te verde 3 cps + Vitamina 1 cps",
-"Merenda pomeriggio - Dessert proteico Esselunga 200 g",
-"Merenda pomeriggio - Integrazione: Acetyl-L-Carnitine 2 cps (ore 16:00)",
-"Cena - Prosciutto cotto alta qualita 40 g + Ricotta 60 g + Verdure/insalata semplice 200 g + Pane di grano duro 35 g + Olio EVO 5 g + Arachidi sgusciate non salate 13 g + Mela 100 g"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 4.57
-},
-{
-"date": "2026-02-09",
-"title": "1600 kcal (stima) - Olio EVO 15 g max - Sodio max <= 1800 mg",
-"lines": [
-"Equivalenza: 50 g mela = 10 g pane di grano duro (circa)",
-"Sodio max: <= 1800 mg (sale aggiunto: 0 g)",
-"Colazione - 1 uovo intero + Albume AIA 200 g + Pane 6 cereali 40 g + Marmellata 10 g",
-"Colazione - Integrazioni: Caffeina Yamamoto 1 cps + Acetyl-L-Carnitine 2 cps",
-"Merenda mattina - Skyr 150 g",
-"Pranzo - Pasta secca 65 g (peso a crudo) + Grana 10 g + Verdure cotte semplici 400 g + Olio EVO 10 g + Arachidi sgusciate non salate 13 g + Mela 100 g",
-"Pranzo 13:30 - Integrazioni: Te verde 3 cps + Vitamina 1 cps",
-"Merenda pomeriggio - Dessert proteico Esselunga 200 g",
-"Merenda pomeriggio - Integrazione: Acetyl-L-Carnitine 2 cps (ore 17:00)",
-"Cena - Petto di pollo Aequilibrium 60 g + Jocca 150 g + Verdure/insalata semplice 200 g + Pane di grano duro 20 g + Olio EVO 5 g + Arachidi sgusciate non salate 13 g + Mela 100 g"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 4.57
-},
-{
-"date": "2026-02-10",
-"title": "1600 kcal (stima) - Olio EVO 15 g max - Sodio max <= 1800 mg",
-"lines": [
-"Equivalenza: 50 g mela = 10 g pane di grano duro (circa)",
-"Sodio max: <= 1800 mg (sale aggiunto: 0 g)",
-"Colazione - 1 uovo intero + Albume AIA 200 g + Pane 6 cereali 40 g + Marmellata 10 g",
-"Colazione - Integrazioni: Caffeina Yamamoto 1 cps + Acetyl-L-Carnitine 2 cps",
-"Merenda mattina - Skyr 150 g",
-"Pranzo - Pasta secca 75 g (peso a crudo) + Grana 10 g + Verdure cotte semplici 400 g + Olio EVO 10 g + Arachidi sgusciate non salate 8 g + Mela 100 g",
-"Pranzo 13:30 - Integrazioni: Te verde 3 cps + Vitamina 1 cps",
-"Merenda pomeriggio - Dessert proteico Esselunga 200 g",
-"Merenda pomeriggio - Integrazione: Acetyl-L-Carnitine 2 cps (ore 16:00)",
-"Cena - Salmone fresco decongelato 90 g + Philadelphia Light 10 g + Verdure/insalata semplice 200 g + Pane di grano duro 30 g + Olio EVO 5 g + Arachidi sgusciate non salate 8 g + Mela 100 g"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 4.57
-},
-{
-"date": "2026-02-11",
-"title": "1600 kcal (stima) - Olio EVO 15 g max - Sodio max <= 1800 mg",
-"lines": [
-"Equivalenza: 50 g mela = 10 g pane di grano duro (circa)",
-"Sodio max: <= 1800 mg (sale aggiunto: 0 g)",
-"Colazione - 1 uovo intero + Albume AIA 200 g + Pane 6 cereali 40 g + Marmellata 10 g",
-"Colazione - Integrazioni: Caffeina Yamamoto 1 cps + Acetyl-L-Carnitine 2 cps",
-"Merenda mattina - Skyr 150 g",
-"Pranzo - Pasta secca 80 g (peso a crudo) + Grana 10 g + Verdure cotte semplici 400 g + Olio EVO 10 g + Arachidi sgusciate non salate 6 g + Mela 100 g",
-"Pranzo 13:30 - Integrazioni: Te verde 3 cps + Vitamina 1 cps",
-"Merenda pomeriggio - Dessert proteico Esselunga 200 g",
-"Merenda pomeriggio - Integrazione: Acetyl-L-Carnitine 2 cps (ore 17:00)",
-"Cena - Bastoncini Findus 120 g + Ricotta 60 g + Verdure/insalata semplice 200 g + Pane di grano duro 20 g + Olio EVO 5 g + Arachidi sgusciate non salate 6 g + Mela 100 g"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 4.57
-},
-{
-"date": "2026-02-12",
-"title": "1600 kcal (stima) - Olio EVO 15 g max - Sodio max <= 1800 mg",
-"lines": [
-"Equivalenza: 50 g mela = 10 g pane di grano duro (circa)",
-"Sodio max: <= 1800 mg (sale aggiunto: 0 g)",
-"Colazione - 1 uovo intero + Albume AIA 200 g + Pane 6 cereali 40 g + Marmellata 10 g",
-"Colazione - Integrazioni: Caffeina Yamamoto 1 cps + Acetyl-L-Carnitine 2 cps",
-"Merenda mattina - Skyr 150 g",
-"Pranzo - Pasta secca 75 g (peso a crudo) + Grana 10 g + Verdure cotte semplici 400 g + Olio EVO 10 g + Arachidi sgusciate non salate 9 g + Mela 100 g",
-"Pranzo 13:30 - Integrazioni: Te verde 3 cps + Vitamina 1 cps",
-"Merenda pomeriggio - Dessert proteico Esselunga 200 g",
-"Merenda pomeriggio - Integrazione: Acetyl-L-Carnitine 2 cps (ore 17:00)",
-"Cena - Prosciutto crudo 30 g + Mozzarella 40 g + Verdure/insalata semplice 200 g + Pane di grano duro 25 g + Olio EVO 5 g + Arachidi sgusciate non salate 9 g + Mela 100 g"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 4.57
-},
-{
-"date": "2026-02-13",
-"title": "1600 kcal (stima) - Olio EVO 15 g max - Sodio max <= 1300 mg",
-"lines": [
-"Equivalenza: 50 g mela = 10 g pane di grano duro (circa)",
-"Sodio max: <= 1300 mg (sale aggiunto: 0 g)",
-"Colazione - 1 uovo intero + Albume AIA 200 g + Pane 6 cereali 30 g + Marmellata 8 g",
-"Colazione - Integrazioni: Caffeina Yamamoto 1 cps + Acetyl-L-Carnitine 2 cps",
-"Merenda mattina - Skyr 150 g",
-"Pranzo - Pasta secca 50 g (peso a crudo) + Grana 10 g + Verdure cotte semplici 400 g + Olio EVO 10 g + Arachidi sgusciate non salate 13 g + Mela 100 g",
-"Pranzo 13:30 - Integrazioni: Te verde 3 cps + Vitamina 1 cps",
-"Merenda pomeriggio - Dessert proteico Esselunga 200 g",
-"Merenda pomeriggio - Integrazione: Acetyl-L-Carnitine 2 cps (ore 17:00)",
-"Cena - Salmone fresco decongelato 90 g + Ricotta 40 g + Verdure/insalata semplice 200 g + Pane di grano duro 50 g + Olio EVO 5 g + Arachidi sgusciate non salate 13 g + Mela 100 g"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 3.3
-},
-{
-"date": "2026-02-14",
-"title": "1600 kcal (stima) - Olio EVO 15 g max - Sodio max <= 1300 mg",
-"lines": [
-"Equivalenza: 50 g mela = 10 g pane di grano duro (circa)",
-"Sodio max: <= 1300 mg (sale aggiunto: 0 g)",
-"Colazione - 1 uovo intero + Albume AIA 200 g + Pane 6 cereali 30 g + Marmellata 8 g",
-"Colazione - Integrazioni: Caffeina Yamamoto 1 cps + Acetyl-L-Carnitine 2 cps",
-"Merenda mattina - Skyr 150 g",
-"Pranzo - Pasta secca 55 g (peso a crudo) + Grana 10 g + Verdure cotte semplici 400 g + Olio EVO 10 g + Arachidi sgusciate non salate 19 g + Mela 100 g",
-"Pranzo 13:30 - Integrazioni: Te verde 3 cps + Vitamina 1 cps",
-"Merenda pomeriggio - Dessert proteico Esselunga 200 g",
-"Merenda pomeriggio - Integrazione: Acetyl-L-Carnitine 2 cps (ore 17:00)",
-"Cena - Petto di pollo fresco 100 g + Mozzarella 40 g + Verdure/insalata semplice 200 g + Pane di grano duro 25 g + Olio EVO 5 g + Arachidi sgusciate non salate 19 g + Mela 100 g"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 3.3
-},
-{
-"date": "2026-02-15",
-"title": "1600 kcal (stima) - Olio EVO 15 g max - Sodio max <= 1300 mg",
-"lines": [
-"Equivalenza: 50 g mela = 10 g pane di grano duro (circa)",
-"Sodio max: <= 1300 mg (sale aggiunto: 0 g)",
-"Colazione - 1 uovo intero + Albume AIA 200 g + Pane 6 cereali 25 g + Marmellata 5 g",
-"Colazione - Integrazioni: Caffeina Yamamoto 1 cps + Acetyl-L-Carnitine 2 cps",
-"Merenda mattina - Skyr 150 g",
-"Pranzo - Pasta secca 55 g (peso a crudo) + Grana 10 g + Verdure cotte semplici 400 g + Olio EVO 10 g + Arachidi sgusciate non salate 21 g + Mela 100 g",
-"Pranzo 13:30 - Integrazioni: Te verde 3 cps + Vitamina 1 cps",
-"Merenda pomeriggio - Dessert proteico Esselunga 200 g",
-"Merenda pomeriggio - Integrazione: Acetyl-L-Carnitine 2 cps (ore 16:00)",
-"Cena - Petto di pollo fresco 100 g + Jocca 150 g + Verdure/insalata semplice 200 g + Pane di grano duro 20 g + Olio EVO 5 g + Arachidi sgusciate non salate 21 g + Mela 100 g"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 3.3
-},
-{
-"date": "2026-02-16",
-"title": "1600 kcal (stima) - Olio EVO 15 g max - Sodio max <= 1300 mg",
-"lines": [
-"Equivalenza: 50 g mela = 10 g pane di grano duro (circa)",
-"Sodio max: <= 1300 mg (sale aggiunto: 0 g)",
-"Colazione - 1 uovo intero + Albume AIA 200 g + Pane 6 cereali 25 g + Marmellata 5 g",
-"Colazione - Integrazioni: Caffeina Yamamoto 1 cps + Acetyl-L-Carnitine 2 cps",
-"Merenda mattina - Skyr 150 g",
-"Pranzo - Pasta secca 55 g (peso a crudo) + Grana 10 g + Verdure cotte semplici 400 g + Olio EVO 10 g + Arachidi sgusciate non salate 31 g + Mela 100 g",
-"Pranzo 13:30 - Integrazioni: Te verde 3 cps + Vitamina 1 cps",
-"Merenda pomeriggio - Dessert proteico Esselunga 200 g",
-"Merenda pomeriggio - Integrazione: Acetyl-L-Carnitine 2 cps (ore 17:00)",
-"Cena - Tonno naturale sgocciolato 60 g + Philadelphia Light 10 g + Verdure/insalata semplice 200 g + Pane di grano duro 20 g + Olio EVO 5 g + Arachidi sgusciate non salate 31 g + Mela 100 g"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 3.3
-},
-{
-"date": "2026-02-17",
-"title": "1600 kcal (stima) - Olio EVO 15 g max - Sodio max <= 1300 mg",
-"lines": [
-"Equivalenza: 50 g mela = 10 g pane di grano duro (circa)",
-"Sodio max: <= 1300 mg (sale aggiunto: 0 g)",
-"Colazione - 1 uovo intero + Albume AIA 200 g + Pane 6 cereali 15 g",
-"Colazione - Integrazioni: Caffeina Yamamoto 1 cps + Acetyl-L-Carnitine 2 cps",
-"Merenda mattina - Skyr 150 g",
-"Pranzo - Pasta secca 30 g (peso a crudo) + Grana 10 g + Verdure cotte semplici 400 g + Olio EVO 10 g + Arachidi sgusciate non salate 33 g + Mela 100 g",
-"Pranzo 13:30 - Integrazioni: Te verde 3 cps + Vitamina 1 cps",
-"Merenda pomeriggio - Dessert proteico Esselunga 200 g",
-"Merenda pomeriggio - Integrazione: Acetyl-L-Carnitine 2 cps (ore 16:00)",
-"Cena - Petto di pollo fresco 100 g + Ricotta 40 g + Verdure/insalata semplice 200 g + Pane di grano duro 25 g + Olio EVO 5 g + Arachidi sgusciate non salate 33 g + Mela 100 g"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 3.3
-},
-{
-"date": "2026-02-18",
-"title": "1600 kcal (stima) - Olio EVO 15 g max - Sodio max <= 1000 mg",
-"lines": [
-"Equivalenza: 50 g mela = 10 g pane di grano duro (circa)",
-"Sodio max: <= 1000 mg (sale aggiunto: 0 g)",
-"Colazione - 1 uovo intero + Albume AIA 200 g",
-"Colazione - Integrazioni: Caffeina Yamamoto 1 cps + Acetyl-L-Carnitine 2 cps",
-"Merenda mattina - Skyr 150 g",
-"Pranzo - Pasta secca 25 g (peso a crudo) + Grana 10 g + Verdure cotte semplici 400 g + Olio EVO 10 g + Arachidi sgusciate non salate 33 g + Mela 100 g",
-"Pranzo 13:30 - Integrazioni: Te verde 3 cps + Vitamina 1 cps",
-"Merenda pomeriggio - Dessert proteico Esselunga 200 g",
-"Merenda pomeriggio - Integrazione: Acetyl-L-Carnitine 2 cps (ore 17:00)",
-"Cena - Salmone fresco decongelato 90 g + Ricotta 40 g + Verdure/insalata semplice 200 g + Pane di grano duro 20 g + Olio EVO 5 g + Arachidi sgusciate non salate 33 g + Mela 100 g"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 2.54
-},
-{
-"date": "2026-02-19",
-"title": "1600 kcal (stima) - Olio EVO 15 g max - Sodio max <= 1000 mg",
-"lines": [
-"Equivalenza: 50 g mela = 10 g pane di grano duro (circa)",
-"Sodio max: <= 1000 mg (sale aggiunto: 0 g)",
-"Colazione - 1 uovo intero + Albume AIA 200 g",
-"Colazione - Integrazioni: Caffeina Yamamoto 1 cps + Acetyl-L-Carnitine 2 cps",
-"Merenda mattina - Skyr 150 g",
-"Pranzo - Pasta secca 20 g (peso a crudo) + Grana 10 g + Verdure cotte semplici 400 g + Olio EVO 10 g + Arachidi sgusciate non salate 40 g + Mela 100 g",
-"Pranzo 13:30 - Integrazioni: Te verde 3 cps + Vitamina 1 cps",
-"Merenda pomeriggio - Dessert proteico Esselunga 200 g",
-"Merenda pomeriggio - Integrazione: Acetyl-L-Carnitine 2 cps (ore 17:00)",
-"Cena - Petto di pollo fresco 100 g + Ricotta 40 g + Verdure/insalata semplice 200 g + Pane di grano duro 25 g + Olio EVO 5 g + Arachidi sgusciate non salate 40 g + Mela 100 g"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 2.54
-},
-{
 "date": "2026-02-20",
-"title": "1600 kcal (stima) - Olio EVO 15 g max - Sodio max <= 1000 mg",
+"title": "1200 kcal — Allenamento TKD",
 "lines": [
-"Equivalenza: 50 g mela = 10 g pane di grano duro (circa)",
-"Sodio max: <= 1000 mg (sale aggiunto: 0 g)",
-"Colazione - 1 uovo intero + Albume AIA 200 g",
-"Colazione - Integrazioni: Caffeina Yamamoto 1 cps + Acetyl-L-Carnitine 2 cps",
-"Merenda mattina - Skyr 150 g",
-"Pranzo - Pasta secca 20 g (peso a crudo) + Grana 10 g + Verdure cotte semplici 400 g + Olio EVO 10 g + Arachidi sgusciate non salate 35 g + Mela 100 g",
-"Pranzo 13:30 - Integrazioni: Te verde 3 cps + Vitamina 1 cps",
-"Merenda pomeriggio - Dessert proteico Esselunga 200 g",
-"Merenda pomeriggio - Integrazione: Acetyl-L-Carnitine 2 cps (ore 17:00)",
-"Cena - Salmone fresco decongelato 90 g + Ricotta 40 g + Verdure/insalata semplice 200 g + Pane di grano duro 20 g + Olio EVO 5 g + Arachidi sgusciate non salate 35 g + Mela 100 g"
+"Colazione: 1 uovo intero + albume 100 g (strapazzati) + burro 2 g; Pane ai cereali Esselunga 40 g.",
+"Merenda mattina: Skyr alla frutta 1 vasetto.",
+"Pranzo: Pasta secca 55 g + verdure + olio EVO 5 g.",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 1 vasetto.",
+"Cena: Mozzarella 80 g + Petto di tacchino Aequilibrium 80 g + Pane 25 g + verdure + olio EVO 5 g."
 ],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 2.54
+"oil_evo_total_g": 10,
+"salt_total_max_g": 5.0
+},
+{
+"date": "2026-02-21",
+"title": "1200 kcal — Allenamento TKD",
+"lines": [
+"Colazione: 1 uovo intero + albume 100 g (strapazzati) + burro 2 g; Pane ai cereali Esselunga 40 g.",
+"Merenda mattina: Skyr alla frutta 1 vasetto.",
+"Pranzo: Pasta secca 50 g + verdure + olio EVO 5 g; Tonno al naturale sgocciolato 80 g.",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 1 vasetto.",
+"Cena: Jocca 150 g + Pane 25 g + verdure + olio EVO 5 g."
+],
+"oil_evo_total_g": 10,
+"salt_total_max_g": 5.0
+},
+{
+"date": "2026-02-22",
+"title": "1200 kcal — Riposo",
+"lines": [
+"Colazione: 1 uovo intero + albume 100 g (strapazzati) + burro 2 g; Pane ai cereali Esselunga 40 g.",
+"Merenda mattina: Skyr alla frutta 1 vasetto.",
+"Pranzo: Pasta secca 50 g + verdure + olio EVO 5 g; Tonno al naturale sgocciolato 80 g.",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 1 vasetto.",
+"Cena: Ricotta vaccina 80 g + Pane 20 g + verdure + olio EVO 5 g."
+],
+"oil_evo_total_g": 10,
+"salt_total_max_g": 5.0
+},
+{
+"date": "2026-02-23",
+"title": "1200 kcal — Allenamento TKD",
+"lines": [
+"Colazione: 1 uovo intero + albume 100 g (strapazzati) + burro 2 g; Pane ai cereali Esselunga 40 g.",
+"Merenda mattina: Skyr alla frutta 1 vasetto.",
+"Pranzo: Pasta secca 45 g + verdure + olio EVO 5 g; Petto di pollo ai ferri 100 g.",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 1 vasetto.",
+"Cena: Mozzarella 80 g + Pane 15 g + verdure (condisci con limone/aceto, senza olio)."
+],
+"oil_evo_total_g": 5,
+"salt_total_max_g": 5.0
+},
+{
+"date": "2026-02-24",
+"title": "1200 kcal — Riposo",
+"lines": [
+"Colazione: 1 uovo intero + albume 100 g (strapazzati) + burro 2 g; Pane ai cereali Esselunga 40 g.",
+"Merenda mattina: Skyr alla frutta 1 vasetto.",
+"Pranzo: Pasta secca 45 g + verdure + olio EVO 5 g; Petto di pollo ai ferri 100 g.",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 1 vasetto.",
+"Cena: Ricotta vaccina 80 g + Pane 20 g + verdure + olio EVO 5 g."
+],
+"oil_evo_total_g": 10,
+"salt_total_max_g": 5.0
+},
+{
+"date": "2026-02-25",
+"title": "1200 kcal — Allenamento TKD",
+"lines": [
+"Colazione: 1 uovo intero + albume 100 g (strapazzati) + burro 2 g; Pane ai cereali Esselunga 40 g.",
+"Merenda mattina: Skyr alla frutta 1 vasetto.",
+"Pranzo: Pasta secca 55 g + verdure + olio EVO 5 g; Petto di tacchino ai ferri 100 g.",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 1 vasetto.",
+"Cena: Tonno al naturale sgocciolato 80 g + Pane 25 g + verdure + olio EVO 5 g."
+],
+"oil_evo_total_g": 10,
+"salt_total_max_g": 5.0
+},
+{
+"date": "2026-02-26",
+"title": "1200 kcal — Allenamento TKD",
+"lines": [
+"Colazione: 1 uovo intero + albume 100 g (strapazzati) + burro 2 g; Pane ai cereali Esselunga 40 g.",
+"Merenda mattina: Skyr alla frutta 1 vasetto.",
+"Pranzo: Pasta secca 45 g + verdure + olio EVO 5 g; Petto di pollo ai ferri 100 g.",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 1 vasetto.",
+"Cena: Salmone fresco (decongelato) 90 g + Pane 20 g + verdure (condisci con limone/aceto, senza olio)."
+],
+"oil_evo_total_g": 5,
+"salt_total_max_g": 5.0
+},
+{
+"date": "2026-02-27",
+"title": "1200 kcal — Allenamento TKD",
+"lines": [
+"Colazione: 1 uovo intero + albume 100 g (strapazzati) + burro 2 g; Pane ai cereali Esselunga 40 g.",
+"Merenda mattina: Skyr alla frutta 1 vasetto.",
+"Pranzo: Pasta secca 50 g + verdure + olio EVO 5 g; Tonno al naturale sgocciolato 80 g.",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 1 vasetto.",
+"Cena: Jocca 150 g + Pane 25 g + verdure + olio EVO 5 g."
+],
+"oil_evo_total_g": 10,
+"salt_total_max_g": 5.0
+},
+{
+"date": "2026-02-28",
+"title": "1200 kcal — Allenamento TKD",
+"lines": [
+"Colazione: 1 uovo intero + albume 100 g (strapazzati) + burro 2 g; Pane ai cereali Esselunga 40 g.",
+"Merenda mattina: Skyr alla frutta 1 vasetto.",
+"Pranzo: Pasta secca 45 g + verdure + olio EVO 5 g; Fesa di tacchino 80 g.",
+"Merenda pomeriggio: Dessert proteico Esselunga cioccolato 1 vasetto.",
+"Cena: Bastoncini Findus 100 g (forno/airfryer) + Pane 15 g + verdure (condisci con limone/aceto, senza olio)."
+],
+"oil_evo_total_g": 5,
+"salt_total_max_g": 5.0
 }
 ]
 }
