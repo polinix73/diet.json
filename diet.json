@@ -1,149 +1,58 @@
-{
-"timezone": "Europe/Rome",
-"days": [
-{
-"date": "2026-02-26",
-"title": "FASE 1 — Carico acqua & deficit (1500 kcal) | Sodio MAX 3000–4000 mg | Fibre alte",
-"lines": [
-"ACQUA: 5–6 L",
-"Colazione: uovo intero 50 g + albume AIA aeQuilibrium 150 g + burro 2 g + pane ai 6 cereali Esselunga 40 g",
-"Merenda mattina: skyr ai frutti 150 g",
-"Pranzo: pasta secca 70 g + petto di pollo (peso a crudo) 120 g + olio EVO 8 g + verdure (senza quantità)",
-"Merenda pomeriggio: dessert proteico Esselunga (cioccolato) 200 g",
-"Cena: mozzarella 120 g + petto di tacchino aeQuilibrium (affettato) 60 g + olio EVO 7 g + verdure (senza quantità)",
-"Fibre (senza pesare): verdure a volontà, minimo 2 piatti pieni tra pranzo e cena + mela 150 g",
-"SALE aggiunto massimo consigliato: 4 g (resti sotto i tetti anche contando il sodio naturale)",
-"Totali stimati: kcal ~1497 | carbo ~119 g | sodio ~1720 mg (+ sale aggiunto entro limite fase)"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 10.0
-},
-{
-"date": "2026-02-27",
-"title": "FASE 1 — Carico acqua & deficit (1200 kcal) | Sodio MAX 3000–4000 mg | Fibre alte",
-"lines": [
-"ACQUA: 5–6 L",
-"Colazione: uovo intero 50 g + albume AIA aeQuilibrium 150 g + burro 2 g + pane ai 6 cereali Esselunga 30 g",
-"Merenda mattina: skyr ai frutti 150 g",
-"Pranzo: riso (peso a crudo) 45 g + manzo magro (peso a crudo) 120 g + olio EVO 5 g + verdure (senza quantità)",
-"Merenda pomeriggio: dessert proteico Esselunga (cioccolato) 200 g",
-"Cena: ricotta 150 g + prosciutto cotto 50 g + olio EVO 5 g + verdure (senza quantità)",
-"Fibre (senza pesare): verdure a volontà, minimo 2 piatti pieni tra pranzo e cena + mela 150 g",
-"SALE aggiunto: libero/moderato per restare nel range sodio di fase (3000–4000 mg)",
-"Totali stimati: kcal ~1210 | carbo ~115 g | sodio ~1600–1900 mg (+ sale aggiunto entro range fase)"
-],
-"oil_evo_total_g": 10,
-"salt_total_max_g": 10.0
-},
-{
-"date": "2026-02-28",
-"title": "FASE 1 — Carico acqua & deficit (1200 kcal) | Sodio MAX 3000–4000 mg | Fibre alte",
-"lines": [
-"ACQUA: 5–6 L",
-"Colazione: uovo intero 50 g + albume AIA aeQuilibrium 150 g + burro 2 g + pane ai 6 cereali Esselunga 40 g",
-"Merenda mattina: skyr ai frutti 150 g",
-"Pranzo: pasta secca 50 g + petto di tacchino aeQuilibrium (affettato) 80 g + olio EVO 4 g + verdure (senza quantità)",
-"Merenda pomeriggio: dessert proteico Esselunga (cioccolato) 200 g",
-"Cena: Jocca 200 g + Philadelphia light 20 g + mozzarella 50 g + olio EVO 3 g + verdure (senza quantità)",
-"Fibre (senza pesare): verdure a volontà, minimo 2 piatti pieni tra pranzo e cena + mela 150 g",
-"SALE aggiunto: libero/moderato per restare nel range sodio di fase (3000–4000 mg) — qui attenzione perché formaggi/affettati alzano già il sodio",
-"Totali stimati: kcal ~1205 | carbo ~120 g | sodio ~2300–2700 mg (+ sale aggiunto entro range fase)"
-],
-"oil_evo_total_g": 7,
-"salt_total_max_g": 10.0
-},
-{
-"date": "2026-03-01",
-"title": "FASE 2 — Low residue (1200 kcal) | Sodio MAX 2500 mg | Fibre <10 g (idealmente 0)",
-"lines": [
-"ACQUA: 5–6 L",
-"STOP TOTALE: verdure, frutta, legumi, prodotti integrali (quindi oggi NO pane ai 6 cereali, NO skyr ai frutti, NO dessert proteico)",
-"Colazione: uova intere 2 (100 g) + riso bianco (peso a crudo) 40 g (poi ben cotto) + miele 15 g",
-"Spuntino: Jocca 150 g",
-"Pranzo: pasta secca 30 g + petto di pollo (peso a crudo) 200 g + olio EVO 5 g",
-"Cena: mozzarella 100 g + prosciutto cotto 60 g + olio EVO 4 g",
-"SALE aggiunto massimo consigliato: 1 g (per stare sotto 2500 mg anche se le etichette variano)",
-"Totali stimati: kcal ~1205 | carbo ~80 g | sodio ~1400–1700 mg (+ sale aggiunto entro limite fase)"
-],
-"oil_evo_total_g": 9,
-"salt_total_max_g": 6.25
-},
-{
-"date": "2026-03-02",
-"title": "FASE 2 — Low residue (1200 kcal) | Sodio MAX 2500 mg | Fibre <10 g (idealmente 0)",
-"lines": [
-"ACQUA: 5–6 L",
-"STOP TOTALE: verdure, frutta, legumi, prodotti integrali (quindi oggi NO pane ai 6 cereali, NO skyr ai frutti, NO dessert proteico)",
-"Colazione: uova intere 2 (100 g) + riso bianco (peso a crudo) 35 g (poi ben cotto) + miele 15 g",
-"Spuntino: ricotta 150 g",
-"Pranzo: pasta secca 30 g + petto di pollo (peso a crudo) 220 g + olio EVO 8 g",
-"Cena: Philadelphia light 50 g + petto di tacchino aeQuilibrium (affettato) 80 g + olio EVO 8 g",
-"SALE aggiunto massimo consigliato: 1 g",
-"Totali stimati: kcal ~1200 | carbo ~75 g | sodio ~1300–1600 mg (+ sale aggiunto entro limite fase)"
-],
-"oil_evo_total_g": 16,
-"salt_total_max_g": 6.25
-},
-{
-"date": "2026-03-03",
-"title": "FASE 2 — Low residue (1200 kcal) | Sodio MAX 2500 mg | Fibre <10 g (idealmente 0)",
-"lines": [
-"ACQUA: 5–6 L",
-"STOP TOTALE: verdure, frutta, legumi, prodotti integrali (quindi oggi NO pane ai 6 cereali, NO skyr ai frutti, NO dessert proteico)",
-"Colazione: uova intere 2 (100 g) + riso bianco (peso a crudo) 35 g (poi ben cotto) + miele 15 g",
-"Spuntino: Jocca 200 g",
-"Pranzo: pasta secca 25 g + petto di pollo (peso a crudo) 220 g + olio EVO 7 g",
-"Cena: mozzarella 85 g + prosciutto cotto 40 g + olio EVO 6 g",
-"SALE aggiunto massimo consigliato: 1 g",
-"Totali stimati: kcal ~1200 | carbo ~70 g | sodio ~1300–1600 mg (+ sale aggiunto entro limite fase)"
-],
-"oil_evo_total_g": 13,
-"salt_total_max_g": 6.25
-},
-{
-"date": "2026-03-04",
-"title": "FASE 3 — Deplezione glicogeno (1200 kcal) | ACQUA 6 L | Carbo MAX 50 g | Fibre 0 g | Sodio MAX 1500 mg",
-"lines": [
-"ACQUA: 6 L (ultimo giorno ad alto volume)",
-"FIBRE 0: oggi NO verdure, NO frutta, NO legumi, NO integrali",
-"Carboidrati: massimo 50 g (oggi li prendi SOLO dal riso)",
-"Colazione: uova intere 2 (100 g) + olio EVO 5 g",
-"Pranzo: riso bianco (peso a crudo) 55 g (poi ben cotto) + petto di pollo (peso a crudo) 180 g + olio EVO 12 g",
-"Cena: salmone fresco (peso a crudo) 130 g + petto di pollo (peso a crudo) 120 g + olio EVO 12 g",
-"SALE aggiunto massimo consigliato: 1 g (meglio spezie/erbe)",
-"Totali stimati: kcal ~1200 | carbo ~44 g | sodio ~400–500 mg (+ sale aggiunto entro limite fase)"
-],
-"oil_evo_total_g": 29,
-"salt_total_max_g": 3.75
-},
-{
-"date": "2026-03-05",
-"title": "FASE 3 — Taglio acqua (1200 kcal) | ACQUA 3 L | Fibre 0 g | Sodio <800 mg | Sale aggiunto 0 g",
-"lines": [
-"ACQUA: 3 L",
-"ZERO SALE aggiunto (solo sodio naturale dei cibi). Oggi NO affettati, NO formaggi, NO prodotti confezionati",
-"FIBRE 0: oggi NO verdure, NO frutta, NO legumi, NO integrali",
-"Colazione: petto di pollo (peso a crudo) 200 g + olio EVO 10 g",
-"Pranzo: salmone fresco (peso a crudo) 200 g + olio EVO 10 g",
-"Cena: petto di pollo (peso a crudo) 250 g + olio EVO 12 g",
-"Totali stimati: kcal ~1200 | carbo ~0 g | sodio ~430–500 mg (entro limite)"
-],
-"oil_evo_total_g": 32,
-"salt_total_max_g": 2.0
-},
-{
-"date": "2026-03-06",
-"title": "FASE 3 — THE CUT (pre-peso) (1200 kcal) | ACQUA 0.5–0.8 L (STOP 18:00) | Fibre 0 g | Sodio <200 mg",
-"lines": [
-"ACQUA: 0.5–0.8 L totale a sorsi. STOP acqua alle 18:00",
-"ZERO SALE. Evita anche albumi in brick e qualsiasi alimento conservato/confezionato",
-"FIBRE 0: oggi NO verdure, NO frutta, NO legumi, NO integrali",
-"Pasto 1: petto di pollo (peso a crudo) 100 g + olio EVO 45 g",
-"Pasto 2: petto di pollo (peso a crudo) 170 g + olio EVO 55 g",
-"Totali stimati: kcal ~1200 | carbo ~0 g | sodio ~150–200 mg (entro limite)"
-],
-"oil_evo_total_g": 100,
-"salt_total_max_g": 0.5
-}
+[
+  {
+    "date": "2026-03-24",
+    "title": "Circa 1808 kcal - Sodio totale max 1200 mg - Olio EVO totale 25 g - Sale max aggiungibile 1.00 g",
+    "sodium_total_max_mg": 1200,
+    "oil_evo_total_g": 25,
+    "salt_total_max_g": 1.0,
+    "lines": [
+      "Colazione: Frollini alla panna Esselunga 2 biscotti (25 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+      "Merenda mattina: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
+      "Pranzo: Pasta secca 170 g (peso secco) + sugo semplice senza sale aggiunto 120 g + grana 10 g + olio EVO 10 g + banana sbucciata 130 g.",
+      "Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
+      "Cena: Petto di tacchino fresco 190 g (peso a crudo) + pane fresco senza sale 55 g + olio EVO 15 g + verdura 200 g (peso a crudo) + mela cotta/applesauce 150 g."
+    ]
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Circa 1810 kcal - Sodio totale max 1000 mg - Olio EVO totale 25 g - Sale max aggiungibile 0.50 g",
+    "sodium_total_max_mg": 1000,
+    "oil_evo_total_g": 25,
+    "salt_total_max_g": 0.5,
+    "lines": [
+      "Colazione: Frollini alla panna Esselunga 2 biscotti (25 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+      "Merenda mattina: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
+      "Pranzo: Pasta secca 190 g (peso secco) + sugo semplice senza sale aggiunto 100 g + olio EVO 10 g + banana sbucciata 120 g.",
+      "Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
+      "Cena: Petto di pollo fresco 210 g (peso a crudo) + pane fresco senza sale 45 g + olio EVO 15 g + verdura 200 g (peso a crudo) + mela cotta/applesauce 120 g."
+    ]
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Circa 1806 kcal - Sodio totale max 800 mg - Olio EVO totale 35 g - Sale max aggiungibile 0.00 g",
+    "sodium_total_max_mg": 800,
+    "oil_evo_total_g": 35,
+    "salt_total_max_g": 0.0,
+    "lines": [
+      "Colazione: Frollini alla panna Esselunga 2 biscotti (25 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+      "Merenda mattina: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
+      "Pranzo: Pasta secca 175 g (peso secco) + sugo semplice senza sale aggiunto 80 g + olio EVO 10 g + banana sbucciata 130 g.",
+      "Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
+      "Cena: Petto di pollo fresco 220 g (peso a crudo) + pane fresco senza sale 20 g + olio EVO 25 g + verdura 200 g (peso a crudo) + mela cotta/applesauce 150 g."
+    ]
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Circa 1801 kcal - Sodio totale max 700 mg fino al peso - Olio EVO totale 40 g - Sale max aggiungibile 0.00 g",
+    "sodium_total_max_mg": 700,
+    "oil_evo_total_g": 40,
+    "salt_total_max_g": 0.0,
+    "lines": [
+      "Colazione: Frollini alla panna Esselunga 2 biscotti (25 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+      "Merenda mattina: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
+      "Pranzo: Pasta secca 180 g (peso secco) + sugo semplice senza sale aggiunto 80 g + olio EVO 10 g + banana sbucciata 130 g.",
+      "Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
+      "Cena: Petto di pollo fresco 220 g (peso a crudo) + olio EVO 30 g + verdura 150 g (peso a crudo) + mela cotta/applesauce 140 g."
+    ]
+  }
 ]
-}
